@@ -1,0 +1,2419 @@
+(Thu Feb 14 18:47:03 CET 2008)<joe6pack>RotateMe: you can open the file as 'write' or 'write/add'
+(Thu Feb 14 18:47:03 CET 2008)<RotateMe>yeah i did that
+(Thu Feb 14 18:47:16 CET 2008)<joe6pack>i think it's called w+
+(Thu Feb 14 18:47:24 CET 2008)<joe6pack>read the docs about files in java
+(Thu Feb 14 18:47:36 CET 2008)<RotateMe>uhm... i'm using PrintWriter( fileName$ ) ... dunno anything else
+(Thu Feb 14 18:47:39 CET 2008)<joe6pack>there is a way to just add to the file without overwriting 
+(Thu Feb 14 18:47:46 CET 2008)<joe6pack>read the docs
+(Thu Feb 14 18:47:58 CET 2008)<joe6pack>you have access to the internet
+(Thu Feb 14 18:47:59 CET 2008)<joe6pack>use it
+(Thu Feb 14 18:48:02 CET 2008)<RotateMe>i've looked up all constructors and methods but no such thing as w+
+(Thu Feb 14 18:48:05 CET 2008)<RotateMe>lol
+(Thu Feb 14 18:49:03 CET 2008)<joe6pack>i am sure someone at some point in known history have needed that functionality before and have implemented a sutible java class or function for it
+(Thu Feb 14 18:50:29 CET 2008)<RotateMe>(Thu Feb 14 18:47:03 CET 2008)<RotateMe>yeah i did that
+(Thu Feb 14 18:51:01 CET 2008)<syntax_tn>decide traditional square maps,hex maps
+(Thu Feb 14 18:51:11 CET 2008)<syntax_tn>yes! i'm on the right path
+(Thu Feb 14 18:51:16 CET 2008)<joe6pack>so it's done!
+(Thu Feb 14 18:51:19 CET 2008)<joe6pack>\o/
+(Thu Feb 14 18:51:25 CET 2008)<joe6pack>hex maps it is
+(Thu Feb 14 18:51:46 CET 2008)<RotateMe>isn't the time thing a little bit too ... big?
+(Thu Feb 14 18:52:06 CET 2008)<syntax_tn>the bot only takes 2 options for decide yet?
+(Thu Feb 14 18:52:13 CET 2008)<RotateMe>yeah
+(Thu Feb 14 18:52:15 CET 2008)<joe6pack>decide a square brass amulet, a tiny platinum amulet
+(Thu Feb 14 18:52:21 CET 2008)<RotateMe>I'll add more soon
+(Thu Feb 14 18:52:24 CET 2008)<syntax_tn>cool
+(Thu Feb 14 18:52:25 CET 2008)<joe6pack>ok, joe6bot
+(Thu Feb 14 18:52:36 CET 2008)<joe6pack>i will wear the brass amulet 
+(Thu Feb 14 18:52:40 CET 2008)<RotateMe>:D
+(Thu Feb 14 18:52:52 CET 2008)<RotateMe>so... do you like the format as is?
+(Thu Feb 14 18:53:11 CET 2008)<joe6pack>maybe lose the brackets 
+(Thu Feb 14 18:53:27 CET 2008)<RotateMe>decide lose,keep
+(Thu Feb 14 18:53:30 CET 2008)<RotateMe>sry
+(Thu Feb 14 18:53:33 CET 2008)<RotateMe>can't do that
+(Thu Feb 14 18:53:36 CET 2008)<joe6pack>:(
+(Thu Feb 14 18:53:49 CET 2008)<joe6pack>decide with year, without year
+(Thu Feb 14 18:54:20 CET 2008)<RotateMe>it could start the file with the current date and only print the time
+(Thu Feb 14 18:54:40 CET 2008)<RotateMe>check before a message if the date has changed, if ys, print it again
+(Thu Feb 14 18:54:55 CET 2008)<RotateMe>it doesn't log system msgs for now i think
+(Thu Feb 14 18:55:42 CET 2008)<joe6pack>ok
+(Thu Feb 14 18:55:46 CET 2008)<joe6pack>that's a good idea
++++ Start of log: Thu Feb 14 19:02:19 CET 2008 +++
+(Thu Feb 14 19:02:43 CET 2008)<RotateMe>decide i append the text now, i don't
+(Thu Feb 14 19:02:56 CET 2008)<RotateMe>well what do you know
+(Thu Feb 14 19:03:28 CET 2008)<deveah>this is weird
+(Thu Feb 14 19:03:35 CET 2008)<deveah>it has... visual themes
+(Thu Feb 14 19:11:31 CET 2008)<deveah>any recent rogues?
+(Thu Feb 14 19:11:54 CET 2008)<RotateMe>GenRogue
+(Thu Feb 14 19:12:14 CET 2008)<deveah>recent enough?
+(Thu Feb 14 19:19:43 CET 2008)<purestrain>hmm... can't i remap keys in cracks and crevices
+(Thu Feb 14 19:23:06 CET 2008)<deveah>i'm thinking of going linux
++++ Start of log: Thu Feb 14 19:33:00 CET 2008 +++
+(Thu Feb 14 19:33:39 CET 2008)<RotateMe>quote linux,<+deveah> i'll be the only linux user in Bucharest :P
+(Thu Feb 14 19:33:49 CET 2008)<RotateMe>getquote linux
+(Thu Feb 14 19:33:52 CET 2008)<RotateMe>:(
+(Thu Feb 14 19:34:18 CET 2008)<RotateMe>k quote works, getquote doesn't
++++ Start of log: Thu Feb 14 19:36:21 CET 2008 +++
+(Thu Feb 14 19:36:40 CET 2008)<RotateMe>getquote linux
+(Thu Feb 14 19:36:54 CET 2008)<RotateMe>strange
+(Thu Feb 14 19:37:00 CET 2008)<deveah>quote linux
+(Thu Feb 14 19:37:01 CET 2008)<deveah>?
+(Thu Feb 14 19:37:43 CET 2008)<RotateMe>syntax is: quote [keyword],[quote]
+(Thu Feb 14 19:37:48 CET 2008)<deveah>i'm gonna hack aliensrl
+(Thu Feb 14 19:37:59 CET 2008)<RotateMe>and: getquote [keyword]
+(Thu Feb 14 19:40:10 CET 2008)<deveah>i know! an abstract rl should kill'em all
++++ Start of log: Thu Feb 14 19:41:33 CET 2008 +++
+(Thu Feb 14 19:41:43 CET 2008)<RotateMe>getquote linux
++++ Start of log: Thu Feb 14 19:44:36 CET 2008 +++
+(Thu Feb 14 19:44:51 CET 2008)<RotateMe>getquote linux
+(Thu Feb 14 19:45:18 CET 2008)<deveah>haha
+(Thu Feb 14 19:45:24 CET 2008)<syntax_tn>deveah: if you go linux, you can have even weirder irc clients
+(Thu Feb 14 19:45:42 CET 2008)<deveah>no, xchat is the best - i've been using it for some time
+(Thu Feb 14 19:45:50 CET 2008)<syntax_tn>for example ii (irc it) a filesystem-based client
+(Thu Feb 14 19:45:52 CET 2008)<deveah>and it's free on linux
+(Thu Feb 14 19:46:09 CET 2008)<deveah>getquote free 
+(Thu Feb 14 19:46:11 CET 2008)<RotateMe>quote crack,<DaEezT> Cracks and Crevices sounds liek a porn movie
+(Thu Feb 14 19:46:21 CET 2008)<RotateMe>quote crack,<@joe6pack> Schlongs and Crevices
+(Thu Feb 14 19:46:44 CET 2008)<joe6pack>getquote crack
+(Thu Feb 14 19:46:50 CET 2008)<RotateMe>quote linux,sucks more
+(Thu Feb 14 19:47:01 CET 2008)<RotateMe>getquote linux
+(Thu Feb 14 19:47:13 CET 2008)<RotateMe>okay now back to DungeonHunter
+(Thu Feb 14 19:47:18 CET 2008)<joe6pack>quote linux,no it doesn't 
+(Thu Feb 14 19:47:26 CET 2008)<joe6pack>getquote linux
+(Thu Feb 14 19:47:43 CET 2008)<deveah>getquote *
+(Thu Feb 14 19:47:48 CET 2008)<deveah>pwnd
+(Thu Feb 14 19:47:49 CET 2008)<joe6pack>good work, RotateMe 
+(Thu Feb 14 19:48:01 CET 2008)<deveah>or getquote
+(Thu Feb 14 19:48:10 CET 2008)<RotateMe>thx, afk
+(Thu Feb 14 19:48:11 CET 2008)<deveah>getquote a
+(Thu Feb 14 19:48:42 CET 2008)<RotateMe>you should see #adom's quotefile, it would spam the channel printing everything
+(Thu Feb 14 19:48:52 CET 2008)<RotateMe>or even everything starting with [letter]
+(Thu Feb 14 20:13:49 CET 2008)<joe6pack>rgrd news
+(Thu Feb 14 20:16:03 CET 2008)<deveah>i dead.
+(Thu Feb 14 20:18:04 CET 2008)<deveah>tomorrow i'm gonna start a full-sized roguelike: ryboku/carbonmonoxide/ahu or the Savior of Ardeal
+(Thu Feb 14 20:18:08 CET 2008)<deveah>cya
+(Thu Feb 14 20:28:05 CET 2008)<syntax_tn>it'd be interesting to know the ratio of started/unfinished/abandoned roguelikes to "finished" (up to the point of fun replayability) ones. a wild guess 20:1?
+(Thu Feb 14 20:34:48 CET 2008)<RotateMe>i'd say it's less... i think the fact that most 7dRLs are fun and replayable helps to reduce this to 10:1 or even less
+(Thu Feb 14 20:35:30 CET 2008)<RotateMe>the dark figure taken into account
+(Thu Feb 14 20:35:49 CET 2008)<joe6pack>impossible to say - i think most people who start a roguelike and don't finish it don't announce it either
+(Thu Feb 14 20:43:54 CET 2008)<RotateMe>quote RL,<syntax_tn> it'd be interesting to know the ratio of started/unfinished/abandoned roguelikes to "finished" (up to the point of fun replayability) ones. a wild guess 20:1?
+(Thu Feb 14 20:44:12 CET 2008)<joe6pack>getquote RL
+(Thu Feb 14 20:44:17 CET 2008)<joe6pack>getquote rl
+(Thu Feb 14 20:44:29 CET 2008)<RotateMe>okay I'll fix this
+(Thu Feb 14 20:44:29 CET 2008)<joe6pack>case sensitive 
+(Thu Feb 14 20:44:40 CET 2008)<joe6pack>i'm fine with it being that way
+(Thu Feb 14 20:44:54 CET 2008)<joe6pack>decide case sensitive, case insensitive 
+(Thu Feb 14 20:44:59 CET 2008)<joe6pack>hah
+(Thu Feb 14 20:45:00 CET 2008)<RotateMe>see
+(Thu Feb 14 20:45:09 CET 2008)<joe6pack>you need to fix it after all 
+(Thu Feb 14 20:45:20 CET 2008)<RotateMe>damn
+(Thu Feb 14 20:45:27 CET 2008)<RotateMe>well at least i fixed one bug in DH
+(Thu Feb 14 20:45:34 CET 2008)<joe6pack>:)
+(Thu Feb 14 20:46:14 CET 2008)<syntax_tn>decide more than 10% of all started roguelikes are finished,less than 10% of all roguelikes are finished
+(Thu Feb 14 20:46:21 CET 2008)<syntax_tn>more than 20% of all started roguelikes are finished,less than 20% of all roguelikes are finished
+(Thu Feb 14 20:46:32 CET 2008)<syntax_tn>decide more than 20% of all started roguelikes are finished,less than 20% of all roguelikes are finished
+(Thu Feb 14 20:46:44 CET 2008)<syntax_tn>decide more than 15% of all started roguelikes are finished,less than 15% of all roguelikes are finished
+(Thu Feb 14 20:46:47 CET 2008)<RotateMe>pretty good estimation
+(Thu Feb 14 20:46:58 CET 2008)<syntax_tn>decide more than 15,5% of all started roguelikes are finished,less than 12,5% of all roguelikes are finished
+(Thu Feb 14 20:47:11 CET 2008)<RotateMe>heh :D
+(Thu Feb 14 20:47:15 CET 2008)<syntax_tn>:)
+(Thu Feb 14 20:47:32 CET 2008)<joe6pack>anyway you got the order wrong 
+(Thu Feb 14 20:49:22 CET 2008)<syntax_tn>maybe it would've been easier if the bot did variable expansion like: !expand "about {random(100)}% of all started roguelikes are finished"
+(Thu Feb 14 20:50:02 CET 2008)<RotateMe_afk>well you'll be the next bot dev syntax
+(Thu Feb 14 20:54:53 CET 2008)<syntax_tn>it'd be interesting to play a roguelike through an irc bot, too, but compared to playing interactive fiction on irc, a roguelike display may result in extreme flooding
+(Thu Feb 14 21:07:28 CET 2008)<dabreegster>what do y'all think about a system that lets you create interactive fiction / a roguelike interactively, eg in mid gameplay?
+(Thu Feb 14 21:07:49 CET 2008)<dabreegster>it'd work more easily for text adventures. you go north in a room with no north exit and get the option to make a new room
+(Thu Feb 14 21:07:58 CET 2008)<joe6pack>depends on how it does it
+(Thu Feb 14 21:08:18 CET 2008)<dabreegster>you slap a switch and get the option to code in a natural languageish script a reaction
+(Thu Feb 14 21:08:30 CET 2008)<dabreegster>a roguelike might be tougher
+(Thu Feb 14 21:08:49 CET 2008)<joe6pack>i think if someone wants to make their own game they will
+(Thu Feb 14 21:09:03 CET 2008)<joe6pack>that's not why they *play* a game
+(Thu Feb 14 21:09:17 CET 2008)<dabreegster>my main project is actually an engine. yeah, i know all of the criticisms about making engines and not games.
+(Thu Feb 14 21:09:35 CET 2008)<joe6pack>IF specific languages are already natural langugageish
+(Thu Feb 14 21:09:50 CET 2008)<joe6pack>hey, as long as you're having fun 
+(Thu Feb 14 21:09:54 CET 2008)<dabreegster>but once i get a few things going, I'm going to make a bunch of 7drls with interesting ideas and just not have to worry about dungeons, movement, interface, LOS, pathfinding, etc
+(Thu Feb 14 21:10:03 CET 2008)<joe6pack>it's a hobby, not a job 
+(Thu Feb 14 21:10:07 CET 2008)<dabreegster>right
+(Thu Feb 14 21:11:55 CET 2008)<joe6pack>dungeons, movement, interface, LOS,  pathfinding, etc -> a game ;)
+(Thu Feb 14 21:12:03 CET 2008)<joe6pack>what's left?
+(Thu Feb 14 21:12:54 CET 2008)<joe6pack>time
+(Thu Feb 14 21:15:37 CET 2008)<dabreegster>the content
+(Thu Feb 14 21:15:46 CET 2008)<dabreegster>i have no problem coding all of the above stuff
+(Thu Feb 14 21:16:04 CET 2008)<dabreegster>but making monsters with interesting attacks and keeping everything balanced so its not too easy but not impossible
+(Thu Feb 14 21:16:10 CET 2008)<joe6pack>meh, "content".
+(Thu Feb 14 21:16:33 CET 2008)<dabreegster>that gives me trouble. i want to encapsulate all the other stuff so i can really focus on getting the game to be "fun"
+(Thu Feb 14 21:18:47 CET 2008)<dabreegster>my favorite rl to play is crawl because its so perfectly balanced. every game is difficult for a different reason
+(Thu Feb 14 21:18:56 CET 2008)<joe6pack>mine as well 
+(Thu Feb 14 21:19:15 CET 2008)<joe6pack>i managed to get a bit better at it today
+(Thu Feb 14 21:19:27 CET 2008)<dabreegster>but martin's dungeon bash is another fun one, even though its much less complex. just because of the balance
+(Thu Feb 14 21:19:42 CET 2008)<dabreegster>i've been playing it for four years and i'm still a noob
+(Thu Feb 14 21:19:48 CET 2008)<joe6pack>haven't tried that one yet 
+(Thu Feb 14 21:19:57 CET 2008)<dabreegster>i've made it to the vault / swamp / tougher branches maybe 20x total
+(Thu Feb 14 21:20:15 CET 2008)<dabreegster>beat two branches of hell once
+(Thu Feb 14 21:20:41 CET 2008)<joe6pack>i've only got my char to level 8 or so
+(Thu Feb 14 21:20:47 CET 2008)<joe6pack>been playing for a few days
+(Thu Feb 14 21:20:52 CET 2008)<joe6pack>maybe a week
+(Thu Feb 14 21:20:52 CET 2008)<dabreegster>thats not bad at all
+(Thu Feb 14 21:20:57 CET 2008)<dabreegster>what kinda combos do you play?
+(Thu Feb 14 21:21:06 CET 2008)<joe6pack>human assassin 
+(Thu Feb 14 21:21:16 CET 2008)<dabreegster>my faves are Deep elf fire/earthers, spriggan assassin (amazing class), and troll fighters
+(Thu Feb 14 21:21:23 CET 2008)<joe6pack>before that i've tried tanger and monk
+(Thu Feb 14 21:21:25 CET 2008)<dabreegster>if you like assassins, definitely try spriggans
+(Thu Feb 14 21:21:33 CET 2008)<dabreegster>i like playing humans just to level up quickly
+(Thu Feb 14 21:21:53 CET 2008)<joe6pack>what do spriggans do again?
+(Thu Feb 14 21:22:14 CET 2008)<dabreegster>its just a race. they do a bunch of classes/roles
+(Thu Feb 14 21:22:23 CET 2008)<joe6pack>yes but what are they about
+(Thu Feb 14 21:22:30 CET 2008)<dabreegster>they move fast, pretty weak AC and HP wise, but they kick ass at stealth and stabbing and stuff
+(Thu Feb 14 21:22:31 CET 2008)<joe6pack>are they the fairies?
+(Thu Feb 14 21:22:49 CET 2008)<joe6pack>that's what i thought 
+(Thu Feb 14 21:22:50 CET 2008)<dabreegster>the docs describe em as small elf-likes
+(Thu Feb 14 21:23:11 CET 2008)<dabreegster>few things can stand a spriggan with a quick blade and high stealth
+(Thu Feb 14 21:23:19 CET 2008)<dabreegster>you never have fights. just ambushes
+(Thu Feb 14 21:23:25 CET 2008)<dabreegster>and when you do fight, you can run REALLY fast.
+(Thu Feb 14 21:23:41 CET 2008)<joe6pack>i'll give it a try 
+(Thu Feb 14 21:24:01 CET 2008)<joe6pack>shouldn't kobolds be good as assassins as well?
+(Thu Feb 14 21:24:09 CET 2008)<dabreegster>dunno. i dont think ive ever played a kobold
+(Thu Feb 14 21:24:29 CET 2008)<joe6pack>what *are* kobold supposidly good at anyway?
+(Thu Feb 14 21:24:35 CET 2008)<joe6pack>seem pretty weak
+(Thu Feb 14 21:24:38 CET 2008)<dabreegster>when i started crawl i would play naga venom mages. which was great to start with, but if you only focus on poison magic, youd be owned by dlvl 7 or so since more stuff resists poison
+(Thu Feb 14 21:24:54 CET 2008)<dabreegster>hrmm
+(Thu Feb 14 21:25:06 CET 2008)<dabreegster>they seem useless except for the fact that they gain experience as fast as humans
+(Thu Feb 14 21:25:18 CET 2008)<dabreegster>which is really awesome once you're level 10 and need thousands exp to advance
+(Thu Feb 14 21:25:41 CET 2008)<dabreegster>and while humans have average aptitude at all skills, kobolds are better at some magicks
+(Thu Feb 14 21:25:42 CET 2008)<joe6pack>but don't they have more disadvantages relative to humans? 
+(Thu Feb 14 21:25:48 CET 2008)<joe6pack>oh yea
+(Thu Feb 14 21:25:49 CET 2008)<dabreegster>you're playing the latest stone soup, right?
+(Thu Feb 14 21:25:52 CET 2008)<joe6pack>yes
+(Thu Feb 14 21:25:53 CET 2008)<dabreegster>i guess their only advantage is the magic
+(Thu Feb 14 21:25:55 CET 2008)<dabreegster>ok good
+(Thu Feb 14 21:47:57 CET 2008)<RotateMe>oh
+(Thu Feb 14 21:48:25 CET 2008)<RotateMe>TODO: add case insensitivity for quote keywords; log the stuff the bot says as well
+(Thu Feb 14 21:49:03 CET 2008)<RotateMe>and the next feature should be "commands" which lists all commands the bot understands
+(Thu Feb 14 21:49:33 CET 2008)<RotateMe>is there a way to implement stuff in the sendMessage() method or is it locked?
+(Thu Feb 14 21:51:02 CET 2008)<joe6pack>what do you mean
+(Thu Feb 14 21:51:29 CET 2008)<dabreegster>what will the channel bot do besides check rgrd?
+(Thu Feb 14 21:52:01 CET 2008)<joe6pack>dabreegster: it checks other places as well
+(Thu Feb 14 21:52:14 CET 2008)<dabreegster>cool
+(Thu Feb 14 21:52:17 CET 2008)<joe6pack>sendMessage comes from PircBot
+(Thu Feb 14 21:52:24 CET 2008)<joe6pack>news sources
+(Thu Feb 14 21:52:42 CET 2008)<joe6pack>try any of these
+(Thu Feb 14 21:52:48 CET 2008)<joe6pack>some might even work ;)
+(Thu Feb 14 21:53:20 CET 2008)<dabreegster>rgrd news
+(Thu Feb 14 21:53:26 CET 2008)<dabreegster>spiffy
+(Thu Feb 14 21:55:21 CET 2008)<RotateMe>joe6pack, the bot doesn't log it's own words
+(Thu Feb 14 21:55:59 CET 2008)<joe6pack>why not?
+(Thu Feb 14 21:56:07 CET 2008)<RotateMe>you tell me :D
+(Thu Feb 14 21:56:23 CET 2008)<joe6pack>it probably doesn't get it in onMessage
+(Thu Feb 14 21:56:30 CET 2008)<RotateMe>that's why it would be better to add the logging to the sendMessage() method than having to log it manually everytime he sends something
+(Thu Feb 14 21:56:44 CET 2008)<RotateMe>yeah maybe IRC works that way
+(Thu Feb 14 21:56:51 CET 2008)<joe6pack>yes
+(Thu Feb 14 21:56:57 CET 2008)<joe6pack>overload the sendMessage method
+(Thu Feb 14 21:57:03 CET 2008)<RotateMe>I always wondered why there isn't the slightest delay when sending messages
+(Thu Feb 14 21:57:10 CET 2008)<RotateMe>no matter what connection you have
+(Thu Feb 14 21:57:45 CET 2008)<RotateMe>probably it just adds your stuff to your own log and ignores messages from you
+(Thu Feb 14 21:57:51 CET 2008)<RotateMe>but what do i know ;)
+(Thu Feb 14 21:58:15 CET 2008)<joe6pack>RotateMe: it's not a proprety of irc in general, just of pircbot
+(Thu Feb 14 21:58:27 CET 2008)<joe6pack>anyway, 
+(Thu Feb 14 21:58:31 CET 2008)<joe6pack>to answer your question
+(Thu Feb 14 21:58:41 CET 2008)<joe6pack>just overload sendMessage
+(Thu Feb 14 21:59:25 CET 2008)<joe6pack>oh wait you can't
+(Thu Feb 14 21:59:27 CET 2008)<joe6pack>it's final
+(Thu Feb 14 21:59:36 CET 2008)<joe6pack>just declare another function then
+(Thu Feb 14 22:00:07 CET 2008)<joe6pack>poublic void writeMessage(..){
+(Thu Feb 14 22:00:24 CET 2008)<joe6pack>youstuff(); sendMessage(..);}
+(Thu Feb 14 22:00:49 CET 2008)<joe6pack>and use that function everywhere you hav eused sendMessage
+(Thu Feb 14 22:01:06 CET 2008)<joe6pack>instead of directly using sendMessage
+(Thu Feb 14 22:01:10 CET 2008)<RotateMe>yeah, i thought of something like overload, but if that's not possible than this way is the obious way to go i guess
+(Thu Feb 14 22:06:01 CET 2008)<RotateMe>k I commented the sources in joe6bot.java a bit and added a TODO and a IDEAS list (in form of comments)
+(Thu Feb 14 22:06:41 CET 2008)<RotateMe>think that's it for today... my problem is that I can't leave my computer running :(
+(Thu Feb 14 22:06:52 CET 2008)<RotateMe>it's hot and loud and in my room
+(Thu Feb 14 22:07:33 CET 2008)<RotateMe>can you set up a permanent server if the bot is ready enough
+(Thu Feb 14 22:07:38 CET 2008)<RotateMe>+?
+(Thu Feb 14 22:07:39 CET 2008)<joe6pack>just email me your version i'll run joe6bot on my pc
+(Thu Feb 14 22:07:44 CET 2008)<RotateMe>k
++++ Start of log: Fri Feb 15 15:57:33 CET 2008 +++
++++ The date has changed: 2008/02/15 +++
+(03:57:48)<RotateMe>?
++++ The date has changed: 2008/02/15 +++
+(03:57:51)<joe6pack>you don't need to touch the jars at all
++++ The date has changed: 2008/02/15 +++
+(03:57:59)<RotateMe>yeah i noticed :D
++++ The date has changed: 2008/02/15 +++
+(03:58:02)<RotateMe>changeNick
++++ The date has changed: 2008/02/15 +++
+(03:58:10)<RotateMe>but I wondered where you change the name...
++++ The date has changed: 2008/02/15 +++
+(03:58:13)<joe6pack>this.setName("joe6bot");
++++ The date has changed: 2008/02/15 +++
+(03:58:36)<RotateMe>lol
++++ The date has changed: 2008/02/15 +++
+(03:58:46)<joe6pack>(real tricky piece of code, that one)
++++ The date has changed: 2008/02/15 +++
+(03:58:53)<RotateMe>i looked through the file about 5 times
++++ The date has changed: 2008/02/15 +++
+(03:59:05)<RotateMe>and i think i even did a search for "joe6bot"..
++++ The date has changed: 2008/02/15 +++
+(03:59:07)<RotateMe>whatever
++++ The date has changed: 2008/02/15 +++
+(03:59:25)<RotateMe>quote joe6bot,<DaEezT> joe's sexbot
++++ The date has changed: 2008/02/15 +++
+(03:59:30)<joe6pack>RotateMe: you are a near infinite source of lolz
++++ The date has changed: 2008/02/15 +++
+(03:59:37)<RotateMe>getquote
++++ The date has changed: 2008/02/15 +++
+(03:59:42)<RotateMe>joe, thx
++++ The date has changed: 2008/02/15 +++
+(03:59:48)<RotateMe>wtf
++++ The date has changed: 2008/02/15 +++
+(03:59:51)<joe6pack>getquote joe6bot
+(03:59:51)<joe6bot>joe6bot(0): <DaEezT> joe's sexbot
++++ The date has changed: 2008/02/15 +++
+(03:59:54)<RotateMe>...
++++ The date has changed: 2008/02/15 +++
+(03:59:59)<RotateMe>k not my day today
++++ The date has changed: 2008/02/15 +++
+(04:00:01)<RotateMe>randomquote
++++ The date has changed: 2008/02/15 +++
+(04:00:02)<joe6pack>:)
++++ The date has changed: 2008/02/15 +++
+(04:00:06)<RotateMe>fuck
++++ The date has changed: 2008/02/15 +++
+(04:00:08)<RotateMe>:(
++++ The date has changed: 2008/02/15 +++
+(04:00:15)<RotateMe>commands
+(04:00:15)<joe6bot>Available commands:
+(04:00:15)<joe6bot>time (by joe6pack)
+(04:00:15)<joe6bot>[subject] news (by joe6pack)
+(04:00:15)<joe6bot>news sources (by joe6pack)
+(04:00:15)<joe6bot>decide [option1],[option2] (by RotateMe)
+(04:00:15)<joe6bot>quote [keyword],[quote] (by RotateMe)
+(04:00:15)<joe6bot>getquote [keyword] (by RotateMe)
+(04:00:15)<joe6bot>randomquote (by RotateMe)
++++ The date has changed: 2008/02/15 +++
+(04:00:30)<joe6pack>randomquote
++++ The date has changed: 2008/02/15 +++
+(04:00:32)<joe6pack>randomquote
++++ The date has changed: 2008/02/15 +++
+(04:00:34)<joe6pack>randomquote
++++ The date has changed: 2008/02/15 +++
+(04:00:35)<joe6pack>randomquote
++++ The date has changed: 2008/02/15 +++
+(04:00:41)<RotateMe>getquote JOE6paCk
++++ The date has changed: 2008/02/15 +++
+(04:00:56)<RotateMe>hmm that sucks
++++ The date has changed: 2008/02/15 +++
+(04:00:56)<joe6pack>getquote JOE6bot
+(04:00:56)<joe6bot>joe6bot(0): <DaEezT> joe's sexbot
++++ The date has changed: 2008/02/15 +++
+(04:01:18)<RotateMe>okay i think i should go to bed :D
++++ The date has changed: 2008/02/15 +++
+(04:01:38)<joe6pack>:)
++++ The date has changed: 2008/02/15 +++
+(04:02:02)<RotateMe>(04:01:18)<RotateMe>okay i think i should go to bed :D
++++ The date has changed: 2008/02/15 +++
+(04:02:07)<RotateMe>problem is:
++++ The date has changed: 2008/02/15 +++
+(04:02:08)<joe6pack>you can pass it down to the next guy, i think you've served your duty 
++++ The date has changed: 2008/02/15 +++
+(04:02:12)<RotateMe>+++ The date has changed: 2008/02/15 +++
++++ The date has changed: 2008/02/15 +++
+(04:02:28)<RotateMe>let me fix randomquote and this bug
++++ The date has changed: 2008/02/15 +++
+(04:02:39)<joe6pack>sure thing. it's your call
++++ The date has changed: 2008/02/15 +++
+(04:03:30)<DaEezT>you know
++++ The date has changed: 2008/02/15 +++
+(04:03:32)<konijn_nyt>thx
++++ The date has changed: 2008/02/15 +++
+(04:03:36)<DaEezT>voice is actually the worst status
++++ The date has changed: 2008/02/15 +++
+(04:03:41)<konijn_nyt>why is that ?
++++ The date has changed: 2008/02/15 +++
+(04:03:42)<DaEezT>you cannot take it away yourself
++++ The date has changed: 2008/02/15 +++
+(04:03:46)<konijn_nyt>;)
++++ The date has changed: 2008/02/15 +++
+(04:03:49)<konijn_nyt>why would you
++++ The date has changed: 2008/02/15 +++
+(04:03:50)<DaEezT>and you cannot give anything to others either
++++ The date has changed: 2008/02/15 +++
+(04:03:53)<TMCSleep>ha
++++ The date has changed: 2008/02/15 +++
+(04:03:55)<DaEezT>it's liek branding cattle
++++ The date has changed: 2008/02/15 +++
+(04:04:01)<TMCSleep>I think I should go to bed
++++ The date has changed: 2008/02/15 +++
+(04:04:05)<TMCSleep>[04:04] <TMCSleep> I think I should go to bed
++++ The date has changed: 2008/02/15 +++
+(04:04:14)<DaEezT>16:04 <@TMCSleep> [04:04] <TMCSleep> I think I should go to bed
++++ The date has changed: 2008/02/15 +++
+(04:04:35)<TMCSleep>awww
++++ The date has changed: 2008/02/15 +++
+(04:04:47)<TMCSleep>RotateMe's got a 12hour clock
++++ The date has changed: 2008/02/15 +++
+(04:06:15)<TMCSleep>well you can always hop
++++ The date has changed: 2008/02/15 +++
+(04:06:43)<DaEezT>is hop on irssi server hop or channel hop?
++++ The date has changed: 2008/02/15 +++
+(04:06:50)<DaEezT>16:06 -!- Irssi: Unknown command: hop
++++ Start of log: Fri Feb 15 16:15:48 CET 2008 +++
++++ The date has changed: 2008/02/15 +++
+(04:16:03)<RotateMe>bla
++++ The date has changed: 2008/02/15 +++
+(04:16:05)<RotateMe>bla
++++ The date has changed: 2008/02/15 +++
+(04:16:09)<RotateMe>randomquote
++++ The date has changed: 2008/02/15 +++
+(04:16:12)<RotateMe>fuck
++++ The date has changed: 2008/02/15 +++
+(04:16:24)<mario_rl>if you want to compare instances, use ==...  if you want to compare the "semantic value" of two objects, use .equals
++++ The date has changed: 2008/02/15 +++
+(04:16:27)<mario_rl>as simple as that :)
++++ The date has changed: 2008/02/15 +++
+(04:16:53)<RotateMe>yeah well i'd say strings should be instances but what do i know
++++ The date has changed: 2008/02/15 +++
+(04:17:03)<RotateMe>well both fixes don't work so ...
++++ Start of log: Fri Feb 15 16:23:04 CET 2008 +++
++++ The date has changed: 2008/02/15 +++
+(04:23:56)<RotateMe>i changed to ultra edit 32 but i'll get eclipse
++++ The date has changed: 2008/02/15 +++
+(04:24:03)<RotateMe>test
++++ The date has changed: 2008/02/15 +++
+(04:24:05)<RotateMe>randomquote
++++ The date has changed: 2008/02/15 +++
+(04:24:15)<joe6pack>RotateMe: you can also test it in #joetest
++++ The date has changed: 2008/02/15 +++
+(04:24:42)<joe6pack>just /join #joetest
++++ The date has changed: 2008/02/15 +++
+(04:25:13)<konijn_nyt>eh
++++ The date has changed: 2008/02/15 +++
+(04:25:16)<konijn_nyt>I like him testing
++++ The date has changed: 2008/02/15 +++
+(04:25:21)<konijn_nyt>it brings life ;)
++++ The date has changed: 2008/02/15 +++
+(04:25:31)<joe6pack>time
+(04:25:31)<joe6bot>joe6pack: The time is now Fri Feb 15 16:25:31 CET 2008
++++ The date has changed: 2008/02/15 +++
+(04:25:37)<joe6pack>commands
+(04:25:37)<joe6bot>Available commands:
+(04:25:37)<joe6bot>time (by joe6pack)
+(04:25:37)<joe6bot>[subject] news (by joe6pack)
+(04:25:37)<joe6bot>news sources (by joe6pack)
+(04:25:37)<joe6bot>decide [option1],[option2] (by RotateMe)
+(04:25:37)<joe6bot>quote [keyword],[quote] (by RotateMe)
+(04:25:37)<joe6bot>getquote [keyword] (by RotateMe)
+(04:25:37)<joe6bot>randomquote (by RotateMe)
++++ The date has changed: 2008/02/15 +++
+(04:25:49)<joe6pack>randomquote
++++ The date has changed: 2008/02/15 +++
+(04:25:56)<joe6pack>randomquote
++++ The date has changed: 2008/02/15 +++
+(04:25:58)<joe6pack>randomquote 
++++ The date has changed: 2008/02/15 +++
+(04:26:03)<joe6pack>random quote 
++++ The date has changed: 2008/02/15 +++
+(04:26:05)<RotateMe>what exactly is the difference between "2008/02/15" and "2008/02/15"?
++++ The date has changed: 2008/02/15 +++
+(04:26:32)<joe6pack>what do you mean by "difference"? 
++++ The date has changed: 2008/02/15 +++
+(04:26:36)<RotateMe>		Date thisDate = new Date();		String myDateString = myDateFormat.format(thisDate);		String curDateString = myDateFormat.format(curDate);		if (myDateString.equals(curDateString)) {
++++ The date has changed: 2008/02/15 +++
+(04:26:53)<joe6pack>I don't know
++++ The date has changed: 2008/02/15 +++
+(04:28:03)<joe6pack>try system.out.println-ing them
++++ The date has changed: 2008/02/15 +++
+(04:28:28)<RotateMe>yeah that's what i did they are equal :(
++++ The date has changed: 2008/02/15 +++
+(04:28:38)<joe6pack>maybe there's white space somewhere 
++++ The date has changed: 2008/02/15 +++
+(04:28:51)<RotateMe>k
++++ The date has changed: 2008/02/15 +++
+(04:28:59)<RotateMe>randomquote
++++ The date has changed: 2008/02/15 +++
+(04:29:33)<RotateMe>...does a nullpointer exception
++++ Start of log: Fri Feb 15 16:39:03 CET 2008 +++
++++ The date has changed: 2008/02/15 +++
+(04:39:19)<RotateMe>hi joe!!
++++ The date has changed: 2008/02/15 +++
+(04:40:56)<RotateMe>randomquote
++++ Start of log: Fri Feb 15 16:46:40 CET 2008 +++
++++ The date has changed: 2008/02/15 +++
+(04:46:59)<RotateMe>randomquote
+(04:46:59)<joe6bot>RotateMe: The time is now Fri Feb 15 16:46:59 CET 2008
++++ Start of log: Fri Feb 15 16:48:31 CET 2008 +++
++++ The date has changed: 2008/02/15 +++
+(04:48:45)<RotateMe>randomquote
+(04:48:45)<joe6bot>RotateMe: The time is now Fri Feb 15 16:48:45 CET 2008
++++ The date has changed: 2008/02/15 +++
+(04:49:02)<RotateMe>jk
+(04:49:02)<joe6bot>RotateMe: The time is now Fri Feb 15 16:49:02 CET 2008
++++ The date has changed: 2008/02/15 +++
+(04:49:05)<RotateMe>asdlkfj
+(04:49:05)<joe6bot>RotateMe: The time is now Fri Feb 15 16:49:05 CET 2008
++++ Start of log: Fri Feb 15 16:49:57 CET 2008 +++
+(04:50:21)<RotateMe>bot you suck
+(04:50:37)<RotateMe>so do i
+(04:50:52)<RotateMe>randomquote
++++ Start of log: Fri Feb 15 16:54:46 CET 2008 +++
+(04:54:59)<RotateMe>randomquote
++++ Start of log: Fri Feb 15 16:59:04 CET 2008 +++
+(04:59:14)<RotateMe>randomquote
+(04:59:14)<joe6bot>rack]: <DaEezT> Cracks and Crevices sounds liek a porn movie
+(04:59:21)<RotateMe>yes you bitch
+(04:59:23)<RotateMe>that's it
++++ Start of log: Fri Feb 15 17:00:43 CET 2008 +++
+(05:00:54)<RotateMe>randomquote
+(05:01:10)<RotateMe>randomquote
+(05:01:10)<joe6bot>linux: sucks more
+(05:01:13)<RotateMe>randomquote
+(05:01:16)<RotateMe>randomquote
+(05:01:16)<joe6bot>joe6bot: <DaEezT> joe's sexbot
+(05:01:17)<RotateMe>randomquote
+(05:01:17)<joe6bot>crack: <DaEezT> Cracks and Crevices sounds liek a porn movie
+(05:01:19)<RotateMe>randomquote
+(05:01:19)<joe6bot>crack: <@joe6pack> Schlongs and Crevices
+(05:01:20)<RotateMe>randomquote
+(05:01:21)<RotateMe>randomquote
+(05:01:23)<RotateMe>randomquote
+(05:01:26)<RotateMe>randomquote
+(05:01:27)<RotateMe>randomquote
+(05:01:27)<joe6bot>joe6bot: <DaEezT> joe's sexbot
+(05:01:30)<RotateMe>randomquote
+(05:01:30)<joe6bot>crack: <@joe6pack> Schlongs and Crevices
+(05:01:31)<RotateMe>randomquote
+(05:01:31)<joe6bot>joe6bot: <DaEezT> joe's sexbot
+(05:01:32)<RotateMe>randomquote
+(05:01:32)<joe6bot>joe6bot: <DaEezT> joe's sexbot
+(05:01:33)<RotateMe>randomquote
+(05:01:33)<joe6bot>crack: <DaEezT> Cracks and Crevices sounds liek a porn movie
+(05:01:34)<RotateMe>randomquote
+(05:01:34)<joe6bot>joe6bot: <DaEezT> joe's sexbot
+(05:01:35)<RotateMe>randomquote
+(05:01:35)<joe6bot>linux: no it doesn't 
+(05:01:36)<RotateMe>randomquote
+(05:01:36)<joe6bot>joe6bot: <DaEezT> joe's sexbot
+(05:01:37)<RotateMe>randomquote
+(05:01:37)<joe6bot>linux: no it doesn't 
+(05:01:38)<RotateMe>randomquote
+(05:01:38)<joe6bot>joe6bot: <DaEezT> joe's sexbot
+(05:01:42)<RotateMe>randomquote
+(05:01:42)<joe6bot>RL: <syntax_tn> it'd be interesting to know the ratio of started/unfinished/abandoned roguelikes to "finished" (up to the point of fun replayability) ones. a wild guess 20:1?
+(05:01:43)<RotateMe>randomquote
+(05:01:45)<RotateMe>randomquote
+(05:01:45)<joe6bot>crack: <DaEezT> Cracks and Crevices sounds liek a porn movie
+(05:01:47)<RotateMe>randomquote
+(05:01:47)<joe6bot>linux: sucks more
+(05:01:49)<RotateMe>randomquote
+(05:01:49)<joe6bot>RL: <syntax_tn> it'd be interesting to know the ratio of started/unfinished/abandoned roguelikes to "finished" (up to the point of fun replayability) ones. a wild guess 20:1?
+(05:01:52)<RotateMe>randomquote
+(05:01:52)<joe6bot>linux: no it doesn't 
+(05:01:54)<RotateMe>randomquote
+(05:01:54)<joe6bot>crack: <@joe6pack> Schlongs and Crevices
+(05:01:55)<RotateMe>randomquote
+(05:01:55)<joe6bot>linux: sucks more
+(05:01:56)<RotateMe>randomquote
+(05:01:56)<joe6bot>linux: sucks more
+(05:01:59)<RotateMe>randomquote
+(05:01:59)<joe6bot>crack: <@joe6pack> Schlongs and Crevices
+(05:02:02)<RotateMe>randomquote
+(05:02:02)<joe6bot>joe6bot: <DaEezT> joe's sexbot
+(05:02:03)<RotateMe>randomquote
+(05:02:03)<joe6bot>joe6bot: <DaEezT> joe's sexbot
+(05:02:05)<RotateMe>randomquote
+(05:02:05)<joe6bot>RL: <syntax_tn> it'd be interesting to know the ratio of started/unfinished/abandoned roguelikes to "finished" (up to the point of fun replayability) ones. a wild guess 20:1?
+(05:02:07)<RotateMe>randomquote
+(05:02:07)<joe6bot>joe6bot: <DaEezT> joe's sexbot
+(05:02:09)<RotateMe>randomquote
+(05:02:09)<joe6bot>RL: <syntax_tn> it'd be interesting to know the ratio of started/unfinished/abandoned roguelikes to "finished" (up to the point of fun replayability) ones. a wild guess 20:1?
+(05:02:10)<RotateMe>randomquote
+(05:02:10)<joe6bot>linux: no it doesn't 
+(05:02:13)<RotateMe>randomquote
+(05:02:13)<joe6bot>RL: <syntax_tn> it'd be interesting to know the ratio of started/unfinished/abandoned roguelikes to "finished" (up to the point of fun replayability) ones. a wild guess 20:1?
+(05:02:15)<RotateMe>randomquote
+(05:02:21)<RotateMe>randomquote
+(05:02:21)<joe6bot>linux: no it doesn't 
+(05:02:22)<RotateMe>randomquote
+(05:02:22)<joe6bot>crack: <@joe6pack> Schlongs and Crevices
+(05:02:24)<RotateMe>randomquote
+(05:02:24)<joe6bot>joe6bot: <DaEezT> joe's sexbot
+(05:02:25)<RotateMe>randomquote
+(05:02:25)<joe6bot>joe6bot: <DaEezT> joe's sexbot
+(05:02:26)<RotateMe>randomquote
+(05:02:26)<joe6bot>RL: <syntax_tn> it'd be interesting to know the ratio of started/unfinished/abandoned roguelikes to "finished" (up to the point of fun replayability) ones. a wild guess 20:1?
+(05:02:27)<RotateMe>randomquote
+(05:02:38)<RotateMe>randomquote
+(05:02:38)<joe6bot>joe6bot: <DaEezT> joe's sexbot
+(05:02:39)<RotateMe>randomquote
+(05:02:39)<joe6bot>RL: <syntax_tn> it'd be interesting to know the ratio of started/unfinished/abandoned roguelikes to "finished" (up to the point of fun replayability) ones. a wild guess 20:1?
+(05:02:40)<RotateMe>randomquote
++++ Start of log: Fri Feb 15 17:04:10 CET 2008 +++
+(05:04:20)<RotateMe>randomquote
+(05:04:20)<joe6bot>linux: <+deveah> i'll be the only linux user in Bucharest :P
+(05:04:22)<RotateMe>randomquote
+(05:04:22)<joe6bot>linux: sucks more
+(05:04:23)<RotateMe>randomquote
+(05:04:23)<joe6bot>RL: <syntax_tn> it'd be interesting to know the ratio of started/unfinished/abandoned roguelikes to "finished" (up to the point of fun replayability) ones. a wild guess 20:1?
+(05:04:24)<RotateMe>randomquote
+(05:04:24)<joe6bot>linux: no it doesn't 
+(05:04:25)<RotateMe>randomquote
+(05:04:25)<joe6bot>joe6bot: <DaEezT> joe's sexbot
+(05:04:26)<RotateMe>randomquote
+(05:04:26)<joe6bot>linux: no it doesn't 
+(05:04:28)<RotateMe>randomquote
+(05:04:28)<joe6bot>linux: <+deveah> i'll be the only linux user in Bucharest :P
+(05:04:30)<RotateMe>randomquote
+(05:04:30)<joe6bot>linux: no it doesn't 
+(05:04:31)<RotateMe>randomquote
+(05:04:31)<joe6bot>linux: <+deveah> i'll be the only linux user in Bucharest :P
+(05:04:32)<RotateMe>randomquote
+(05:04:32)<joe6bot>crack: <DaEezT> Cracks and Crevices sounds liek a porn movie
+(05:04:33)<RotateMe>randomquote
+(05:04:33)<joe6bot>joe6bot: <DaEezT> joe's sexbot
+(05:04:34)<RotateMe>randomquote
+(05:04:34)<joe6bot>linux: no it doesn't 
+(05:04:37)<RotateMe>randomquote
+(05:04:37)<joe6bot>linux: <+deveah> i'll be the only linux user in Bucharest :P
+(05:04:38)<RotateMe>randomquote
+(05:04:38)<joe6bot>linux: sucks more
+(05:04:41)<RotateMe>randomquote
+(05:04:41)<joe6bot>crack: <@joe6pack> Schlongs and Crevices
+(05:04:42)<RotateMe>randomquote
+(05:04:42)<joe6bot>linux: sucks more
+(05:04:45)<RotateMe>randomquote
+(05:04:45)<joe6bot>joe6bot: <DaEezT> joe's sexbot
++++ Start of log: Fri Feb 15 17:06:14 CET 2008 +++
+(05:06:25)<RotateMe>randomquote
+(05:06:25)<joe6bot>crack: <DaEezT> Cracks and Crevices sounds liek a porn movie
+(05:06:26)<RotateMe>randomquote
+(05:06:26)<joe6bot>crack: <DaEezT> Cracks and Crevices sounds liek a porn movie
+(05:06:27)<RotateMe>randomquote
+(05:06:27)<joe6bot>crack: <@joe6pack> Schlongs and Crevices
+(05:06:28)<RotateMe>randomquote
+(05:06:28)<joe6bot>crack: <DaEezT> Cracks and Crevices sounds liek a porn movie
+(05:06:30)<RotateMe>randomquote
+(05:06:30)<joe6bot>RL: <syntax_tn> it'd be interesting to know the ratio of started/unfinished/abandoned roguelikes to "finished" (up to the point of fun replayability) ones. a wild guess 20:1?
+(05:06:31)<RotateMe>randomquote
+(05:06:31)<joe6bot>crack: <DaEezT> Cracks and Crevices sounds liek a porn movie
+(05:06:32)<RotateMe>randomquote
+(05:06:32)<joe6bot>crack: <@joe6pack> Schlongs and Crevices
+(05:06:33)<RotateMe>randomquote
+(05:06:33)<joe6bot>linux: sucks more
+(05:06:38)<RotateMe>randomquote
+(05:06:38)<joe6bot>linux: <+deveah> i'll be the only linux user in Bucharest :P
+(05:06:50)<RotateMe>k who wants it? take it away from me!
+(05:12:26)<RotateMe>quote joe6bot, <+RotateMe> k who wants it? take it away from me!
+(05:12:26)<RotateMe>* +syntax_tn (~charlie@e182051073.adsl.alicedsl.de) Quit (Quit: Leaving.)
+(05:14:35)<RotateMe>getquote joe6bot
+(05:14:35)<joe6bot>joe6bot(0): <DaEezT> joe's sexbot
+(05:14:35)<joe6bot>joe6bot(1):  <+RotateMe> k who wants it? take it away from me!
+(05:15:38)<joe6pack>maybe konijn_nyt wants to it take over for a couple of days?
+(05:16:23)<joe6pack>commands
+(05:16:23)<joe6bot>Available commands:
+(05:16:23)<joe6bot>time (by joe6pack)
+(05:16:23)<joe6bot>[subject] news (by joe6pack)
+(05:16:23)<joe6bot>news sources (by joe6pack)
+(05:16:23)<joe6bot>decide [option1],[option2] (by RotateMe)
+(05:16:23)<joe6bot>quote [keyword],[quote] (by RotateMe)
+(05:16:23)<joe6bot>getquote [keyword] (by RotateMe)
+(05:16:23)<joe6bot>randomquote (by RotateMe)
+(05:16:46)<joe6pack>getquote joe6bot
+(05:16:46)<joe6bot>joe6bot(0): <DaEezT> joe's sexbot
+(05:16:46)<joe6bot>joe6bot(1):  <+RotateMe> k who wants it? take it away from me!
+(05:17:03)<joe6pack>getquote linux
+(05:17:03)<joe6bot>linux(0): <+deveah> i'll be the only linux user in Bucharest :P
+(05:17:03)<joe6bot>linux(1): sucks more
+(05:17:03)<joe6bot>linux(2): no it doesn't 
+(05:20:34)<deveah>i'll return to xchat if TrialReset succeeds
+(05:26:52)<deveah>it's complicated :/
+(05:54:21)<konijn_nyt>icechat rules for windows irc by the way
+(05:56:35)<DaEezT>irssi rules for irc on all platforms btw
+(06:04:35)<konijn_nyt>what's next, you gonna say Austrian chocolate rules as well ??
+(06:05:07)<konijn_nyt>ew
+(06:05:10)<konijn_nyt>no
+(06:05:13)<konijn_nyt>just no
+(06:05:29)<konijn_nyt>text based is too hard to follow multiple channels on multiple servers
+(06:05:49)<DaEezT>does icechat read out the words?
+(06:06:02)<DaEezT>iirc all irc is text based :p
+(06:06:45)<konijn_nyt>sure
+(06:06:50)<konijn_nyt>it also reads my mind
+(06:06:56)<konijn_nyt>filters are dirty content
+(06:07:01)<DaEezT>how boring
+(06:07:06)<konijn_nyt>and the spews the rest on irc
+(06:07:09)<konijn_nyt>yeah
+(06:07:12)<konijn_nyt>notic how little comes out ;0
+(06:07:21)<DaEezT>lol
+(06:08:03)<konijn_nyt>notice how it's not perfect and throws in quite a few typos
+(06:08:12)<DaEezT>woah
+(06:08:26)<DaEezT>the icechat screens look even more frightening than the xchat ones
+(06:08:33)<konijn_nyt>??
+(06:08:36)<konijn_nyt>frightening ?
+(06:08:45)<DaEezT>I actually used xchat 3 or so years ago
+(06:08:47)<DaEezT>yeah
+(06:09:49)<DaEezT>oh, thsoe are the old screenies
+(06:09:56)<DaEezT>they actually put the oldest oens first :D
+(06:10:05)<DaEezT>and make you scroll to see the current version
+(06:10:13)<DaEezT>keeps n00bs liek me away I guess
+(06:12:10)<DaEezT>mebbe I'll install and test it this WE
+(06:18:44)<RotateMe>don't like how xchat displays the nicks
+(06:19:04)<RotateMe>and don't like icechats appeareance in general
+(06:28:54)<konijn_nyt>hmm
+(06:28:57)<konijn_nyt>fine
+(06:29:00)<konijn_nyt>be that way ;)
+(06:29:32)<konijn_subway>brb
+(06:39:01)<deveah>joe6pack - where's the most recent cryptrover?
+(06:39:09)<joe6pack>on google code
+(06:39:15)<deveah>link please
+(06:39:28)<joe6pack>to the windows bin?
+(06:39:40)<deveah>yes please
+(06:40:12)<joe6pack>http://cryptrover.googlecode.com/svn/trunk/cr.exe
+(06:40:27)<deveah>thanks
+(06:40:28)<joe6pack>haven't changed it much recenly, though 
+(06:40:32)<joe6pack>np
+(06:44:06)<joe6pack>these are rediculessly expensive aroung here 
+(06:44:34)<joe6pack>like 3 or 4 euros 
+(06:47:56)<joe6pack>deveah: should i go see "4 luni, 3 saptamÃ¢ni si 2 zile"?
+(06:48:01)<deveah>yes
+(06:48:12)<deveah>never seen it
+(06:48:17)<deveah>but i heard it's great
+(06:48:23)<joe6pack>hrm
+(06:48:30)<joe6pack>oh damn
+(06:48:45)<deveah>it's all about the bad things of my country
+(06:48:45)<joe6pack>started 18 mins ago
+(06:49:13)<joe6pack>so it's about everything in romania, then?
+(06:49:30)<deveah>not everything
+(06:49:40)<joe6pack>maybe another day. it only plays in one cinema and it started in 18:30
+(06:49:42)<joe6pack>yea i know
+(06:49:49)<joe6pack>just joking 
+(06:50:07)<deveah>it's about a woman who wants to abort
+(06:50:10)<joe6pack>my father is Moldavian, which is even more fucked up than being romanian 
+(06:50:10)<deveah>i think
+(06:50:33)<deveah>really? moldovians are romanian's brothers!
+(06:50:57)<deveah>y'know, Moldova belonged to Romania in the first place
+(06:51:00)<jomiolto>googled for the english name of the movie and got: "4 months 3 weeks 2 days = 144.7474 days" :)
+(06:51:14)<joe6pack>:|
+(06:51:27)<joe6pack>i don't think the moldavians would like that definition 
+(06:51:39)<joe6pack>both were part of the ottoman empire 
+(06:51:51)<joe6pack>iirc
+(06:51:57)<konijn_nyt>hmmm
+(06:52:09)<konijn_nyt>I paid 14 dollars for 2 sandwhiches :\
+(06:52:33)<joe6pack>yes but these says 14 usd is 80 euro cents
+(06:52:37)<konijn_nyt>of course, at the Times Square, everything is expensive
+(06:52:39)<joe6pack>or so
+(06:53:13)<joe6pack>4.8 euro - so it's about the same price i guess
+(06:53:20)<joe6pack>even a bit more expensive 
+(06:53:33)<konijn_nyt>yeah
+(06:53:42)<konijn_nyt>oh well
+(06:53:50)<deveah>joe6pack - what's your family name?
+(06:53:53)<konijn_nyt>I make more money then when I was in Europe as well
+(06:53:53)<joe6pack>i didn't remember subway being expensive when i was in the us
+(06:54:01)<konijn_nyt>oh
+(06:54:07)<konijn_nyt>relatively it is not expensive
+(06:54:14)<joe6pack>deveah: my grandfather changed it in the 30's when he left Moldova 
+(06:54:17)<konijn_nyt>every other option is even more expensive ;\
+(06:54:33)<deveah>oh, then what was his name then? and now?
+(06:55:04)<joe6pack>schuchmann
+(06:55:09)<joe6pack>and today yehieli
+(06:55:20)<deveah>oh
+(06:56:01)<deveah>usually romanian/moldovian names end with -escu (40%)
+(06:56:10)<deveah>like Popescu, Ionescu etc
+(06:56:25)<joe6pack>i'm Jewish though 
+(06:56:40)<konijn_nyt>huh
+(06:57:11)<deveah>weird
+(06:57:26)<konijn_nyt>yehieli seems to be a more judaic
+(06:57:29)<konijn_nyt>name
+(06:57:39)<joe6pack>konijn_nyt: yea, it's in hebrew
+(06:57:50)<deveah>o.0 you've got me
+(06:58:04)<konijn_nyt>things I read when researching Hellband ;]
+(06:58:08)<joe6pack>why's that?
+(06:58:16)<konijn_meeting>brb
+(06:58:24)<joe6pack>have fun in your meeting 
+(07:01:11)<joe6pack>i think i'll go watch this film:
+(07:01:12)<joe6pack>http://www.imdb.com/title/tt0469494/
+(07:01:22)<joe6pack>or one of these:
+(07:01:24)<joe6pack>http://www.imdb.com/title/tt0472062/
+(07:01:30)<joe6pack>http://us.imdb.com/title/tt0765120/
+(07:02:18)<RotateMe>:O
+(07:02:30)<RotateMe>rating for there will be blood is pretty damn good for imdb
+(07:02:36)<joe6pack>yea
+(07:02:47)<joe6pack>i think i'll go watch it
+(07:03:06)<joe6pack>imdb is pretty reliable 
+(07:03:09)<RotateMe>okay not the blueberry one
+(07:03:12)<RotateMe>so:
+(07:03:19)<RotateMe>decide blood,war
+(07:03:19)<joe6bot> blood
+(07:03:27)<RotateMe>have fun :D
+(07:03:36)<joe6pack>that settles it then
+(07:04:04)<RotateMe>recently watched "no land for old men" and "rise of the footsoldier"
+(07:04:19)<joe6pack>excellent! it even plays in the cinema that's close to my place
+(07:04:20)<RotateMe>liked both of them very much but i think they aren't on anymore, are they?
+(07:04:41)<joe6pack>i wanted to see no loand for old man
+(07:04:41)<RotateMe>yeah I think my sourcecode took that into account :D
+(07:04:54)<joe6pack>but i was too late
+(07:05:07)<RotateMe>pretty good movie... was hard for me to understand tomy lee jones... his accent is beond texan
+(07:05:32)<joe6pack>i've also like 3:10 to yuma, which was the last film i've seen
+(07:05:42)<joe6pack>pretty good, that one
+(07:06:08)<joe6pack>oh wait
+(07:06:09)<joe6pack>no
+(07:06:11)<joe6pack>Into The Wild
+(07:06:15)<joe6pack>that was the last one
+(07:06:22)<joe6pack>3:10 was the one before that 
+(07:06:35)<joe6pack>(both were good)
+(07:07:27)<purestrain>arrr
+(07:07:43)<RotateMe>hmmm 3:10 looks good
+(07:07:47)<RotateMe>put it on my list
+(07:29:38)<RotateMe>probably the worst decision in an early stage of DungeonHunter was to limit the maps to 50x25 ...
+(07:29:58)<RotateMe>it's pretty hard to generate useful maps on such a small space
+(07:46:36)<RotateMe>what do you think: http://home.arcor.de/dungeonhunter/Screens/screenshot2.jpg (small rooms)
+(07:46:42)<RotateMe>http://home.arcor.de/dungeonhunter/Screens/screenshot3.jpg (midsized)
+(07:46:52)<RotateMe>http://home.arcor.de/dungeonhunter/Screens/screenshot4.jpg (oversized)
+(07:48:45)<deveah>small rooms
+(07:50:10)<RotateMe>well they all will appear but do you see possible improvements?
+(07:50:49)<RotateMe_walkin>gotta take the dog for a walk
+(07:57:21)<deveah>4r3a2i12n13b11o8w6s
+(07:57:46)<konijn_meeting>no
+(07:57:49)<konijn_meeting>just no
+(08:13:14)<purestrain>i feel that i should really try ubuntu again
+(08:14:05)<purestrain>my thoughts are chaotic... on one side i want linux back, on the other is my windows system running and stable
+(08:19:29)<RotateMe_walkin>k I'm leaving but i think i will leave the bot running tonight
+(08:39:32)<deveah>joe6pack, jo6bot should have ops - you might want to give him serious tasks like kicking other bots or auto-voicing active users...
+(08:39:42)<deveah>like TMAnna on EsperNet
+(08:39:48)<konijn_nyt>hey hey
+(08:39:53)<konijn_nyt>no kicking other bots !
+(08:39:53)<deveah>Boten Anna :P
+(08:40:02)<deveah>yes kicking other bots
+(08:40:13)<konijn_nyt>fine, rogue bots he can kick
+(08:40:16)<konijn_nyt>but no member bots 
+(08:40:19)<deveah>especially the ad/porn ones
+(08:40:23)<konijn_nyt>ew
+(08:40:26)<konijn_nyt>yes
+(08:40:44)<deveah>and especially NO cheap viagra ads
+(08:43:26)<deveah>why is there silence?
+(08:43:36)<konijn_nyt>?
+(08:43:39)<konijn_nyt>I fully agreed
+(08:43:44)<deveah>ok
+(08:43:49)<deveah>joe6pack!
+(08:43:52)<konijn_nyt>we only want expensive viagra ads ;\
+(08:44:10)<deveah>ok, both then
+(08:47:05)<deveah>it'd be cool "rogue of the day" in the topic too
+(08:47:18)<deveah>fridge1drl first.
+(08:50:38)<deveah>cya tomorrow; my current schecule sucks bigtime
+(08:50:48)<deveah>no time for roguelikes *now*
+(08:50:51)<deveah>bwah
+(09:37:57)<konijn_nyt>weeeeeeeeeeeeeeeeeeeeeeee
+(09:38:08)<konijn_nyt>my first screen for QhaXe is done
+(09:38:19)<konijn_nyt>And it actually looks good ;)
+(09:39:29)<konijn_nyt>hmmm
+(09:39:35)<konijn_nyt>of course you cant save the game
+(09:39:38)<konijn_nyt>unless I start ajaxing
+(09:39:44)<konijn_nyt>and I aint ready for that
+(09:39:49)<konijn_nyt>still
+(09:39:51)<konijn_nyt>weeeeeeeeee
+(09:39:55)<konijn_nyt>;)
+(10:43:45)<cakeboy>i can't figure out fridge
+(10:43:58)<cakeboy>actually, i just can't figure out how to go down the stairs
+(11:32:50)<joe6pack>now that
+(11:32:57)<joe6pack>was a *good* film
+(11:38:30)<joe6pack>rgrd news
+(11:38:33)<joe6bot>Re: Stevey and overengineering
+(11:38:33)<joe6bot>http://groups.google.com/group/rec.games.roguelike.development/msg/33c83f695fea5865
+(11:38:33)<joe6bot>cone/angle drawing algorithm
+(11:38:33)<joe6bot>http://groups.google.com/group/rec.games.roguelike.development/msg/99af46bb70fafa4e
+(11:38:33)<joe6bot>Re: 7drl starting announcement
+(11:38:33)<joe6bot>http://groups.google.com/group/rec.games.roguelike.development/msg/0b817c472ca37bfa
+(11:38:33)<joe6bot>Test Adventure "2"
+(11:38:33)<joe6bot>http://groups.google.com/group/rec.games.roguelike.development/msg/20e169035c262032
++++ The date has changed: 2008/02/16 +++
+(12:08:46)<joe6pack>http://erez.weizmann.ac.il/pls/app/fein_courses.details?f_course_code=20084401
+(12:08:47)<joe6pack>hah
+(12:09:00)<joe6pack>what would you give to be on *that* course?
+(12:51:02)<TMC>hi
+(12:53:30)<joe6pack>yo
+(12:54:10)<joe6pack>nirvana is like c
+(12:54:15)<joe6pack>it is timeless 
+(12:54:22)<TMC>hehe
+(12:54:41)<joe6pack>i've listened to them when i was 15 and i still listen to them today 
+(12:55:16)<joe6pack>i don't think there as any other bands i can say the same about
+(12:55:22)<joe6pack>sas/is
+(12:55:25)<joe6pack>doh
+(12:55:26)<joe6pack>mn
+(12:55:32)<TMC>I have All The Love In The World stuck in my head every week
+(12:55:38)<TMC>it's terrible
+(12:55:54)<TMC>(having ti stuck in my head for years, not the song)
+(12:57:22)<joe6pack>i've figured most of the bands i liked as i teenager, i liked because i was an angry, angst ridden teenager
+(12:57:39)<joe6pack>like metallica and iron maiden 
+(01:00:42)<joe6pack>do you have any idea what this guy is talking about: 
+(01:00:44)<joe6pack>http://groups.google.com/group/rec.games.roguelike.development/msg/138f06da91fc0f08
+(01:01:46)<joe6pack>he states it would be nice if you *could* define some function on c, and then goes a head to define it in a wawy that's a hairbreadth of being valid c
+(01:02:02)<joe6pack>damn my spelling sucks today 
+(01:02:11)<joe6pack>even more than usually 
+(01:04:42)<TMC>hmm
+(01:05:11)<TMC>a bit of a jumbled post
+(01:11:09)<joe6pack>'"Hungry?" she said, eyes widening in disbelief. "That's a country? I've heard of Turkey. But Hungry? I've never heard of it." '
+(01:15:23)<joe6pack>"This is just like Pearl Harbor," one of the men said. 
+(01:15:26)<joe6pack>The other asked, "What is Pearl Harbor?" 
+(01:15:30)<joe6pack>"That was when the Vietnamese dropped bombs in a harbor, and it started the Vietnam War," the first man replied. 
++++ Start of log: Sat Feb 16 13:13:54 CET 2008 +++
+(01:16:51)<TMC>ah!
+(01:16:57)<TMC>I was getting close to winning!
+(01:27:29)<deveah_ubuntu>ubuntu still rokks
+(02:12:19)<deveah_ubuntu>joe6pack, ubuntu is really really the shite
+(02:12:34)<deveah_ubuntu>but i heard there's a big ubuntu pack with 5-6 dvds
+(02:12:35)<joe6pack>i am glad to hear you're enjoying yourself
+(02:12:38)<deveah_ubuntu>is that right?
+(02:12:44)<joe6pack>i don't know
+(02:13:02)<joe6pack>i haven't used physical media for installation in years
+(02:13:15)<joe6pack>(other than installing the base os, that is)
+(02:13:21)<deveah_ubuntu>evrything works on it!
+(02:13:36)<joe6pack>everything you've tried thus far, at least ;)
+(02:13:40)<deveah_ubuntu>and it's really fast
+(02:13:49)<deveah_ubuntu>xchat doesn't/
+(02:13:50)<deveah_ubuntu>.
+(02:13:58)<joe6pack>really?
+(02:14:09)<joe6pack>does it not have a linux version?
+(02:14:10)<deveah_ubuntu>yes
+(02:14:18)<deveah_ubuntu>only for Fedora Core
+(02:14:40)<joe6pack>apt-cache search xchat
+(02:14:40)<joe6pack>xchat-gnome - a new frontend to the popular X-Chat IRC client
+(02:14:40)<joe6pack>xchat-gnome-common - a new frontend to the popular X-Chat IRC client
+(02:14:40)<joe6pack>pidgin-plugin-pack - 30 useful plugins for pidgin
+(02:14:40)<joe6pack>xchat - IRC client for X similar to AmIRC
+(02:14:42)<joe6pack>xchat-common - Common files for X-Chat
+(02:14:45)<joe6pack>xchat-guile - Guile scripting plugin for XChat
+(02:14:47)<joe6pack>xchat-systray - xchat systray notification icon
+(02:14:50)<joe6pack>xchat-xsys - x-chat plugin that can display your current system statistics
+(02:14:52)<joe6pack>i beg the differ 
+(02:15:59)<deveah_ubuntu>ok, then give me a link to a good ubuntu one please
+(02:16:11)<joe6pack>sudo apt-get install xchat-gnome
+(02:17:21)<joe6pack>Applications -> Accessories -> Terminal 
+(02:17:31)<joe6pack>and then copy pase the line i wrote above
+(02:19:44)<deveah_ubuntu>no xchat-gnome pack
+(02:20:00)<joe6pack>paste the entire answer
+(02:20:47)<deveah_ubuntu>E: Nu pot gÄƒsi pachetul xchat-gnome = Couldn't find xchat-gnome pack
+(02:21:11)<RotateMe>joe6pack, i've sent you the bot it's better if you run it
+(02:21:30)<RotateMe>my laptop seems to be unable to run for more than a few hours :(
+(02:21:32)<joe6pack>paste the answer you get from cat /etc/apt/sources.list
+(02:21:41)<joe6pack>ok
+(02:21:46)<RotateMe>don't know what happened but when i came home yesterday it was shut down
+(02:22:09)<RotateMe>maybe you hax0red me?
+(02:22:10)<joe6pack>shut it down then and send it to me with the current log
+(02:22:21)<RotateMe>k
++++ Start of log: Sat Feb 16 13:27:31 GMT 2008 +++
+(01:37:42)<RotateMe>decide fix bug,add feature
+(01:37:42)<joe6bot> fix bug
+(01:37:46)<RotateMe>:(
+(01:38:11)<joe6pack>you should always fix bugs before adding features 
+(01:39:01)<RotateMe>well feature in the sense of something that's missing that should already be there
+(01:39:08)<joe6pack>like?
+(01:39:13)<RotateMe>no core stuff
+(01:39:19)<joe6pack>like?
+(01:39:30)<RotateMe>;Smaller reqs:
+(01:39:30)<RotateMe>;ooooooooooooo
+(01:39:30)<RotateMe>;- add displayfloormessage to the options variables
+(01:39:30)<RotateMe>;- better durability system
+(01:39:30)<RotateMe>;- defense is to high and hit% to low (both in the beginning)
+(01:39:31)<RotateMe>;- screammessages should be optional
+(01:39:33)<RotateMe>;- bolts to target
+(01:39:45)<RotateMe>these are the first 5 of about 40 or 50
+(01:39:51)<joe6pack>i see
+(01:40:03)<RotateMe>and bugs look like this
+(01:40:03)<RotateMe>;=> BUGS:
+(01:40:04)<RotateMe>;   skills may go through walls (if the first field is a wall)
+(01:40:04)<RotateMe>;   memory access violation after armor was destroyed
+(01:40:04)<RotateMe>;   exits may appear in walls
+(01:40:05)<RotateMe>;   check wether dungeon repopulation will be reseted when entering a new dungeon (?)
+(01:40:27)<joe6pack>i never bother writing so much... i just write the first 3-4 bugs, fix those, and go on
+(01:40:28)<RotateMe>you could take some reqs to the bugs section and vice versa but bugs are usually more nasty
+(01:41:29)<RotateMe>well i usually add some content, play for about half an hour and note all bugs i encounter
+(01:41:56)<joe6pack>oh i tought you were talking about the bot :O
+(01:41:59)<RotateMe>the bug section isn't that big
+(01:42:01)<RotateMe>:D
+(01:42:14)<joe6pack>wondered how you've managed to write so much about it 
+(01:42:26)<RotateMe>heh
+(01:43:05)<RotateMe>;- defense is to high and hit% to low (both in the beginning)
+(01:43:17)<RotateMe>that's a bot req :D
+(01:45:53)<deveah_ubuntu>i ate bit.
+(01:47:19)<deveah_ubuntu>joe6pack - what cat dir?
+(01:47:50)<joe6pack>deveah_ubuntu: what what what?
+(01:48:13)<joe6pack>cat /etc/apt/sources.list
+(01:48:13)<deveah_ubuntu>the eta thing you mentioned
+(01:48:17)<deveah_ubuntu>oh
+(01:48:28)<joe6pack>cat is a command not a dir
+(01:49:05)<deveah_ubuntu>7.10
+(01:49:46)<joe6pack>i highly doubt that's the answer that line gave you
+(01:49:59)<deveah_ubuntu>what did you ask?
+(01:50:11)<joe6pack>paste the answer to cat /etc/apt/sources.list
+(01:50:16)<deveah_ubuntu>oh
+(01:50:55)<deveah_ubuntu>deb cdrom:[Ubuntu 7.10 _Gutsy Gibbon_ - Release i386 (20071016)]/ gutsy main restricted
+(01:51:07)<joe6pack>that's all?
+(01:51:17)<deveah_ubuntu>and a lot of comments with #
+(01:51:25)<joe6pack>...
+(01:51:29)<joe6pack>paste it 
+(01:51:55)<joe6pack>:o
+(01:52:09)<joe6pack>oops
+(01:52:12)<jomiolto>:D
+(01:52:20)<jomiolto>should have used a "pastebin"
+(01:52:29)<jomiolto>or something
+(01:52:43)<joe6pack>heh. his fault for asking on irc instead of rtfm
+(01:52:54)<jomiolto>yeah :)
+(01:53:13)<joe6pack>hey there...
+(01:53:17)<deveah_ubuntu>back
+(01:53:23)<deveah_ubuntu>excess flood erroh
+(01:53:26)<joe6pack>just uncomment all the lines that start with deb
+(01:53:29)<jomiolto>hmm, last night I had an idea on how to make "ray-casting with bresenham" los more "permissive", but now I seem to have forgotten it
+(01:53:52)<joe6pack>deveah_ubuntu: sudo gedit /etc/apt/sources.list
+(01:54:20)<jomiolto>btw, you can also use Synaptic to add stuff to repositories
+(01:54:22)<deveah_ubuntu>i got it in gedit
+(01:54:36)<joe6pack>now uncomment all the lines starting in dib
+(01:54:37)<deveah_ubuntu>same thing
+(01:54:38)<joe6pack>deb
+(01:54:54)<deveah_ubuntu>how?
+(01:55:01)<deveah_ubuntu>like deleting the lines?
+(01:55:07)<joe6pack>delete only the #
+(01:55:29)<joe6pack>e.g.
+(01:55:32)<jomiolto>in Synaptic: settings -> repositories, and then tick all the choices available
+(01:55:33)<deveah_ubuntu>and save?
+(01:55:36)<joe6pack># deb http://archive.ubuntu.com/ubuntu/ gutsy multiverse -> deb http://archive.ubuntu.com/ubuntu/ gutsy multiverse
+(01:55:42)<joe6pack>yes
+(01:56:14)<deveah_ubuntu>bash: deb: command not found
+(01:56:22)<joe6pack>ok that's it
+(01:56:27)<joe6pack>just rtfm
+(01:56:50)<deveah_ubuntu>forget it - pidgin is good too
+(01:57:32)<joe6pack>how can you make something so complicated out of something so simple 
+(03:17:25)<joe6pack>rgrd news
+(03:17:26)<joe6bot>Re: Beginner's Guide to Roguelike Development [New Release]
+(03:17:26)<joe6bot>http://groups.google.com/group/rec.games.roguelike.development/msg/f66aa8ff799f0eaa
+(03:17:26)<joe6bot>Re: cone/angle drawing algorithm
+(03:17:26)<joe6bot>http://groups.google.com/group/rec.games.roguelike.development/msg/badd1ca9af626972
+(03:17:26)<joe6bot>Re: Beginner's Guide to Roguelike Development [New Release]
+(03:17:26)<joe6bot>http://groups.google.com/group/rec.games.roguelike.development/msg/085e7ec7b1a61ba6
+(03:17:26)<joe6bot>Re: Beginner's Guide to Roguelike Development [New Release]
+(03:17:26)<joe6bot>http://groups.google.com/group/rec.games.roguelike.development/msg/ddd804e1733317ec
+(03:28:38)<Epyon_>chaosforge news
+(03:28:42)<Epyon_>D:
+(03:35:11)<RotateMe>adom news
+(03:35:22)<RotateMe>news sources
+(03:35:22)<joe6bot>gsw news: http://feed43.com/atplay.xml
+(03:35:22)<joe6bot>rgrd news: http://groups.google.com/group/rec.games.roguelike.development/feed/rss_v2_0_msgs.xml
+(03:35:22)<joe6bot>rt news: http://www.roguetemple.com/feed/
+(03:35:22)<joe6bot>rgra news: http://groups.google.com/group/rec.games.roguelike.announce/feed/rss_v2_0_msgs.xml
+(03:35:22)<joe6bot>delicious news: http://feeds.delicious.com/rss/tag/roguelike
+(03:35:22)<joe6bot>rl news: http://rogue-life.ourden.org/rss.xml
+(03:35:50)<RotateMe>rgra news
+(03:35:50)<joe6bot>rec.games.roguelike.nethack Frequently Asked Questions [FAQ]
+(03:35:50)<joe6bot>http://groups.google.com/group/rec.games.roguelike.announce/msg/539ada11766b03e3
+(03:35:50)<joe6bot>7drl Completion - Crown of the Forest
+(03:35:50)<joe6bot>http://groups.google.com/group/rec.games.roguelike.announce/msg/36a37cf615ed1622
+(03:35:50)<joe6bot>Fridge 1DRL finished
+(03:35:50)<joe6bot>http://groups.google.com/group/rec.games.roguelike.announce/msg/80969cbab18fc81f
+(03:35:50)<joe6bot>Re: 7DRL announce ASCIIWAR
+(03:35:50)<joe6bot>http://groups.google.com/group/rec.games.roguelike.announce/msg/14e6d8b6813dcbb4
+(03:49:56)<RotateMe>http://torch.cs.dal.ca/~macdona2/test_adventure/test_adventure.html
+(03:50:33)<joe6pack>is that yours?
+(04:17:02)<RotateMe>nono
+(04:17:12)<RotateMe>just found that
+(04:18:15)<RotateMe>but it's uncompiled and i think in python so i won't try it, you know how lazy i am
+(04:27:57)<joe6pack>there are compiled files in there
+(04:28:13)<joe6pack>.pyc files are compiled 
+(04:29:28)<RotateMe>ah so python too is one of those languages you need stuff for :(
+(04:31:39)<joe6pack>like java
+(04:32:37)<joe6pack>but it's normally more straight forward to run, what with java's classpath shenanigans and what have yous 
+(04:32:58)<RotateMe>yeah, that sucks most
+(04:33:25)<RotateMe>well in windows you can always put some .bat files along with the stuff you've made
+(04:33:41)<joe6pack>with python it's normally just "python blabla.pyc"
+(04:34:13)<joe6pack>in *nix that would be a shell script
+(04:35:57)<joe6pack>mmm... these hazelnut waffles are delicious 
+(04:36:20)<RotateMe>do you guys know dï¿½ner?
+(04:36:27)<RotateMe>(doener)
+(04:36:39)<joe6pack>the kebab?
+(04:37:04)<RotateMe>yes
+(04:37:15)<joe6pack>it's all over the place in vienna
+(04:37:19)<RotateMe>it's awesome when eaten after 3 am
+(04:37:33)<joe6pack>actually everywhere in germany & austria 
+(04:38:13)<RotateMe>yeah i'm from germany but it's rare to find openened kebabs after 3am :D
+(04:38:27)<joe6pack>i very rarely eat meat, and never had doener kebab
+(04:38:41)<RotateMe>O:
+(04:38:48)<joe6pack>but i've had shawarma 
+(04:39:05)<RotateMe>ah that's great too
+(04:39:06)<joe6pack>which is the arab version of the same sandwich 
+(04:40:00)<RotateMe>i had some real strange tasting vegetables in there
+(04:40:04)<RotateMe>kind of sour
+(04:40:16)<RotateMe>couldn't really define what it was by looks and taste
+(04:40:29)<joe6pack>which color?
+(04:41:16)<RotateMe>dark yellowish cut in squares with about 2cm each
+(04:41:21)<joe6pack>probably some sort of pickles 
+(04:41:32)<joe6pack>maybe pickled pepers
+(04:41:34)<RotateMe>yeah i thought that too
+(05:07:58)<joe6pack>hey there eyenot
+(05:12:24)<eyenot>hey j6p
+(05:12:41)<eyenot>took a break from working on guts to get input/output done yesterday. 
+(05:13:33)<eyenot>after a few added/removed missing/stray brackets, updating some renamed-function calls, and adding an argument in 16 incidences of an effects-check i forgot requires a floornumber argument...
+(05:13:56)<eyenot>all like 3800 lines of so-far guts compiled fine, however, when i tried to dive into keypress catching i hit bottom
+(05:15:11)<eyenot>i still have to smash together the various routines for segment generation based on the preordained rules i set down, and finish a few more tiers of artistic vision and challenge
+(05:15:19)<eyenot>but other than that it's almost ready to go
+(05:15:58)<eyenot>i came up with my missing impelment for the 3rd 1/4 of the game the other day and it will basically require an additional variable
+(05:16:22)<eyenot>so today i sit down and work on a keypress parser seperate from the rest of the code. how are you?
+(05:16:24)<RotateMe>eyenot, what are you working on?
+(05:17:02)<eyenot>it was originally for the 7drl but it got too big of a gut and didn't even have a face, so now it's looking like a 30drl
+(05:17:55)<RotateMe>does it have a name already?
+(05:18:12)<RotateMe>or a special concept?
+(05:20:12)<eyenot>i'm going to leave the name-dross, story, etc. for last. there's not really a special concept except that it's supposed to make up to me some things that bother me about rl's
+(05:20:23)<eyenot>it's just a general-purpose dungeon
+(05:21:12)<eyenot>i don't think many people will be very impressed with it, but i can almost gaurantee i'll play it a lot
+(05:23:22)<RotateMe>yeah that's nice... i made RogueTower that way and it worked because i played it quite a lot
+(05:23:57)<RotateMe>goddammit, fixed two bugs today and found two more :(
+(05:24:32)<RotateMe>and one of those seems to be pretty big
+(05:24:39)<eyenot>does roguetower have a page?
+(05:24:49)<RotateMe>a RogueBasin entry
+(05:25:02)<RotateMe>http://roguebasin.roguelikedevelopment.org/index.php?title=RogueTower
+(05:25:11)<RotateMe>win only, i hope that's fine
+(05:25:41)<RotateMe>quote roguetower,http://roguebasin.roguelikedevelopment.org/index.php?title=RogueTower
+(05:26:28)<RotateMe>quote dungeonhunter,http://home.arcor.de/dungeonhunter/Screens/
+(05:26:39)<RotateMe>randomquote
+(05:26:39)<joe6bot>roguetower: http://roguebasin.roguelikedevelopment.org/index.php?title=RogueTower
+(05:26:46)<RotateMe>hah :D
+(05:26:55)<eyenot>it looks interesting
+(05:28:46)<RotateMe>well it's nothing revolutionary and it has no fov and random dungeons, i think i only had 1 free day during the 7 days
+(05:28:56)<RotateMe>or better 8 days
+(05:31:27)<eyenot>hmm
+(05:39:08)<eyenot>i'm having trouble with getchar, considering it requires enter to parse
+(05:39:18)<eyenot>i need something more instantaneous without resorting to ncurses 
+(05:39:58)<eyenot>there just aren't many tutorials about input/output over terminals that don't rely on curses or ncurses
+(06:01:59)<RotateMe>i can't really help you with your problem, but why don't you take a look at the ncurses sources and do it like they did it?
+(06:02:49)<eyenot>i'll be fine
+(06:03:06)<eyenot>i'm just going to have to use an int and a loop
+(06:03:11)<eyenot>just being sluggish
+(06:07:41)<joe6pack>eyenot: i'm fine thanks. why don't you want to rely on curses?
+(06:07:50)<joe6pack>pdcurses has a windows pot 
+(06:08:05)<eyenot>man...
+(06:08:15)<eyenot>i don't want to rely on curses. :)
+(06:08:19)<joe6pack>ok :)
+(06:08:35)<eyenot>and i'm trying to ensure everything works over screen/tty
+(06:08:46)<eyenot>i'm assuming ansi terminal
+(06:08:52)<joe6pack>but it will be a major pain to make your game behave the same way cross platform without it 
+(06:09:18)<eyenot>well it's ansi-c and i'm assuming ansi terminal, that sorts of meets the mark for standard for me
+(06:09:30)<joe6pack>terminal emulators are nutoriously non-standard conforming 
+(06:09:42)<eyenot>ansi's been around for too long for me to worry about it
+(06:10:35)<joe6pack>have it your way. but i assure you your game will not work the same way on windows/mac os x/linux the same way out of the box
+(06:10:37)<eyenot>if it doesn't emulate color it'll still receive characters. most keypresses are sent the same way
+(06:11:14)<eyenot>i'm not too worried about it not working -in- windows, but if it were compiled as a dos application it would work fine 
+(06:11:25)<eyenot>it's going to be source so what's the worry
+(06:11:29)<eyenot>???
+(06:11:37)<joe6pack>no worries :)
+(06:11:47)<eyenot>did you think i was going to release a binary ?
+(06:12:56)<joe6pack>i think you will spend a lot of time solving a problem solved many times before; i.e the incompatible way different operation systems and terminals handle keyboard input
+(06:13:16)<eyenot>hmm
+(06:13:21)<joe6pack>but i am looking forward to being pleasantly surprised 
+(06:13:39)<eyenot>i see your point
+(06:14:13)<eyenot>i will just let everybody know that when tested it worked in a standard vt100/ansi terminal in a linux screen session and that the code is ansi-c
+(06:14:45)<joe6pack>okay 
+(06:14:56)<eyenot>that input and output worked fine in puTTY and window's built-in telnet
+(06:15:11)<eyenot>and as long as the user can set up a shell somewhere with GCC permission, they'll be able to play
+(06:15:26)<eyenot>i really don't feel like setting up allllll the cases for everything else under the sun
+(06:15:41)<eyenot>i think i'll just steal something out of nethack
+(06:15:47)<joe6pack>:o
+(06:15:50)<joe6pack>hah
+(06:16:15)<eyenot>oh and the windows users will be able to play if they compile it as a dos application and have ansi emulation working
+(06:16:21)<eyenot>so hey, both worlds
+(06:16:59)<joe6pack>nethack keyboard handling -> danger will robinson!
+(06:17:55)<joe6pack>that is a lot of fairly hairy code 
+(06:18:22)<joe6pack>btw did you say you've written 3800 loc of c code?
+(06:18:47)<eyenot>let me check
+(06:19:00)<eyenot>3881
+(06:19:09)<eyenot>i think it will be around 4500 w/o io
+(06:19:13)<joe6pack>that's quite a lot!
+(06:19:20)<eyenot>it's taken me two weeks
+(06:19:32)<eyenot>err. almost two weeks... 10 days?
+(06:19:37)<joe6pack>iirc the 7drl version of cryptrover was about 500 loc of c 
+(06:19:54)<eyenot>well, there are some really long and complicated routines. 
+(06:20:05)<eyenot>like one to determine all the cases of behaviour for a certain bug
+(06:20:18)<eyenot>depending on its location in a given quad of a dungeon floor
+(06:20:25)<eyenot>*shrug* it all had to be in there
+(06:20:42)<joe6pack>bug as in "a bug in your source" or "the bug bites you! you are poisoned"? 
+(06:20:54)<eyenot>bug as in a bug in the dungeon
+(06:20:59)<eyenot>a firebug
+(06:21:13)<eyenot>firebugs_routine lines 1128-1275
+(06:21:23)<eyenot>head hurts, bbl
+(06:21:30)<joe6pack>ciao
+(06:50:43)<joe6pack>rgrd news
+(06:50:44)<joe6bot>Re: 7DRL Announcement: Alan's Psychedelic Journey
+(06:50:44)<joe6bot>http://groups.google.com/group/rec.games.roguelike.development/msg/2f4b13f4483b6e29
+(06:50:44)<joe6bot>7DRL Announcement: Alan's Psychedelic Journey
+(06:50:44)<joe6bot>http://groups.google.com/group/rec.games.roguelike.development/msg/6175f5bd2a404f4d
+(06:50:44)<joe6bot>Re: cone/angle drawing algorithm
+(06:50:44)<joe6bot>http://groups.google.com/group/rec.games.roguelike.development/msg/1c29d4d305fbec8b
+(06:50:44)<joe6bot>Re: Cracks and Crevices 0.4 release
+(06:50:44)<joe6bot>http://groups.google.com/group/rec.games.roguelike.development/msg/5216f85b462ab4c7
+(08:04:21)<jomiolto>two hours into developing my 7drl and I've already found several bugs in my roguelike library :)
+(08:09:57)<joe6pack>:)
+(08:10:05)<joe6pack>you will probably find many more 
+(08:12:57)<jomiolto>yeah, quite likely as I hacked the library together quite fast, wanting to get to 7drl development
+(08:13:20)<joe6pack>i usually go the other way around
+(08:13:24)<joe6pack>start coding the game
+(08:13:43)<joe6pack>and afterwards extracts a "framework" from it
+(08:16:40)<joe6pack>aka the Craptaculus Framework
+(08:18:00)<purestrain>its the better method usually
+(08:18:05)<eyenot>i will probably optimize my game before release with some kind of reusable frame
+(08:18:16)<eyenot>it might even make the game better to have some things reusable
+(08:18:44)<joe6pack>eyenot: will probably make your code better, i don't see how it should affect the game itself 
+(08:19:02)<purestrain>i'm switching from C++ to D now; have to start from scratch again
+(08:19:08)<joe6pack>:O
+(08:19:14)<joe6pack>stop it
+(08:19:26)<purestrain>too late; i felt in love with D
+(08:19:48)<purestrain>and i hate these slow recompilations of about 1 minute just for adding documentation in any header file
+(08:19:57)<joe6pack>YOU THERE! HALT! 
+(08:20:03)<eyenot>i'm fighting for an ansi-c alternative to ncurses
+(08:20:27)<eyenot>i was having better luck googling for help the other day
+(08:20:27)<joe6pack>YOU ARE UNDER ARREST FOR THE CRIME OF SOFTWARE MASTURBATION 
+(08:20:34)<purestrain>=D
+(08:21:11)<joe6pack>eyenot: pdcurses is probably more modern/portable than ncurses
+(08:21:16)<joe6pack>is it not ansi c?
+(08:21:32)<eyenot>i hadn't heard it mentioned once yet in all this tutorial crawling
+(08:21:42)<joe6pack>well you do now ;)
+(08:21:46)<joe6pack>the magic of irc 
+(08:21:53)<eyenot>i was just sitting down and working with read function from stdin to make my own keypress acknowledgement
+(08:22:03)<joe6pack>so you've said 
+(08:22:09)<eyenot>good point
+(08:22:51)<eyenot>i tried to use ansi codes to get a noecho to work, but my terminal ignored it or something
+(08:23:19)<joe6pack>purestrain: i suggest you dave yourself another 3-4 language changes and just program it in lisp already 
+(08:23:32)<joe6pack>eyenot: what a surprise 
+(08:23:39)<purestrain>next year perhaps
+(08:26:03)<purestrain>but i consider lisp to slow for my target machine
+(08:26:16)<joe6pack>that depends on the lisp
+(08:26:30)<joe6pack>some implementation are as fast as c++
+(08:26:41)<purestrain>nice
+(08:27:03)<joe6pack>but probably still guzzle up more memory 
+(08:27:10)<joe6pack>but that might not be an issue 
+(08:27:20)<purestrain>i've got 64mb of memory available
+(08:27:29)<purestrain>well.. i think ~50mb
+(08:28:00)<joe6pack>well if your program would take up 400Kb in ran instead of 200Kb, that wouldn't make a difference 
+(08:28:09)<joe6pack>s/ran/RAM
+(08:28:38)<joe6pack>are you aiming for some handheld platform? 
+(08:29:00)<purestrain>yes, gp2x
+(08:29:15)<joe6pack>that Korean one?
+(08:29:19)<purestrain>yes
+(08:29:26)<joe6pack>i have never seen one in the wild
+(08:29:52)<joe6pack>do someone actually own one of these things? 
+(08:30:00)<purestrain>two are in front of me :-)
+(08:30:21)<joe6pack>how many people do you know that have one or more?
+(08:30:59)<purestrain>personal only one, but the community is steady growing
+(08:33:18)<purestrain>but to be honest: i don't think i will never get a proper D compiler for arm running
+(08:35:42)<eyenot>purestrain is that that all-purpose handheld/cellphone
+(08:35:59)<joe6pack>some gaming handheld 
+(08:36:01)<eyenot>a friend of mine was bragging about a cellphone/computer toy he had ordered from japan or somewhere
+(08:36:20)<eyenot>how it could be configured to work with any existing network
+(08:36:27)<eyenot>oh
+(08:37:26)<eyenot>he was working out a cellphone network pyramid, and needed one of these devices to be the maintainer. he said in japan it's more expected to have a device that works for various networks unlike in america
+(08:38:45)<joe6pack>eyenot: where do you sleep, if i may ask?
+(08:40:12)<eyenot>lately i have sort of a hole in the ground somewhere 
+(08:40:33)<joe6pack>and that works out?
+(08:40:36)<joe6pack>in winter?
+(08:40:41)<eyenot>i've found that this read from stdin doesn't echo if the terminal is busy displaying something else
+(08:40:48)<eyenot>i've been out there all winter so far
+(08:40:55)<joe6pack>damn
+(08:41:07)<eyenot>last year or the year before i couldn't have done it. i had to prepare
+(08:41:15)<joe6pack>i can't even stay outside for an hour in this weather 
+(08:41:48)<eyenot>you don't acclimate?
+(08:42:34)<eyenot>... the problem is if i'm running the read-in as a loop i have to set a delay that waits for the stdin to have a character length
+(08:42:49)<joe6pack>i will probably get Pneumonia pretty quickly   
+(08:43:04)<eyenot>this is hideous. i really don't want to include anything besides stdio.h
+(08:43:12)<eyenot>i hate ncurses, it's old, clunky, and stupid
+(08:43:26)<eyenot>i'd like to just grab getch from ncurses and keep that
+(08:43:39)<eyenot>getchar is making me tear my hair out, it always waits for an enter key
+(08:43:40)<joe6pack>pdcurses is new, and marginally less  clunky, and stupid ;)
+(08:43:57)<eyenot>i might try pdcurses, just that it presents itself *as* ncurses on their page
+(08:44:06)<joe6pack>what?
+(08:44:18)<joe6pack>http://pdcurses.sourceforge.net/
+(08:44:25)<eyenot>err... it presents itself as 'curses'
+(08:44:27)<eyenot>http://pdcurses.sourceforge.net/doc/PDCurses.txt
+(08:44:28)<joe6pack>where does it say it's ncurses
+(08:44:34)<eyenot>sorry, mismemory
+(08:44:58)<eyenot>i just want one single thing, a keypress reader that reacts once a key is pressed
+(08:45:16)<joe6pack>i understand 
+(08:45:27)<joe6pack>but i don't know of an easier way to get that 
+(08:45:39)<joe6pack>other than to use some form of curses
+(08:46:18)<eyenot>i could look at their source
+(08:46:55)<joe6pack>i don't think the standard defines a way to get a char like you want to
+(08:47:20)<joe6pack>so you will have to handle platfomr dependent crap *somewhere*
+(08:47:40)<joe6pack>whether manually or using a library 
+(08:48:32)<eyenot>hmm
+(08:48:53)<joe6pack>ANSI/ISO C says nothing about it, so how can stdio implement it 
+(08:49:06)<eyenot>well i can just read from the stdio
+(08:49:08)<eyenot>err the stdin
+(08:49:24)<eyenot>and for the most part the keys create the same codes across platforms, terms, etc.
+(08:49:45)<joe6pack>i hope you don't want to use the key pad
+(08:49:58)<eyenot>i only expect a few things: dos/linux, ansi translation enabled, vt100 or ansi terminal, etc.
+(08:50:08)<eyenot>these things are so standardized i don't think portability should matter 
+(08:50:14)<eyenot>i don't want ot use the keypad
+(08:51:23)<joe6pack>eyenot: yea, only such minor terminals as the gnome-terminal, the kde terminal, mac os x's Terminal.app and possibly windows' console don't strictly conform to the standard. but who uses those anyway?
+(08:52:04)<eyenot>i see coming up with this function myself as a challenge
+(08:52:06)<eyenot>http://cermics.enpc.fr/~ts/C/FUNCTIONS/getchar.html
+(08:52:28)<eyenot>there are a lot of sob stories like this, somebody trying to implement a single-key reader but not being able to. i plan to deal with it in a file or stream approach
+(08:52:28)<joe6pack>godspeed, grass hopper 
+(08:52:52)<joe6pack>may the source be with you
+(08:53:08)<eyenot>anybody who can use xterm can emulate an ansi terminal. anybody using windows can run a dos app. the exceptions are very few.
+(08:53:19)<joe6pack>ok
+(08:53:36)<eyenot>ah i forgot. i already had this whole conversation with rotate-me ... so this is all over again
+(08:53:47)<eyenot>for a moment i was going to say 'hey, i already covered this when i first got in...'
+(08:53:56)<joe6pack>i think you may have even had it with me as well 
+(08:53:59)<eyenot>oh
+(08:54:09)<eyenot>i just figure, i'm sticking with a few things that are implemented just about everywhere
+(08:54:19)<eyenot>the last thing on my mind is worries over portability
+(08:54:23)<joe6pack>no problem. good luck. 
+(08:54:26)<eyenot>ty
+(08:56:23)<joe6pack>http://c-faq.com/osdep/cbreak.html
+(08:57:15)<eyenot>all i really have to do is find a simply written source to something like getchar and take out whatever is forcing it to wait for the newline
+(08:57:42)<joe6pack>look at the link
+(08:58:32)<joe6pack>about in the middle they start showing the source code
+(09:00:47)<eyenot>damn. i'm preempted
+(09:02:47)<eyenot>what sucks is if i try to do anything BUT this one little thing, i have no problems. as long as i'm willing to accept linebreak input.
+(09:02:55)<eyenot>this is the only hurdle.
+(09:03:39)<eyenot>so far the program will work wherever C compiles and there's a terminal or screen. as long as i don't expect single keypress input.
+(09:03:45)<eyenot>gd it
+(09:07:26)<eyenot>this is so stupid. *in the special case of stdin* ... all sorts of standard c functions have been told to wait for the enter key.
+(09:07:39)<eyenot>so it can't be treated raw like a file or stream without that happening.
+(09:31:36)<purestrain>D really kicks ass.... D2 will be superior
+(09:37:25)<konijn_nyt>greetings and salutations
+(09:38:20)<purestrain>Ave konijn_dinner. Morituri te salutant.
+(09:38:31)<konijn_nyt>Topic is: The official rec.games.roguelike.development channel | link of the day: http://kuoi.com/~kamikaze/GameDesign/art07_rogue_dungeon.php | current bot developer: RotateMe
+(09:38:43)<jomiolto>"Morituri" ?)
+(09:39:07)<konijn_nyt>garbled 'to die' I assume
+(09:39:15)<konijn_nyt>mourir
+(09:40:07)<jomiolto>I think literal translation of "morituri" is something like "ones heading towards death". That's why the question
+(09:40:29)<konijn_nyt>it's a reference to the gladiators and the Caesar I assume
+(09:40:50)<jomiolto>uhm, yes, I know, but why use that greeting? :)
+(09:40:51)<konijn_nyt>we who are about to die salute you
+(09:40:55)<konijn_nyt>ah
+(09:40:57)<purestrain>yes, i don't know the proper english term: perhaps something like "the dead consecrated greets you" ?
+(09:41:00)<jomiolto>ah, that's a much better translation
+(09:41:44)<purestrain>ah, now i know the proper translation in english :-)
+(09:42:14)<konijn_nyt>we used to greet our teachers this way before tough exams ;)
+(09:42:14)<jomiolto>"Those about to die salute you." is another translation (sounds better, imo)
+(09:42:20)<jomiolto>:D
+(09:42:44)<jomiolto>well, I'm currently on a 7drl quest, so I guess it applies to me too :)
+(09:43:11)<jomiolto>the clock is ticking and I'm... on IRC
+(09:43:16)<purestrain>hehe
+(09:43:43)<purestrain>well; i think i cannot take part of the contest
+(09:44:38)<purestrain>perhaps i should make my whole framework for everything as freely available ?
+(09:45:06)<ido>sure
+(09:45:08)<ido>why not
+(09:45:56)<konijn_nyt>of course
+(09:46:01)<konijn_nyt>the more frameworks the better
+(09:46:13)<purestrain>well, its not a framework for roguelikes ;-)
+(09:46:21)<ido>the more available code the better
+(09:46:57)<ido>you never knows where someone might need exactly what you've got and will stumble upon your code through google
+(09:54:04)<purestrain>http://retroforge.de/~md/ released
+(09:54:13)<ido>\o/
+(09:55:37)<ido>"Its not buildable because i have no makefiles ready." <-- than how did you build it?
+(09:55:44)<purestrain>codeblocks
+(09:56:07)<purestrain>i've deleted the codeblocks project files
+(09:56:24)<ido>why?
+(09:56:38)<ido>now we can't build it at all 
+(09:57:23)<ido>eek
+(09:57:29)<ido>that is a lot of code
+(09:57:49)<konijn_nyt>hmmmm
+(09:57:53)<konijn_nyt>too bad
+(09:58:02)<konijn_nyt>you know that codeblocks can export a makefile right ?
+(09:58:07)<purestrain>no
+(09:58:12)<konijn_nyt>darned
+(09:58:19)<konijn_nyt>well, you know for next time ;)
+(09:58:38)<ido>you can still update the file on your blag 
+(09:59:25)<ido>purestrain: how much of that 959kb of code is your code and how much are libs?
+(09:59:30)<ido>like lua and stuff
+(10:00:31)<purestrain>lua and xml in framework/src
+(10:00:43)<ido>so other that it's all yours?
+(10:00:52)<purestrain>i think so
+(10:01:01)<purestrain>ah no
+(10:01:12)<purestrain>include/core/sigslot.h
+(10:03:16)<ido>so about 247.5kb is yours
+(10:03:28)<purestrain>o_O i never wrote so much
+(10:03:56)<ido>959-(65.5+ 436.1+109+101)
+(10:04:09)<ido>actually 959.1-(65.5+ 436.1+109+101)
+(10:04:14)<ido>=247.5kb
+(10:04:20)<purestrain>oh
+(10:05:03)<purestrain>yes, then it is so
+(10:07:32)<konijn_nyt>oh man
+(10:07:45)<konijn_nyt>seriously, people are just so lazy
+(10:08:00)<konijn_nyt>  /* The current level number. */
+(10:08:03)<konijn_nyt>  byte dl;
+(10:09:21)<konijn_nyt>why not currentDungeonLevel ??
+(10:09:34)<konijn_nyt>you would even save out a comment ;)
+(10:09:42)<ido>that depends where that vart is
+(10:10:01)<ido>i owuld call it "level"
+(10:10:11)<purestrain>me to
+(10:10:17)<konijn_nyt>level would hold the level no ?
+(10:10:19)<purestrain>currentDungeonLevelWhereThePlayerIsIn
+(10:10:22)<konijn_nyt>with all walls/doors/monsters
+(10:10:35)<konijn_nyt>heh
+(10:11:45)<konijn_nyt>yeah
+(10:11:55)<konijn_nyt>Level is an ambigous word I guess
+(10:12:08)<konijn_nyt>maybe currentDungeonDepth ;)
+(10:12:56)<ido>why "current"
+(10:13:12)<ido>"DungeonLevel", if you are so inclined 
+(10:13:46)<konijn_nyt>ah
+(10:13:55)<konijn_nyt>mayhaps I got blindsided by the comment
+(10:14:06)<konijn_nyt>as we say at nyt, it is what it is ;)
+(10:14:47)<ido>konijn_nyt: you may be a c programmer, but you have the heart of a cobol coder 
+(10:18:12)<konijn_nyt>I am next gen COBOL coder
+(10:18:15)<konijn_nyt>oh my god
+(10:18:25)<konijn_nyt>are you saying it is bleeding into my other code ??
+(10:18:29)<konijn_nyt>that is terrible
+(10:18:50)<konijn_nyt>I do ABAP
+(10:19:43)<ido>never had anything to do with ABAP
+(10:19:47)<ido>had to google it
+(10:19:52)<konijn_nyt>hehehe
+(10:20:05)<konijn_nyt>the only thing good about it is that it guarantees good income for developers ;)
+(10:20:29)<ido>like java then ;)
+(10:20:52)<ido>at my last job i made maybe 50% more than the php programmers 
+(10:21:02)<ido>only because i was doing java and they were doing php
+(10:21:24)<ido>ok, maybe 30%
+(10:21:39)<ido>but a lot mreo, at any rate
+(10:22:08)<ido>(jesus christ that is some hardcore dyslexia)
+(10:22:25)<ido>other than the 'm' not a single letter is where it should be
+(10:23:07)<konijn_nyt>well, ABAP in general gets you 100% once you start to have like 5 years of exp
+(10:23:14)<konijn_nyt>100% more that is
+(10:23:21)<ido>:O
+(10:23:23)<konijn_nyt>yeah
+(10:23:25)<ido>than what?
+(10:23:29)<konijn_nyt>than php
+(10:23:44)<konijn_nyt>PHP employee would be about 70K
+(10:23:45)<ido>yea php pays the worst 
+(10:23:51)<konijn_nyt>ABAP would be about 140K
+(10:24:18)<ido>well these are ny/cali rates 
+(10:24:24)<konijn_nyt>indeed
+(10:24:28)<konijn_nyt>I guess
+(10:24:34)<konijn_nyt>although there is a limited amount of ABAPers
+(10:25:05)<ido>in israel a nice java or c++ job would net you maybe 80k usd
+(10:25:05)<konijn_nyt>I have friends in that state with horse carts and the black clothes
+(10:25:17)<ido>if you have ~3 years expereince 
+(10:25:23)<konijn_nyt>ah
+(10:25:32)<konijn_nyt>hmmm
+(10:25:35)<konijn_nyt>I would have given you more
+(10:25:50)<ido>me personally?
+(10:25:58)<konijn_nyt>ys
+(10:26:18)<ido> 80k usd goes a long way in tel aviv 
+(10:26:27)<ido>it is cheaper than nyc
+(10:26:39)<konijn_nyt>yeah , prices are insane here
+(10:26:53)<konijn_nyt>I pay like 4200 usd montly rent
+(10:27:00)<ido>:O
+(10:27:02)<konijn_nyt>of course, I have 3 children and a nanny
+(10:27:06)<ido>how big is your place?
+(10:27:15)<konijn_nyt>it's a 2 family home just for us
+(10:27:28)<ido>inside the city?
+(10:27:33)<konijn_nyt>no no
+(10:27:37)<konijn_nyt>westchester
+(10:27:48)<konijn_nyt>about manhattan is the bronx, above the bronx is westchester
+(10:27:56)<konijn_nyt>*above manhattan
+(10:28:06)<konijn_nyt>30 minutes train ride to times square
+(10:28:13)<ido>not too bad
+(10:28:27)<ido>i would call 30 mins "in nyc"
+(10:28:39)<konijn_nyt>okay ;)
+(10:28:42)<ido>or at least "in greater nyc"
+(10:28:43)<konijn_nyt>nyc is realy small though
+(10:29:17)<konijn_nyt>http://maps.google.com/?ie=UTF8&ll=40.961414,-73.729317&spn=0.001199,0.00294&t=h&z=19
+(10:29:33)<konijn_nyt>the center wood street label, the house left of it, with the black roof
+(10:29:34)<ido>ah
+(10:29:42)<ido>that looks very suburban 
+(10:29:45)<konijn_nyt>indeed
+(10:29:50)<konijn_nyt>you cant really say that is nyc
+(10:30:00)<ido>i thought it would be more urban 
+(10:30:09)<konijn_nyt>noops
+(10:30:31)<konijn_nyt>my previous house costed to much, but was way cooler
+(10:31:16)<konijn_nyt>http://maps.google.com/maps?f=q&hl=en&geocode=&q=80+Garden+Rd,+Scarsdale,+NY+10583&sll=40.961414,-73.729317&sspn=0.61393,1.505127&ie=UTF8&ll=41.006527,-73.773864&spn=0.000599,0.00147&t=h&z=20&iwloc=addr
+(10:31:41)<konijn_nyt>this was also 30 minutes train ride to nyc
+(10:32:35)<ido>looks like the setting of a zombie film 
+(10:32:49)<ido>with all those dead trees around 
+(10:36:09)<konijn_nyt>heheh
+(10:36:38)<konijn_nyt>that's why autumn and snowless winter is so depressing here
+(10:37:07)<ido>nyc's population density is only slightly more than tel aviv's 
+(10:37:20)<RotateMe_witDog>konijn_nyt: where do you know ABAP from?
+(10:37:21)<ido>10k/sq. km vs 7k
+(10:37:39)<ido>but it is much bigger
+(10:37:47)<konijn_nyt>Got course on my first job with Procter & Gamble in Brussels
+(10:37:56)<ido>i figured the difference would be bigger
+(10:38:00)<konijn_nyt>got 70% pay increase after I changed
+(10:38:19)<RotateMe>k, i'm currently doing a work while study thing for the company which developed ABAP
+(10:38:30)<ido>sap?
+(10:38:30)<konijn_nyt>SAP ?
+(10:39:05)<ido>(beat you by milliseconds) 
+(10:39:16)<konijn_nyt>no on my screen ;)
+(10:39:22)<ido>:O
+(10:39:28)<ido>huh
+(10:39:33)<RotateMe>ys
+(10:39:36)<konijn_nyt>hmmm
+(10:39:41)<konijn_nyt>which SAP office ?
+(10:39:49)<RotateMe>Walldorf in germany
+(10:39:50)<ido>i guess irc doesn't allow that kind of granuality 
+(10:39:51)<RotateMe>the hq
+(10:40:06)<konijn_nyt>wow
+(10:40:08)<konijn_nyt>that is cool
+(10:40:19)<konijn_nyt>so what's the study about ?
+(10:40:24)<RotateMe>yeah it's nice to have income during your study but i will be switching though
+(10:40:26)<konijn_nyt>how to kill ABAP with java ;)
+(10:40:49)<RotateMe>no i think i chose the wrong words
+(10:41:08)<RotateMe>not a study but i'm studying 3 month and working 3 months for 3 years
+(10:41:22)<RotateMe>and after that the company may employ you in most cases
+(10:42:01)<RotateMe>problem is 8 of 11 subjects in the university are economic subjects
+(10:42:13)<RotateMe>only 2 are vaguely about IT
+(10:42:25)<konijn_nyt>np for SAP I think
+(10:42:30)<RotateMe>not my cup of tea so i'm thinking about doing something else
+(10:42:31)<ido>what is your course of study 
+(10:42:54)<RotateMe>business economics with information technology
+(10:43:08)<ido>sounds boring 
+(10:43:13)<RotateMe>yup
+(10:43:34)<RotateMe>i guess i'll go for math with information technology :D
+(10:44:53)<ido>actually it sounds more bourgeois than boring 
+(10:46:37)<RotateMe>business economics?
+(10:47:25)<ido>yes
+(10:47:30)<ido>heh: http://upload.wikimedia.org/wikipedia/commons/e/e2/TelAviv-paam4.jpg
+(10:47:38)<ido>used to look much nicer than it does today
+(10:48:06)<ido>that street is probably packed with sky scrapers today 
+(11:15:17)<konijn_nyt>hmmm
+(11:15:38)<konijn_nyt>topic shoud be the official rgrd channel
+(11:15:48)<konijn_nyt>topic is long, can barely click on the link ;)
+(11:15:56)<ido>you can change it
+(11:15:59)<ido>please do :)
+(11:16:12)<ido>i think it is your link anyway 
+(11:16:18)<konijn_nyt>it is
+(11:16:31)<konijn_nyt>this link broke my mental coding block for dungeon generation
+(11:16:59)<ido>change the topic to the shorter version
+(11:17:05)<ido>you can do it :)
+(11:17:22)<konijn_nyt>workin' on it ;)
+(11:17:25)<ido> /topic ...
+(11:17:58)<konijn_nyt> The official rec.games.roguelike.development channel | link of the day: http://kuoi.com/~kamikaze /GameDesign/art07_rogue_dungeon.php | current bot developer: RotateMe
+(11:18:46)<konijn_nyt>The official rec.games.roguelike.development channel | link of the day: http://kuoi.com/~kamikaze /GameDesign/art07_rogue_dungeon.php | current bot developer: RotateMe
+(11:19:25)<konijn_nyt> The official r.g.r.d channel | link of the day: http://kuoi.com/~kamikaze/GameDesign/art07_rogue_dungeon.php | current bot developer: RotateMe
+(11:19:35)<konijn_nyt>damn
+(11:19:40)<ido>FAIL
+(11:19:52)<ido>\o/
+(11:20:10)<konijn_nyt>IceChat just dropped in my opinion
+(11:22:22)<RotateMe>and i'm no longer developing the bot
+(11:22:37)<konijn_nyt>you know where to send it ;)
+(11:22:41)<ido>RotateMe: find yourself a replacement then
+(11:23:09)<ido>konijn_nyt: i'll sned you the one i have with the latest log
++++ Start of log: Sat Feb 16 19:10:49 EST 2008 +++
+(07:11:27)<ido>rgrd news
+(07:11:28)<joe6bot>Re: Combat-less themes
+(07:11:28)<joe6bot>http://groups.google.com/group/rec.games.roguelike.development/msg/019488c85978372e
+(07:11:28)<joe6bot>Re: 7drl starting announcement
+(07:11:28)<joe6bot>http://groups.google.com/group/rec.games.roguelike.development/msg/384c7a4fb95a3484
+(07:11:28)<joe6bot>Re: Beginner's Guide to Roguelike Development [New Release]
+(07:11:28)<joe6bot>http://groups.google.com/group/rec.games.roguelike.development/msg/1f8d32e50c292bf3
+(07:11:28)<joe6bot>Re: 7DRL Announcement: Alan's Psychedelic Journey
+(07:11:28)<joe6bot>http://groups.google.com/group/rec.games.roguelike.development/msg/e01aef9137d39a19
+(07:11:40)<konijn_nyt>rgrd news
+(07:11:40)<joe6bot>Re: Combat-less themes
+(07:11:40)<joe6bot>http://groups.google.com/group/rec.games.roguelike.development/msg/019488c85978372e
+(07:11:40)<joe6bot>Re: 7drl starting announcement
+(07:11:40)<joe6bot>http://groups.google.com/group/rec.games.roguelike.development/msg/384c7a4fb95a3484
+(07:11:40)<joe6bot>Re: Beginner's Guide to Roguelike Development [New Release]
+(07:11:40)<joe6bot>http://groups.google.com/group/rec.games.roguelike.development/msg/1f8d32e50c292bf3
+(07:11:40)<joe6bot>Re: 7DRL Announcement: Alan's Psychedelic Journey
+(07:11:40)<joe6bot>http://groups.google.com/group/rec.games.roguelike.development/msg/e01aef9137d39a19
+(07:11:48)<konijn_nyt>okay, so it listens to me ;)
+(07:12:00)<ido>seems slow for some reason
+(07:12:12)<konijn_nyt>it might trottle
+(07:12:19)<konijn_nyt>to not get thrown out for flooding
+(07:12:25)<ido>no,
+(07:12:32)<ido>i mean it seems slower than before
+(07:12:36)<konijn_nyt>ah
+(07:12:44)<ido>maybe not 
+(07:12:53)<ido>it's fast enough, at any rate 
+(07:13:01)<ido>time
+(07:13:01)<joe6bot>ido: The time is now Sat Feb 16 19:13:01 EST 2008
+(07:13:08)<ido>hah
+(07:13:10)<konijn_nyt>5d6
+(07:13:18)<konijn_nyt>hmmm, I will need to add that
+(07:13:19)<ido>it uses the time in your locale 
+(07:13:30)<konijn_nyt>adom?
+(07:13:37)<ido>EST
+(07:13:46)<konijn_nyt>go New York !
+(07:13:51)<konijn_nyt>not really though
+(07:13:56)<konijn_nyt>cant wait to get out of here ;)
+(07:14:01)<ido>it was CET when we were running it 
+(07:14:06)<konijn_nyt>but dont tell my employers , heheh
+(07:14:09)<ido>where to?
+(07:14:13)<konijn_nyt>dont know yet
+(07:14:19)<konijn_nyt>I am rooting for Brendisi Italy
+(07:14:25)<konijn_nyt>or Santiago de Chili
+(07:14:27)<ido>most people i've asked liked living in ny
+(07:14:40)<konijn_nyt>I hate commuting with a passion, even half an hour
+(07:15:01)<konijn_nyt>which is really an hour if you cant walking to train station and walking to times square
+(07:15:19)<konijn_nyt>*count 
+(07:15:25)<RotateMe>getquote rl
+(07:15:27)<ido>yea an hour in each direction is a bitch 
+(07:15:34)<konijn_nyt>indeed
+(07:15:38)<RotateMe>...
+(07:15:40)<konijn_nyt>I dont spend enough time with the kids
+(07:15:53)<ido>took me about half an hour here in vienna 
+(07:15:55)<RotateMe>getquote roguelike
+(07:16:00)<ido>when i was working, that is
+(07:16:05)<RotateMe>randomquote
+(07:16:05)<joe6bot>roguetower: http://roguebasin.roguelikedevelopment.org/index.php?title=RogueTower
+(07:16:11)<RotateMe>randomquote
+(07:16:11)<joe6bot>crack: <@joe6pack> Schlongs and Crevices
+(07:16:17)<RotateMe>randomquote
+(07:16:17)<joe6bot>roguetower: http://roguebasin.roguelikedevelopment.org/index.php?title=RogueTower
+(07:16:19)<RotateMe>randomquote
+(07:16:19)<joe6bot>roguetower: http://roguebasin.roguelikedevelopment.org/index.php?title=RogueTower
+(07:16:21)<RotateMe>randomquote
+(07:16:21)<joe6bot>dungeonhunter: http://home.arcor.de/dungeonhunter/Screens/
+(07:16:23)<RotateMe>randomquote
+(07:16:23)<joe6bot>RL: <syntax_tn> it'd be interesting to know the ratio of started/unfinished/abandoned roguelikes to "finished" (up to the point of fun replayability) ones. a wild guess 20:1?
+(07:16:30)<RotateMe>ha!
+(07:16:37)<RotateMe>getquote rl
+(07:16:43)<RotateMe>getquote RL
+(07:16:50)<RotateMe>getquote  RL
+(07:17:03)<RotateMe>uhm
+(07:17:08)<RotateMe>gquote rl
+(07:17:09)<ido>getquote RL
+(07:18:02)<ido>getquote RL
+(07:18:07)<RotateMe>getquote dungeonhunter
+(07:18:07)<joe6bot>dungeonhunter(0): http://home.arcor.de/dungeonhunter/Screens/
+(07:18:27)<konijn_nyt>so, why would you store curDate in a variable ?
+(07:18:48)<ido>ask RotateMe 
+(07:19:07)<RotateMe>to compare it to the time when a message arrives
+(07:19:16)<RotateMe>if the time differs, announce the changed date
+(07:19:20)<konijn_nyt>oooh
+(07:20:02)<RotateMe>i knew i made too few comments ;)
+(07:22:07)<ido>Santiago de Chile looks nice
+(07:22:30)<ido>the quesetion is, can you find a job as a programmer there
+(07:22:53)<konijn_nyt>sure I can
+(07:23:09)<konijn_nyt>I would make less money of course
+(07:23:12)<konijn_nyt>but hey
+(07:23:21)<konijn_nyt>the weather would be better than here !
+(07:25:19)<ido>huh
+(07:25:19)<ido>not bad
+(07:25:20)<konijn_nyt>indeed
+(07:25:21)<konijn_nyt>architect-developer , but still
+(07:25:37)<konijn_nyt>I would work for multi-national like I have done before
+(07:25:43)<konijn_nyt>same sh*t, different country ;)
+(07:26:03)<ido>have you worked there already?
+(07:27:29)<konijn_nyt>noops
+(07:27:38)<konijn_nyt>I worked in Belgium, Canada and US
+(07:28:04)<konijn_nyt>but as I understand from my traveling collegues, it really is no different in South American capitals
+(07:28:42)<ido>i've known some south americans here in europe
+(07:28:53)<ido>mostly women in their 20's-30's
+(07:28:59)<konijn_nyt>;)
+(07:29:11)<ido>from what i;ve heard a lot fo the big cities over there are quite dangerous 
+(07:29:19)<konijn_nyt>you have to be carefull
+(07:29:37)<konijn_nyt>it's not as if nyc is heaven either
+(07:29:47)<konijn_nyt>or tel aviv I imagine
+(07:29:59)<ido>yes, well that depends 
+(07:30:44)<ido>the problems in israel in that respect are from terrorism, not crime 
+(07:31:17)<ido>and that tends to focus in the colonies and to a lesser jerusalem 
+(07:31:50)<konijn_nyt>which reminds me
+(07:32:01)<ido>in the past decade there have been very few terrorist activities in TA
+(07:32:40)<konijn_nyt>Another potential location would also be Jordany
+(07:32:49)<ido>jordan?
+(07:32:52)<konijn_nyt>yes
+(07:32:56)<konijn_nyt>my wife works with the UN
+(07:33:00)<konijn_nyt>so I follow her
+(07:33:06)<konijn_nyt>there is a big UNRA basis in Jordany
+(07:33:19)<konijn_nyt>with schools/hospitals/etc for Palestinian refugees
+(07:33:24)<ido>i don't think there is much of a  software industry over there 
+(07:33:28)<konijn_nyt>indeed
+(07:33:37)<konijn_nyt>oh well
+(07:33:46)<konijn_nyt>maybe I would have to get into offshore model
+(07:33:50)<konijn_nyt>compete with the Indians ;)
+(07:33:58)<ido>you could commute to israel ;)
+(07:34:06)<konijn_nyt>heheh
+(07:34:18)<ido>the border is open since '94
+(07:34:23)<ido>so it is allowed 
+(07:34:27)<konijn_nyt>as I understand Jordan does not accept passports with Israel stamps
+(07:34:34)<konijn_nyt>I could go , but not come back
+(07:34:36)<ido>that not true
+(07:34:41)<konijn_nyt>you sure ??
+(07:34:45)<ido>you are thinking of Syria maybe
+(07:34:51)<konijn_nyt>maybe
+(07:34:53)<konijn_nyt>gtg
+(07:35:44)<RotateMe>i'll be going too, bye!
+(07:35:57)<ido>i should go to bed as well
+(08:45:52)<konijn_wife>anybody still reading here ?
+(08:45:55)<konijn_wife>I guess not
+(08:45:59)<konijn_wife>I will play a bit with the bot
+(08:46:03)<konijn_wife>'go fetch' ;)
++++ Start of log: Sat Feb 16 21:14:12 EST 2008 +++
+(09:14:29)<konijn_nyt>commands
+(09:14:29)<joe6bot>Available commands:
+(09:14:29)<joe6bot>time (by joe6pack)
+(09:14:29)<joe6bot>[subject] news (by joe6pack)
+(09:14:29)<joe6bot>news sources (by joe6pack)
+(09:14:29)<joe6bot>decide [option1],[option2] (by RotateMe)
+(09:14:29)<joe6bot>quote [keyword],[quote] (by RotateMe)
+(09:14:29)<joe6bot>getquote [keyword] (by RotateMe)
+(09:14:29)<joe6bot>randomquote (by RotateMe)
+(09:14:49)<konijn_nyt>quote linux
+(09:15:00)<konijn_nyt>getquote linux
+(09:15:00)<joe6bot>linux(0): <+deveah> i'll be the only linux user in Bucharest :P
+(09:15:00)<joe6bot>linux(1): sucks more
+(09:15:00)<joe6bot>linux(2): no it doesn't 
++++ Start of log: Sat Feb 16 21:18:02 EST 2008 +++
+(09:18:13)<konijn_nyt>me neither
+(09:18:27)<konijn_nyt>Maybe I should add a remove quote feature ;)
+(09:18:35)<konijn_nyt>I saw you hop on
+(09:18:39)<konijn_nyt>I am playtesting the bot
+(09:18:45)<konijn_nyt>my apologies if you hate clutter
+(09:51:53)<jomiolto>hmm, my 7drl is starting to look like a roguelike: http://www.hytti.uku.fi/~jmtoivan/apj.png :)
+(09:54:11)<konijn_nyt>indeed it is
+(09:54:51)<jomiolto>now it just has to feel like one too :)
+(09:55:30)<konijn_nyt>As long as you have life, it will feel like it 
+(09:55:34)<konijn_nyt>and not too silly controls
+(09:56:29)<jomiolto>well, the idea is quite different from most other roguelikes
+(09:56:51)<konijn_nyt>hmmm
+(09:56:52)<jomiolto>at least according to my current plans there will be no actual fighting with monsters at all
+(09:56:57)<konijn_nyt>ah
+(09:57:00)<konijn_nyt>combat less 
+(09:57:08)<konijn_nyt>i see you skipped on los ;)
+(09:57:29)<jomiolto>not really, the los just isn't highlighted and I have explored almost the whole level in the screenie
+(09:57:55)<jomiolto>the game does have a regular ray-casting with bresenhams' algorithms LOS
+(09:58:51)<konijn_nyt>ah
+(09:58:59)<konijn_nyt>okay
+(09:59:09)<jomiolto>hmm, and I don't quite like the dungeon generation, but hopefully I'll have time to tweak it later
+(09:59:13)<konijn_nyt>so you remember monster positions ?
+(09:59:20)<konijn_nyt>or T and t are not monsters ?
+(09:59:30)<jomiolto>nope, there aren't any monsters in the screenie :) they're all "items"
+(09:59:41)<konijn_nyt>good enough
+(09:59:44)<konijn_nyt>sounds intriguing
+(10:00:32)<konijn_nyt>help?
+(10:00:32)<null>Available commands:
+(10:00:32)<null>time (by joe6pack)
+(10:00:32)<null>[subject] news (by joe6pack)
+(10:00:32)<null>news sources (by joe6pack)
+(10:00:32)<null>decide [option1],[option2] (by RotateMe)
+(10:00:32)<null>quote [keyword],[quote] (by RotateMe)
+(10:00:32)<null>getquote [keyword] (by RotateMe)
+(10:00:32)<null>randomquote (by RotateMe)
+(10:02:39)<jomiolto>heh, I first thought of reusing an old dungeon generator I had written for another roguelike project, but the code was so awful and messy that it was easier to rewrite the whole thing according to the same general idea
+(10:03:24)<konijn_nyt>its funny how we keep getting better at refactoring
+(10:03:34)<konijn_nyt>I wonder how my code will look when I'm 60
+(10:03:39)<jomiolto>yeah :)
+(10:04:06)<jomiolto>although the source of this 7drl won't be pretty :P
+(10:04:52)<konijn>man, someone already registered konijn as a nick
+(10:04:55)<konijn>that sucks
++++ Start of log: Sat Feb 16 22:30:59 EST 2008 +++
+(10:31:14)<konijn>roll 3d6
+(10:31:14)<null>9
+(10:31:17)<konijn>cool
+(10:31:22)<konijn>roll 4d5
+(10:31:22)<null>13
+(10:31:30)<konijn>rol d100
+(10:31:36)<konijn>roll d100
+(10:31:42)<konijn>roll 1d100
+(10:31:48)<konijn>hmm
+(10:31:51)<konijn>rol 1d99
+(10:31:55)<konijn>roll 1d99
+(10:31:55)<null>67
+(10:32:15)<konijn>rol 1d10
+(10:32:18)<konijn>roll 1d10
+(10:32:24)<konijn>huh
+(10:32:28)<konijn>stupid regexp
+(10:32:33)<konijn>does not take 0 ;)
++++ Start of log: Sat Feb 16 22:33:06 EST 2008 +++
+(10:33:19)<konijn>roll 1d10
+(10:33:19)<null>1
+(10:33:22)<konijn>roll 1d10
+(10:33:22)<null>2
+(10:33:25)<konijn>roll 1d10
+(10:33:25)<null>9
+(10:33:30)<konijn>roll 1d1
+(10:33:30)<null>1
+(10:33:34)<konijn>roll 10d1
+(10:33:40)<konijn>damnit
++++ Start of log: Sat Feb 16 22:35:16 EST 2008 +++
+(10:35:31)<konijn>roll 1d10
+(10:35:31)<null>9
+(10:35:34)<konijn>roll 10d1
+(10:35:34)<null>10
+(10:35:37)<konijn>good boy
+(10:35:42)<konijn>roll 0d0
+(10:35:42)<null>0
+(10:35:46)<konijn>roll 0d6
+(10:35:46)<null>0
+(10:35:49)<konijn>roll 6d0
+(10:35:49)<null>6
+(10:35:53)<konijn>hmmm
+(10:37:03)<konijn>oh well
+(10:37:07)<konijn>roll 27d4
+(10:37:07)<null>71
+(10:37:16)<konijn>help?
+(10:37:16)<null>Available commands:
+(10:37:16)<null>time (by joe6pack)
+(10:37:16)<null>[subject] news (by joe6pack)
+(10:37:16)<null>news sources (by joe6pack)
+(10:37:16)<null>decide [option1],[option2] (by RotateMe)
+(10:37:16)<null>quote [keyword],[quote] (by RotateMe)
+(10:37:16)<null>getquote [keyword] (by RotateMe)
+(10:37:16)<null>randomquote (by RotateMe)
+(10:37:16)<null>roll (by konijn)
+(10:37:28)<konijn>new
+(10:37:31)<konijn>news
+(10:37:39)<konijn>news sources
+(10:37:39)<null>gsw news: http://feed43.com/atplay.xml
+(10:37:39)<null>rgrd news: http://groups.google.com/group/rec.games.roguelike.development/feed/rss_v2_0_msgs.xml
+(10:37:39)<null>rt news: http://www.roguetemple.com/feed/
+(10:37:39)<null>rgra news: http://groups.google.com/group/rec.games.roguelike.announce/feed/rss_v2_0_msgs.xml
+(10:37:39)<null>delicious news: http://feeds.delicious.com/rss/tag/roguelike
+(10:37:39)<null>rl news: http://rogue-life.ourden.org/rss.xml
+(10:37:50)<konijn>rl news
+(10:37:52)<null>Cracks and Crevices 0.4
+(10:37:52)<null>http://rogue-life.ourden.org/news_Cracks-and-Crevices_0.4
+(10:37:52)<null>DaJAngband 1.0.03 has been released
+(10:37:52)<null>http://rogue-life.ourden.org/news_DaJAngband_1.0.03
+(10:37:52)<null>ADOM 1.1.1 Beta 5 for the Macintosh released
+(10:37:52)<null>http://rogue-life.ourden.org/news_ADOM_1.1.1_Beta_5_for_MacOS
+(10:37:52)<null>Labyrinth of Reptoran v0.2.8 has been released
+(10:37:52)<null>http://rogue-life.ourden.org/news_Labyrinth_of_Reptoran_v0.2.8
+(10:38:04)<konijn>rt news
+(10:38:07)<null>Community Update
+(10:38:07)<null>http://www.roguetemple.com/2008/02/13/community-update/
+(10:38:07)<null>Omega for windows, updated!
+(10:38:07)<null>http://www.roguetemple.com/2008/02/13/omega-for-windows-updated/
+(10:38:07)<null>Releases Wire VIII
+(10:38:07)<null>http://www.roguetemple.com/2008/02/13/releases-wire-viii/
+(10:38:07)<null>A tale of three “rogue” 7DRLs
+(10:38:07)<null>http://www.roguetemple.com/2008/02/02/a-tale-of-three-rogue-7drls/
+(10:49:49)<konijn>oh my god
+(10:49:52)<konijn>google code rocks now
+(10:49:56)<konijn>with their svn stuff
+(10:56:22)<konijn>wow
+(10:56:25)<konijn>rpgbot
+(10:56:33)<konijn>the ultimate waste of time
+(10:56:39)<konijn>must ... resist ...
+(10:57:34)<TMC>huh
+(10:57:43)<TMC>what svn stuff
+(11:00:08)<jomiolto>wow, that was obscure
+(11:00:10)<jomiolto>just wow
+(11:00:27)<jomiolto>for some reason SDL fails if I define a function called connect in my code
+(11:00:47)<jomiolto>it calls the function with weird parameters and everything crashes and burs
+(11:00:58)<jomiolto>*burns
+(11:01:10)<Aerton>SDL_Net?
+(11:01:25)<jomiolto>just regural SDL and SDL_ttf
+(11:01:58)<Aerton>hm, regular SDL shouldn't use connect
+(11:02:27)<TMC>:O
+(11:02:45)<jomiolto>um, what is connect? and why can't I define a function called "connect" if I use SDL?
+(11:03:24)<Aerton>it's one of the socket routines
+(11:03:59)<Aerton>perhaps, SDL includes some system .h where it's defined
+(11:04:23)<jomiolto>oh, right, "man connect" displays documentation of the function
+(11:04:58)<Aerton>just rename yours
+(11:05:09)<TMC>or make it static
+(11:05:20)<Aerton>that would work too
+(11:05:20)<jomiolto>hmm
+(11:05:24)<TMC>(dungeon connection I assume?)
+(11:05:33)<Aerton>if you only need it on one file
+(11:05:44)<Aerton>but then it should be static anyway
+(11:05:52)<jomiolto>renaming it words, but I still don't quite get why SDL ended up calling my "connect" function?
+(11:06:21)<TMC>incidently, can the compiler do any extra optimisations on static fucntions?
+(11:06:28)<jomiolto>and if function connect is already defined, then why didn't gcc warn me about it
+(11:06:48)<TMC>hmm, maybe not, you could still possibly need a function pointer to a static function
+(11:06:59)<Aerton>because compiler can't know about it
+(11:07:11)<Aerton>the mess only occurs when you run the program
+(11:07:36)<Aerton>compiler *may* optimise static functions
+(11:07:46)<jomiolto>actually, now that I think of it, my gcc has been behaving oddly for sometime already
+(11:08:01)<jomiolto>for some reason it often fails to warn me about functions having a wrong number of parameters
+(11:08:02)<Aerton>no, that's normal behaviour
+(11:08:11)<Aerton>do you use -Wall ?
+(11:08:14)<jomiolto>yeah
+(11:08:23)<Aerton>try -Wextra
+(11:08:34)<Aerton>in addition
+(11:09:01)<Aerton>-Wshadow is also nice
+(11:09:07)<TMC>-Wshadow?
+(11:09:30)<Aerton>warns if you overshadow a global variable name with a local one
+(11:09:41)<TMC>ah
+(11:11:29)<jomiolto>blah, it still lets me call a function with any number of parameters, no matter what the prototype of the function looks like
+(11:11:32)<jomiolto>weird
+(11:11:44)<Aerton>that's C, not C++ ?
+(11:11:50)<jomiolto>yeah, plain C
+(11:12:16)<Aerton>in C function names don't include info about parameters
+(11:13:17)<jomiolto>yeah, but prototypes do
+(11:13:31)<jomiolto>or whatever they're called
+(11:13:45)<jomiolto>the "int function(blah blah);" things you put in .h files
+(11:14:07)<Aerton>so what? that's runtime, not a compilation issue
+(11:14:38)<jomiolto>gcc warns me about missing prototypes, but does nothing when the prototype exists, but the function is called with wrong number/type of parameters
+(11:15:05)<Aerton>do you listen to me?
+(11:15:08)<jomiolto>yes
+(11:15:33)<Aerton>gcc can not complain about that issue
+(11:15:46)<Aerton>SDL uses system header with system connect
+(11:15:55)<Aerton>your code uses your header with our's
+(11:16:07)<TMC>"ours"?
+(11:16:10)<TMC>are you a SDL dev?
+(11:16:21)<jomiolto>oh, I wasn't talking about that issue anymore
+(11:16:21)<Aerton>duh, missed y :)
+(11:16:30)<jomiolto>this happens with my own functions too
+(11:16:47)<Aerton>since, they are compiled separately, the issue never occurs to gcc
+(11:17:23)<Aerton>but in runtime, when you binary runs, it loads SDL
+(11:17:34)<Aerton>SDL needs a functon named connect
+(11:17:43)<Aerton>and your binary have it exported
+(11:17:56)<Aerton>the glibc has connect too
+(11:18:04)<Aerton>but your connect takes a priority
+(11:18:26)<jomiolto>well, I renamed the function already and this weirdness still happens, even when I compile without SDL
+(11:18:47)<Aerton>hm?
+(11:19:03)<Aerton>what's a problem than?
+(11:19:14)<jomiolto>if I have a function "int foo();", gcc lets me call it with *any* number of parameters
+(11:19:34)<Aerton>that's correct
+(11:19:41)<jomiolto>no matter what the prototype says, I can feed anything to the functions
+(11:19:53)<Aerton>in C, int foo() is the same as int foo(...)
+(11:20:02)<jomiolto>hmm?
+(11:20:03)<Aerton>use int foo (void)
+(11:20:13)<TMC>oo
+(11:20:17)<TMC>I didn't know that
+(11:20:29)<jomiolto>not in recent C, at least to my knowledge
+(11:20:33)<Aerton>it's different from C++, where int foo() is the same as int foo(void)
+(11:21:08)<TMC>reinforcing that C !subsetof C++
+(11:21:53)<jomiolto>well, it happens with functions that have parameters too
+(11:22:49)<jomiolto>for example, I have a "long dice(const char *str);" function and gcc lets me call it with any parameters I want
+(11:23:19)<jomiolto>I can do "dice(10, "hello world!", 1.30F);" and gcc compiles it happily, but then it crashes when I run it
+(11:23:21)<TMC>why don't you use dice(int,int) :(
+(11:24:19)<jomiolto>I have a separate version with long parameters, called ldice :)
+(11:24:48)<Aerton>try -Wmissing-prototypes
+(11:24:56)<TMC>you've lost me
+(11:24:59)<Aerton>sounds you don't have prototype visible where it's used
+(11:25:16)<TMC>aren't long's 32bit on 32 bit machines?
+(11:25:26)<TMC>(or am I confused with FB?)
+(11:25:34)<Aerton>it is
+(11:26:27)<jomiolto>long is anything with 32bits or more
+(11:26:36)<TMC>well are you planning to compile your code on 16bit machines?
+(11:26:48)<jomiolto>well, who knows :)
+(11:27:26)<jomiolto>hmm, now I'm getting warnings again, weird :(
+(11:27:57)<jomiolto>um, make that errors, of course
+(11:28:27)<jomiolto>sometimes I get warnings of bad number of arguments, sometimes not
+(11:29:49)<jomiolto>ah, it was a problem with makefiles
+(11:30:17)<jomiolto>I had "-Wall" missing from some places
+(11:31:02)<jomiolto>hmm, no that's not it either :(
+(11:31:12)<jomiolto>I think I'm going insane, that must be it...
+(11:35:34)<jomiolto>well, now everything seems to be okay, but I don't understand how I managed to compile bad code earlier
++++ The date has changed: 2008/02/17 +++
+(01:34:47)<Numeron>is there a standard terminal size above 80x25?   ...is it 80x50?
+(02:01:21)<Aerton>standard is 80x24
+(02:02:31)<Numeron>heh, yeah that one... is there a standard size larger though?
+(02:04:19)<Aerton>AFAIK, this is the only one
+(02:05:02)<Numeron>hmm ok.. 
+(02:05:06)<Numeron>cheers
+(02:14:53)<xGrue>are you using curses?
+(02:28:19)<Numeron>yep.. ideally i want something that looks good fullscreen on a 4:3 monitor...
+(02:48:52)<TMC>huh
+(02:49:00)<TMC>what about 40x24 or whatever it was
+(03:02:35)<TMC>with nice a square font
+(03:03:10)<TMC>fonts twice as high as they are wide are bad for rl's in my opinion
+(05:37:39)<RotateMe>4d6
+(05:37:50)<RotateMe>randomquote
+(05:37:50)<null>crack: <DaEezT> Cracks and Crevices sounds liek a porn movie
+(05:40:58)<Numeron>haha
+(05:44:22)<TMC>where do all these quotes keep coming from
+(05:44:26)<TMC>verily suspect
+(05:51:48)<RotateMe>from this channel
+(05:51:58)<DaEezT>from me
+(05:52:01)<DaEezT>:p
+(05:53:51)<RotateMe>hmm when plugged into my laptop, my monitor flickers where dark colours are
+(05:54:02)<RotateMe>that's not the case when plugged into my old pc
+(05:54:15)<RotateMe>same resolution and colour depth and hz... any ideas?
+(05:57:28)<RotateMe>commands
+(05:57:28)<null>Available commands:
+(05:57:28)<null>time (by joe6pack)
+(05:57:28)<null>[subject] news (by joe6pack)
+(05:57:28)<null>news sources (by joe6pack)
+(05:57:28)<null>decide [option1],[option2] (by RotateMe)
+(05:57:28)<null>quote [keyword],[quote] (by RotateMe)
+(05:57:28)<null>getquote [keyword] (by RotateMe)
+(05:57:28)<null>randomquote (by RotateMe)
+(05:57:28)<null>roll (by konijn)
+(05:57:40)<joe6pack>roll
+(05:57:43)<RotateMe>roll 4d7
+(05:57:43)<null>15
+(05:57:44)<joe6pack>roll 6d3
+(05:57:44)<null>9
+(05:57:50)<joe6pack>hah
+(05:57:52)<RotateMe>nice
+(05:57:53)<joe6pack>nifty 
+(05:58:19)<RotateMe>roll 240d58
+(05:58:26)<RotateMe>:p
+(05:58:53)<purestrain>yeah; what about a irc rpg? ;-)
+(05:58:55)<RotateMe>roll 24d6
+(05:58:55)<null>79
+(05:59:01)<joe6pack>irc mud
+(05:59:04)<purestrain>roll 1d0
+(05:59:04)<null>1
+(05:59:09)<purestrain>o_O
+(05:59:17)<RotateMe>purestrain, it's in the ideas section
+(05:59:37)<purestrain>roll 10d1
+(05:59:37)<null>10
+(05:59:45)<purestrain>roll 0d-1
+(06:06:45)<RotateMe>0d0
+(06:06:49)<RotateMe>1d1
+(06:06:55)<RotateMe>roll 0d0
+(06:06:55)<null>0
+(06:07:52)<Aerton>roll 1d1.5
+(06:07:59)<Aerton>roll 1d15
+(06:07:59)<null>8
+(06:08:05)<Aerton>roll 1d1e3
+(06:08:15)<Aerton>roll 1d1,5
+(06:09:31)<joe6pack>i wish throwing weapons weren't so useless in fallout and fallout 2
+(06:10:25)<joe6pack>i like the way throwing daggers and spears and so on in crawl is actually useful 
+(06:11:09)<purestrain>roll 2D6
+(06:11:09)<null>7
+(06:11:54)<Aerton>no wonder spear is useless against colt or uzi
+(06:12:39)<joe6pack>Aerton: yea, well they could have made firearms and ammo more scarce 
+(06:12:48)<joe6pack>they actually did that in fallout 2,
+(06:12:55)<joe6pack>but only at the veru beginning 
+(06:13:45)<joe6pack>another problem is that in both games after a  certain point money ceases to make any difference 
+(06:13:57)<joe6pack>you just start having way more than you can ever spend 
+(06:14:47)<joe6pack>(these are all minor issues, btw - both games are superb) 
+(06:16:48)<purestrain>i own both but never had time to play them though
+(06:17:06)<joe6pack>:O
+(06:17:24)<joe6pack>german version or original? 
+(06:17:31)<purestrain>german i think
+(06:17:47)<joe6pack>the german translation is especially horrendes 
+(06:17:55)<joe6pack>you should download the english version
+(06:18:13)<joe6pack>it makes a big difference 
+(06:18:26)<joe6pack>the translators must have been on crack
+(06:19:04)<joe6pack>these are some of the gratest games i have ever played 
+(06:20:21)<Aerton>try wasteland, some ppl say it's better balanced
+(06:20:34)<joe6pack>huh
+(06:20:44)<Aerton>graphics are terrible, but should not be much of problem for an rl addict
+(06:20:46)<joe6pack>should give it a try some time 
+(06:21:00)<joe6pack>yea i think i've played it for a few minutes once
+(06:25:39)<RotateMe>searching for wasteland made me stumble upon this
+(06:25:39)<RotateMe>http://www.bastionsofwar.com/maps.html
+(06:25:49)<RotateMe>which made me want to play neverwinter nights again
+(06:31:23)<deveah>gmornin
+(06:31:29)<joe6pack>hi
+(06:31:45)<joe6pack>DarkGod: what are you up to these days?
+(06:33:13)<deveah>":p" - ascii logo and text editor
+(06:33:26)<deveah>mainly for roguelike start screen
+(06:33:39)<DarkGod>preparing my wedding :)
+(06:33:44)<joe6pack>:O
+(06:33:49)<joe6pack>congrats 
+(06:33:59)<deveah>wedding =o
+(06:34:04)<DarkGod>thanks :)
+(06:34:29)<deveah>no roguelike design after i see
+(06:42:10)<RotateMe>congrats!
+(06:43:40)<joe6pack>do you incorporate changes from V into tome?
+(06:44:18)<joe6pack>seeing as development on v had been picking up pace once more
+(06:45:21)<DarkGod>T3 is not really a variant of vanilla anymore I cant port changes just like that
+(06:45:24)<DarkGod>anyawy what changes?
+(06:45:54)<joe6pack>i don't know, i have been playing neither angband nor tome for years 
+(06:46:06)<joe6pack>was just wondering if there is some cooperation going on
+(06:47:19)<joe6pack>they are both just too slow paced for me (no offense) 
+(06:48:30)<DarkGod>?
+(06:49:04)<joe6pack>i am not sure what you're asking :)
+(06:49:07)<TMC>the gameplay, or development?
+(06:49:15)<joe6pack>TMC: gameplay 
+(06:51:13)<DarkGod>why does it feels slow?
+(06:51:16)<DarkGod>compared to what?
+(06:51:39)<joe6pack>compared to crawl
+(06:52:12)<joe6pack>and to a lot of minor games
+(06:52:30)<RotateMe>can anybody tell me how to move diagonally in cracks and crevices win?
+(06:52:40)<joe6pack>(like doomrl, which i know is not a fair comparison)
+(06:53:01)<joe6pack>RotateMe: you have to change the default key binding 
+(06:53:13)<joe6pack>read the readme file
+(06:53:19)<joe6pack>it's easy
+(06:53:36)<joe6pack>you just need to copy some file that's there or cahnge its name or something of that sort
+(06:53:37)<Glowie>I don't know about Angband's speed, but it's the grinding that doesn't suit me personally
+(06:53:48)<Glowie>I don't like being able to camp the floors as many times as I want
+(06:53:52)<joe6pack>i don't know why stu did it this way
+(06:54:41)<TMC>yeah, silly :P
+(06:55:03)<joe6pack>Glowie: yes, i find that tome, albit better in that respect than angband, suffers from this same problem
+(07:02:12)<Glowie>Uhm, does anyone know where to find Mac's platform dependent functions documented?
+(07:02:40)<joe6pack>though i've only ever played the 2.x branch. i don't know if you've changed that in 3
+(07:10:29)<deveah>i want a roguelike. 7drl is preferred
+(07:10:43)<deveah>ascii please
+(07:11:27)<joe6pack>did you try that last one?
+(07:11:31)<joe6pack>with the mage?
+(07:11:36)<joe6pack>that was fun
+(07:11:37)<deveah>no, what one?
+(07:11:45)<joe6pack>don't remember the name
+(07:12:04)<joe6pack>with the small screen size
+(07:12:08)<joe6pack>and the shops
+(07:12:10)<Numeron>crown of the forest
+(07:12:14)<joe6pack>yes
+(07:12:15)<Numeron>mine :)
+(07:12:16)<deveah>oh, crown'o'dah'forest
+(07:12:26)<deveah>nah, else?
+(07:12:57)<joe6pack>don't know. that was the only recent 7drl i've enjoyed playing 
+(07:12:59)<deveah>*random page on rlbasin*
+(07:13:10)<joe6pack>(otehr than mine, that is ;p )
+(07:14:19)<Numeron>im started a larger scale project a couple of days ago using the same idea as in crown... calling in wizard arena
+(07:14:49)<joe6pack>nice
+(07:15:09)<joe6pack>i am edging to do a larger scale game myself
+(07:15:22)<joe6pack>but i have to focus on my studies atm
+(07:15:34)<joe6pack>can't afford such a distraction right now
+(07:18:18)<deveah>i'm gonna make a rogue-style room generator
+(07:19:08)<TMC>using the link of the day? :P
+(07:19:12)<deveah>nah, too lazy
+(07:19:24)<deveah>i was thinking of reading it
+(07:19:52)<TMC>"calling in wizard arena"?
+(07:19:55)<joe6pack>too lazy to read half a page of text, but not too lazy to implement what it describes?
+(07:19:58)<TMC>is that the name of the game?
+(07:20:09)<TMC>BTW, I beat crown yesterday
+(07:20:13)<TMC>very nice :)
+(07:20:37)<Numeron>yeah spelling mistake.. in = it
+(07:20:40)<Numeron>thanks
+(07:20:51)<TMC>oh
+(07:21:02)<TMC>you have to steal something?
+(07:21:10)<TMC>I really like the idea
+(07:21:25)<TMC>or having possession for the longest?
+(07:22:14)<joe6pack>ah. i should "borrow" the stealing idea for my next game ;)
+(07:22:59)<Numeron>i plan to have a few different arenas in my game... one which is a free for all posession, a team play one too... 
+(07:23:20)<Numeron>other arenas which are jsut survival etc
+(07:29:35)<TMC>all without perma death?
+(07:30:19)<TMC>I like the idea of stealing an important artifact without killing in regular rl's too
+(07:31:08)<TMC>they need ways to shove someone down stairs and make them drop their weapon, or everything to fall out of their backpack, for example
+(07:31:11)<joe6pack>heh. Massachusetts seems to have the biggest cryptrover players community in the world ;)
+(07:31:19)<Numeron>no permadeath in the arenas, but permadeath in the world (which you ahve to explore for reasons I havent thought up yet)
+(07:31:31)<joe6pack>google analytics is so cool 
+(07:32:07)<joe6pack>and non of them from boston!
+(07:32:14)<joe6pack>all from small towns 
+(07:32:52)<TMC>hmm
+(07:32:57)<TMC>how many of them?
+(07:34:06)<joe6pack>146 world wide; 42 from the us; 5 from Massachusetts 
+(07:34:21)<joe6pack>pretty spread out all over the world, actually 
+(07:34:47)<joe6pack>no single concentration in any city or province 
+(07:36:02)<joe6pack>wrt single cities
+(07:36:21)<joe6pack>the top are Bucharest and Warsaw
+(07:36:29)<TMC>I didn't know it could get you locations that specific
+(07:36:31)<joe6pack>both with 3 visitors 
+(07:36:45)<TMC>g'night
+(07:36:50)<joe6pack>good night
+(07:37:18)<RotateMe>Numeron, i'm planning to do an arena rl too, but only 7drl
+(07:37:20)<RotateMe>http://home.arcor.de/dungeonhunter/RogueArena%20Design.txt
+(07:37:34)<RotateMe>wrote this at work instead of working ;)
+(07:39:07)<RotateMe>hmm the formatting seems to be messed up, i copy pasted it via a wts connection
+(07:41:06)<Numeron>looks very cool. I think its a fair bit different from what i have planned :)
+(07:42:18)<Numeron>i like this idea: "sudden death:
+(07:42:18)<Numeron>the arena get's flooded: water flows from one point into the arena. characters in the water loose some hp per
+(07:43:01)<purestrain>well; but realtime and very fast?
+(07:43:45)<purestrain>don't have roguelikes to be played without sweating? ;-)
+(07:44:48)<xGrue>well what if you just finished jogging?
+(07:45:06)<purestrain>usually i take a shower
+(07:45:09)<RotateMe>that was my thoughts to xGrue ;D
+(07:45:40)<purestrain>make time variable at least
+(07:45:50)<RotateMe>yeah but "very fast" goes a bit too far i guess
+(07:46:26)<RotateMe>i think i'm going to release a very small demo of dungeonhunter
+(07:46:30)<Numeron>you could make it so you only have x seconds to make your turn or its considered a wait.. that makes it easy to add difficulty levels
+(07:46:33)<RotateMe>my bug list is too empty
+(07:46:52)<RotateMe>Numeron, the system works in a different way
+(07:47:19)<RotateMe>each action takes some time and after you did the action you have to wait that number of frames
+(07:47:42)<RotateMe>after that you are considered "ready" and keypresses/ai input will be accepted
+(07:48:09)<RotateMe>this way the game speed doesn't vary
+(07:48:46)<xGrue>this gonna be a 7drl or a real project?
+(07:49:06)<RotateMe>dungeonhunter = real, roguearena 7drl
+(07:49:28)<RotateMe>it's a bit stuffed, i know
+(07:49:51)<xGrue>meh i have plans for a 7drl thats gonna be fairly tough to pull off in 7 days
+(07:50:18)<RotateMe>i will try to learn to use jice's doryen library effectively, add some stuff here and there
+(07:50:34)<RotateMe>but i want to do the rl related stuff in the 7 days
+(07:50:50)<RotateMe>so no fov, dungeon generation or anything before that
+(07:51:17)<xGrue>have any ideas of what youre gonna use?
+(07:51:26)<xGrue>or will it be brainstormed up during the 7 days?
+(07:52:53)<deveah>i want YOU"RE A PIRATE NOW!!!
+(07:53:26)<xGrue>whats that?
+(07:53:54)<RotateMe>like i said, i'm using jice's doryen library with c++
+(07:54:04)<xGrue>never heard of it :P
+(07:54:34)<purestrain>wah; c++ ugly :P
+(07:55:02)<RotateMe>http://jice.nospam.googlepages.com/thedoryenlibrary
+(07:55:13)<RotateMe>yeah or c, i don't know
+(07:55:21)<RotateMe>there's a version for both
+(07:56:07)<RotateMe>oh i just see that this already has fov support
+(08:09:32)<RotateMe>joe6pack, have you been at the viennale?
+(08:29:09)<joe6pack>RotateMe: yes
+(08:29:24)<joe6pack>i try to go every year 
+(08:31:42)<joe6pack>i don't think i would like a real time rl
+(08:31:59)<joe6pack>i like leaving the game open in the middle and going to do other things
+(08:32:06)<joe6pack>like chat :)
+(08:32:40)<joe6pack>and then coming back, play for a few turns, read something on the web, etc..
+(08:32:55)<joe6pack>it is rarely the *only* thing i do at any given time
+(08:33:22)<joe6pack>rgrd news
+(08:33:23)<null>Re: Beginner's Guide to Roguelike Development [New Release]
+(08:33:23)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/04b2060caa786f3c
+(08:33:23)<null>Re: Beginner's Guide to Roguelike Development [New Release]
+(08:33:23)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/b0662c266241d63f
+(08:33:23)<null>Re: 7DRL Announcement: Alan's Psychedelic Journey
+(08:33:23)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/3b085c212b16586a
+(08:33:23)<null>Re: Beginner's Guide to Roguelike Development [New Release]
+(08:33:23)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/ce3ad74b899644e7
+(08:41:22)<konijn_bed>hmmm
+(08:41:53)<konijn_bed>'bestial side' -> There should be fear of fire
+(08:42:20)<RotateMe>joe6pack, what and whom did you see?
+(08:42:39)<RotateMe>my sister studies in vienna and she just told me she watched no country for old men there
+(08:42:47)<joe6pack>ah
+(08:42:50)<konijn_nyt>roll 5d6
+(08:42:50)<null>12
+(08:42:57)<joe6pack>i've wanted to watch that one
+(08:42:59)<RotateMe>roll 1d0
+(08:42:59)<null>1
+(08:43:01)<joe6pack>but iwas too late
+(08:43:02)<RotateMe>buuuug
+(08:43:07)<konijn_nyt>yeah
+(08:43:08)<joe6pack>was already sold out
+(08:43:10)<konijn_nyt>bug is fixed
+(08:43:12)<RotateMe>ah too bad
+(08:43:14)<konijn_nyt>need to restart
+(08:43:20)<RotateMe>k
+(08:43:26)<RotateMe>and why doesn't that work:
+(08:43:31)<RotateMe>roll 473d34
+(08:43:37)<RotateMe>roll 473d3
+(08:43:41)<RotateMe>roll 47d34
+(08:43:41)<null>781
+(08:43:57)<Aerton>roll 1d100
+(08:43:57)<null>19
+(08:43:57)<konijn_nyt>"([0-9]{1,2})?(d|D)([0-9]{1,3})((\\+|-)([0-9]{1,3}))?"
+(08:44:13)<konijn_nyt>it does up to 2 numbers on dicecount, up to 3 for dicesides
+(08:44:30)<RotateMe>okay
+(08:44:41)<RotateMe>is this actual code?
+(08:44:43)<konijn_nyt>should be useful in most rl situations
+(08:44:46)<konijn_nyt>yes
+(08:44:56)<RotateMe>yeah it's enough just wondered why
+(08:45:07)<konijn_nyt>lets see if I get kicked ;)
+(08:45:09)<RotateMe>i would have done it totally different
+(08:45:14)<konijn_nyt>		} else if (message.startsWith("roll") ) {
+(08:45:16)<konijn_nyt>			//Does the text after "roll " ( hence 5 chars ) match the regular expression for a dice roll like 3d6 ?
+(08:45:19)<konijn_nyt>			Matcher matcher = Pattern.compile( "([0-9]{1,2})?(d|D)([0-9]{1,3})((\\+|-)([0-9]{1,3}))?" ).matcher( message.substring( 5 ) );
+(08:45:22)<konijn_nyt>			//group methods only work if you first call the method matches
+(08:45:26)<konijn_nyt>			if( matcher.matches() ){
+(08:45:29)<konijn_nyt>				//The first dice can be missing, in that case we assume 1 for dice count
+(08:45:32)<konijn_nyt>				int diceCount = matcher.group(1)==null?1:Integer.parseInt( matcher.group(1) );
+(08:45:34)<konijn_nyt>				int diceSides = Integer.parseInt( matcher.group(3) );
+(08:45:37)<konijn_nyt>				int result =0;
+(08:45:40)<konijn_nyt>				for( int i = 0 ; i < diceCount ; i++ ){
+(08:45:43)<konijn_nyt>					result = result + (int)( Math.random() * diceSides ) + 1;
+(08:45:46)<konijn_nyt>				}
+(08:45:49)<konijn_nyt>				//Hack, if diceSides is 0, the result should be 0
+(08:45:52)<konijn_nyt>				if (diceSides==0)  result = 0;
+(08:45:55)<konijn_nyt>				writeMessage( channel , String.valueOf( result ) );
+(08:45:58)<konijn_nyt>			}
+(08:46:15)<joe6pack>konijn_nyt: why only 2 chars for the number? why not use '+'?
+(08:46:20)<RotateMe>the "bug" is a philosphical problem
+(08:46:42)<joe6pack>RotateMe: no it isn't. a D0 dice only has the value 0 
+(08:46:52)<joe6pack>D1, on the other hand...
+(08:47:32)<RotateMe>well there are no events with 0 possible outcomes
+(08:47:56)<joe6pack>yes there are
+(08:48:32)<joe6pack>(e.g. casting a D0 dice)
+(08:48:40)<Numeron>a die with no sides can have no values.. 0 is a value
+(08:49:07)<RotateMe>well that again is just a definition
+(08:49:15)<joe6pack>so the answer should be NAN?
+(08:49:20)<RotateMe>for the only possible outcome
+(08:49:37)<RotateMe>you can see the problem that he had to treat this case differently
+(08:51:18)<RotateMe>joe6pack, no i think Numeron is right, most people would define the result of a d0 as 0 and furthermore it's possible to have weapons in rl's that treat d0 damage
+(08:51:38)<joe6pack>ok
+(08:51:54)<Numeron>why would you want a weapon that deals d0 damage?
+(08:52:07)<RotateMe>dammit i have unconnected sections in the dungeons i generate :(
+(08:52:11)<xGrue>java!!
+(08:52:16)<RotateMe>d0 + x
+(08:52:17)<joe6pack>now *that* is a philosophical question 
+(08:52:35)<Numeron>ah
+(08:52:39)<joe6pack>RotateMe: in other words 'x'
+(08:53:03)<xGrue>what about 100d0 + x
+(08:53:06)<RotateMe>ys
+(08:53:10)<joe6pack>x
+(08:53:16)<xGrue>10000000d0 + x?
+(08:53:18)<joe6pack>still x
+(08:53:21)<RotateMe>lol :D
+(08:53:26)<joe6pack>0*... = 0
+(08:53:43)<xGrue>0*1/0   != 0
+(08:53:51)<joe6pack>1/0 is not defined 
+(08:54:04)<xGrue>which isnt zero
+(08:54:23)<joe6pack>"not equal" != "not defined" 
+(08:54:25)<Numeron>its remainder 1 ;)
+(08:54:37)<RotateMe>btw, is the random seed somehow initialized
+(08:54:44)<RotateMe>with the current time or s.th.?
+(08:54:50)<xGrue>whats "not defined" in code?
+(08:54:52)<xGrue>error?
+(08:54:59)<joe6pack>i guess
+(08:55:00)<Numeron>null?
+(08:55:07)<RotateMe>""
+(08:55:13)<joe6pack>it is like writing "x=yo!;" in c
+(08:55:26)<xGrue>lol
+(08:55:29)<joe6pack>it is somply not allowed 
+(08:55:41)<RotateMe>yo!
+(08:55:56)<joe6pack>int x=yo!;
+(08:58:21)<RotateMe>any ideas on how to connect unconnected dungeon sections when the only information are the value 1=wall 0=nothing for each tile?
+(08:58:36)<RotateMe>(so no extra stuff like an array with the rooms etc.)
+(08:58:58)<joe6pack>draw a line of 0's between them?
+(08:59:23)<RotateMe>well how do i know what are the sections?
+(08:59:36)<joe6pack>do it during the dungeon digging, not afterwards
+(08:59:47)<RotateMe>take pairs of points and try pathfinding?
+(08:59:48)<joe6pack>every time you dig a room you have it's center 
+(09:00:01)<joe6pack>that seems like a slow way of doing it
+(09:00:59)<joe6pack>just make sure you rooms are connected to one another while you create them, don't go digging rooms willy nilly and then try to find unconnected ones 
+(09:02:06)<Numeron>im not a big fan on dungeon levels where every room except 2 have 2 exits only
+(09:02:37)<joe6pack>who says they only have to have 2 exits?
+(09:03:22)<Numeron>if you arent storing the rooms as you create them, then arent you drilling a corridor, make a room, drill corridor make room etc? you cant go back to rooms and make more corridors
+(09:03:28)<joe6pack>look at the way i did it here: http://code.google.com/p/cryptrover/source/browse/trunk/map.c
+(09:03:40)<joe6pack>in dig_level()
+(09:04:00)<joe6pack>i dig more than 1 corrdor every time 
+(09:04:19)<joe6pack>i dig a random amount of corridors for from each room
+(09:04:51)<Numeron>ah i see
+(09:05:09)<joe6pack>                        int paths=1+rand()%PATHS;
+(09:07:52)<konijn_nyt>google code rocks
+(09:08:00)<konijn_nyt>I _love_ the new svn browse thing
+(09:08:15)<xGrue>yeah i need to start using that
+(09:08:15)<joe6pack>yea it's rockin'
+(09:08:54)<joe6pack>i suggest you setup a page for the bot there
+(09:10:11)<joe6pack>http://www.kuro5hin.org/story/2008/2/14/203728/938
+(09:10:15)<konijn_nyt>I will !
+(09:10:31)<konijn_nyt>brunch any minute now
+(09:10:39)<konijn_nyt>that'll take a while ;)
+(09:10:46)<konijn_nyt>then I set up a google code project
+(09:10:49)<joe6pack>time
+(09:10:49)<null>joe6pack: The time is now Sun Feb 17 09:10:49 EST 2008
+(09:10:58)<joe6pack>brunch do early?
+(09:11:10)<joe6pack>that's not even time for breakfast yet
+(09:11:16)<konijn_nyt>we still need to get to the brunch place by car
+(09:11:23)<joe6pack>oh
+(09:11:29)<joe6pack>i thought you're having it at home 
+(09:11:32)<konijn_nyt>and when you have kids, these schedules tend to change ;)
+(09:13:50)<joe6pack>"A young woman named Esther Howland immigrated to the United States, dismayed at not having received a single Valentine during her 20 years in England. She established a small card company in Massachusetts, with cards tailored to both men and women. American consumers were thrilled at the possibility of marginalizing relationships to hollow slogans and meaningless gifts in exchange for greater copulation."
+(09:17:10)<Numeron>i didnt give my gf a card on valentines.. i bought her a bunch of roses though :) then we sneaked a bottle of vodka into the movies
+(09:17:18)<Numeron>good times
+(09:17:57)<xGrue>vodka!
+(09:18:32)<Numeron>what better way to celebrate a relationship than get totally trashed in the middle of the day in public
+(09:18:51)<joe6pack>none whatsoever 
+(09:18:58)<deveah>i hate valentines day
+(09:19:06)<deveah>i hate it's celebrated in Romania
+(09:19:38)<joe6pack>if i didn't have an internet connection i wouldn't have even known it's now
+(09:19:50)<Numeron>how come u hate it?
+(09:19:55)<joe6pack>it isn't really that visible over here 
+(09:20:13)<konijn_nyt>I went to  a Belgian place and have a beer wit Ms konijn
+(09:21:17)<deveah>NUmeron: i hate it because it's not Romanian - and those who brought non-romanian holidays here want Romania to split
+(09:21:42)<deveah>like the filthy hungarians : they want Covasna and Harghita, together with all our resources
+(09:21:46)<joe6pack>burn the evil foreigners! 
+(09:22:23)<joe6pack>deveah: it is actually your precious bodily fluids they are after 
+(09:22:31)<deveah>and in the 1700-1800's the hungarians took romanian people, mainly kids and pregnant women into barns which they burnt
+(09:22:54)<konijn_nyt>ew
+(09:23:05)<joe6pack>9/11/1701 NEVER FORGET 
+(09:23:25)<Numeron>valenties day isnt hungarian either though...
+(09:23:41)<deveah>yes, it's true - and because they have power - they made romanian people learn hungarian-ass language where they are a minority
+(09:23:45)<joe6pack>Numeron: HUNGARIAN SYMPATHIZER!!!
+(09:23:46)<konijn_nyt>valentine's day is Catholic from the start
+(09:23:52)<deveah>and they treat us like shit in our own country
+(09:24:01)<xGrue>DJGPP good for windows?
+(09:24:07)<konijn_nyt>hmmm
+(09:24:09)<konijn_nyt>old
+(09:24:39)<deveah>and i'm all anti-hungarian anti-gipsy anti-valentinesday anti-hungarian AND anti-hungarian
+(09:24:39)<xGrue>any other suggestions?
+(09:24:50)<joe6pack>Numeron is a magyar enabler 
+(09:24:58)<deveah>yarr arr
+(09:25:11)<Numeron>the catholic holidays we have today are such bastardized versions of what they are supposed to be anyway... just look at santa clause and xmas trees and stuff.. where the f does that come from? to me valentines day is totally not religious, but is a day to recognise love and relationships
+(09:25:37)<deveah>now, the ass-licking hunarians posted anti-romanian clips on the web because they want all our resources and to destroy us
+(09:25:44)<deveah>clips=vids
+(09:25:52)<joe6pack>a day to recognize the exchange of flowers&cards for sex
+(09:26:07)<Numeron>who doesnt like sex?
+(09:26:10)<Numeron>:P
+(09:26:24)<deveah>hunagrians - they like calling us names
+(09:26:41)<deveah>*hungarians
+(09:27:37)<joe6pack>horrible names,
+(09:27:42)<joe6pack>like "romÃ¡n"
+(09:29:32)<xGrue>cygwin?
+(09:29:42)<joe6pack>mingw
+(09:30:01)<joe6pack>http://nuwen.net/mingw.html
+(09:30:12)<joe6pack>and msys on top of that 
+(09:30:37)<xGrue>cool
+(09:31:31)<joe6pack>commands
+(09:31:31)<null>Available commands:
+(09:31:31)<null>time (by joe6pack)
+(09:31:31)<null>[subject] news (by joe6pack)
+(09:31:31)<null>news sources (by joe6pack)
+(09:31:31)<null>decide [option1],[option2] (by RotateMe)
+(09:31:31)<null>quote [keyword],[quote] (by RotateMe)
+(09:31:31)<null>getquote [keyword] (by RotateMe)
+(09:31:31)<null>randomquote (by RotateMe)
+(09:31:31)<null>roll (by konijn)
+(09:31:52)<deveah>yarr harr fiddle dee dee / being anti-magyar is alright with me! / do what you want 'cause a xenophobe is free / you are a xenophobe!
+(09:32:17)<xGrue>lol
+(09:32:42)<xGrue>randomquote
+(09:32:42)<null>linux: sucks more
+(09:32:47)<xGrue>lol
+(09:32:51)<joe6pack>quote deveah, the ass-licking hunarians posted anti-romanian clips on 
+(09:33:03)<joe6pack>quote deveah, the web because they want all our resources and to destroy us
+(09:33:30)<joe6pack>getquote deveah
+(09:33:30)<null>deveah(0):  the ass-licking hunarians posted anti-romanian clips on 
+(09:33:30)<null>deveah(1):  the web because they want all our resources and to destroy us
+(09:33:39)<xGrue>lol
+(09:33:50)<deveah>it's cool - i want one too!
+(09:34:33)<joe6pack>i especially like how it implies romania has resources 
+(09:34:56)<deveah>we have - only we don't know how to use it because of the constant pressure
+(09:35:31)<deveah>we have tons of coal and salt and some little petrol
+(09:36:06)<deveah>and we have access to the sea
+(09:36:17)<joe6pack>doesn't matter; both Romania and Hungary are brussels' bitches now
+(09:36:19)<deveah>that also has tons of petrol
+(09:36:44)<joe6pack>WELCOME TO THE EU
+(09:36:49)<deveah>it's ok to be Bruxelles' puppets if we aren't taken by huns!
+(09:36:54)<joe6pack>NOW BEND OVER AND LOWER YOUR PANTS
+(09:37:02)<deveah>danke joe6pack :D
+(09:37:13)<joe6pack>bitte 
++++ Start of log: Sun Feb 17 09:46:26 EST 2008 +++
+(09:57:08)<konijn_dinner>okay
+(09:57:18)<konijn_mac>any one listening ?
+(09:57:34)<konijn_mac>the google code project would be rgrdbot ?
+(09:57:41)<konijn_mac>so that other people can find it ?
+(09:58:13)<konijn_mac>the class would still be Joe6bot of course the honour the creative spirit that developed this
+(09:58:54)<konijn_mac>joe6pack is wanted
+(09:58:59)<konijn_mac>or any other opinion
+(09:59:01)<konijn_mac>going once
+(09:59:04)<konijn_mac>going twice
+(09:59:06)<RotateMe>ys
+(09:59:08)<RotateMe>its fine
+(09:59:08)<konijn_mac>cool
+(09:59:12)<konijn_mac>thanks !
+(09:59:39)<RotateMe>you're welcome!
+(10:00:36)<konijn_mac>oh my goodness
+(10:00:41)<konijn_mac>the project is created instantly
+(10:00:45)<RotateMe>if someone is into independent games, have a look at bonesaw it's new and awesome
+(10:00:47)<RotateMe>kewl
+(10:00:48)<konijn_mac>bye bye sourceforge where you had to wait 24 horus
+(10:01:28)<Glowie>Konijn, you there?
+(10:02:37)<konijn_mac>yes
+(10:02:42)<konijn_mac>you are added to the project ;)
+(10:02:47)<Glowie>Were you ignoring queries a moment ago?
+(10:02:57)<konijn_mac>My laptop died
+(10:03:01)<Glowie>Oh.
+(10:03:08)<konijn_mac>one of my kids had disconnected the power cable
+(10:03:13)<Glowie>I tried to query you, but I can ask here too
+(10:03:13)<Glowie>Haha
+(10:03:26)<Glowie>Do you know where I could find Mac's platform dependent functions with documentation?
+(10:03:33)<konijn_mac>oooh
+(10:03:35)<konijn_mac>sure
+(10:03:38)<konijn_mac>hold on
+(10:03:40)<Glowie>Excellent :)
+(10:03:42)<konijn_mac>it's heavy though
+(10:03:47)<Glowie>No worries
+(10:04:10)<Glowie>I'm trying to make things as easy as possible for the one who compiles my game for Mac
+(10:04:13)<konijn_mac>C language right ?
+(10:04:15)<Glowie>Yes
+(10:04:21)<konijn_mac>uhm, curses ?
+(10:04:33)<konijn_mac>or graphical ?
+(10:04:48)<konijn_mac>if it is curses, it should compile just fine
+(10:04:53)<konijn_mac>Mac -> BSD
+(10:04:54)<Glowie>Curses
+(10:05:02)<Glowie>But I use some platform dependent functions
+(10:05:05)<konijn_mac>so you dont need any stinkin' documentation
+(10:05:07)<konijn_mac>such as ?
+(10:05:15)<Glowie>Sleep, mkdir and GetTickCount
+(10:05:19)<konijn_mac>http://developer.apple.com/referencelibrary/Carbon/index.html
+(10:05:22)<konijn_mac>okay
+(10:05:28)<konijn_mac>so maybe you need documentation ;)
+(10:05:31)<konijn_mac>follow that link
+(10:05:33)<Glowie>Yup
+(10:05:34)<Glowie>Thanks!
+(10:06:06)<joe6pack>konijn_mac: you've called?
+(10:06:13)<konijn_mac>indeed
+(10:06:16)<konijn_mac>too late ;)
+(10:06:23)<konijn_mac>I asked if rgrdbot was a good project name
+(10:06:29)<joe6pack>ah
+(10:06:34)<konijn_mac>http://code.google.com/p/rgrdbot/
+(10:06:38)<konijn_mac>the deed is done
+(10:06:38)<joe6pack>great
+(10:06:44)<konijn_mac>now I need to upload the code
+(10:06:51)<joe6pack>i was away
+(10:06:53)<konijn_mac>I will probably upload the jars as well
+(10:07:06)<joe6pack>yea just check in the whole dir
+(10:07:08)<konijn_mac>this way there is no doubt about versioning for pircbot
+(10:07:10)<konijn_mac>cool
+(10:07:31)<joe6pack>maybe the .class files aren't needed
+(10:07:45)<joe6pack>because these are compiled everytime anyway 
+(10:07:55)<konijn_mac>sure
+(10:13:12)<joe6pack>time
+(10:13:12)<null>joe6pack: The time is now Sun Feb 17 10:13:12 EST 2008
+(10:14:33)<joe6pack>RotateMe: http://code.google.com/p/rgrdbot/issues/list
+(10:14:50)<joe6pack>(this is where these TODO comments belong, imo)
+(10:15:54)<deveah>Yarr har fiddle dee dee
+(10:15:54)<deveah>Being a pirate is alright to be
+(10:15:54)<deveah>Do what you want 'cause a pirate is free
+(10:15:54)<deveah>You are a pirate!
