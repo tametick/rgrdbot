@@ -14,13 +14,13 @@ public class Joe6botMain {
 		}else{
 			nickName = "joe6bot";
 		}
+		
+		System.out.println("nick: "+nickName+".");
 
 		Joe6bot bot = new Joe6bot( nickName );
 
 		bot.setVerbose(true);
 
-		bot.changeNick( nickName );
-		
 		bot.connect("irc.quakenet.org");
 		bot.joinChannel("#joetest");
 		bot.joinChannel("#rgrd");
