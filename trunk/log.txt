@@ -2417,3 +2417,49 @@
 (10:15:54)<deveah>Being a pirate is alright to be
 (10:15:54)<deveah>Do what you want 'cause a pirate is free
 (10:15:54)<deveah>You are a pirate!
++++ Start of log: Tue Feb 26 16:23:39 GMT 2008 +++
+(04:24:04)<RotateMe>hi, joe6bot
+(04:24:13)<RotateMe>randomquote
+(04:24:13)<null>crack: <DaEezT> Cracks and Crevices sounds liek a porn movie
+(04:24:26)<oeb>RotateMe, no, I drink =P
+(04:25:04)<RotateMe>well than that's no difference to uni life (aside from the fact that there are very few real "pubs" in germany)
+(04:25:15)<oeb>I skipped the whole uni thing and worked out fine. That being said I would be unlikely to hire someone without a degree, unless their portfolio really impressed me of course
+(04:25:29)<oeb>RotateMe, Well I also get paid.
+(04:25:37)<oeb>(Not for drinking)
+(04:25:52)<RotateMe>striptease? =)
+(04:26:01)<oeb>Something like that =P
+(04:26:15)<joe6pack>RotateMe: what? there are a ton of pubs in germany 
+(04:26:20)<oeb>I head up a PHP dev team in Ireland. I drink in my spare time.
+(04:26:33)<RotateMe>it's called bars here
+(04:26:39)<oeb>I know a few lads who went to germany for 6 months to study, and they did not leave the pub.
+(04:26:42)<joe6pack>same thing
+(04:26:43)<oeb>pub === bar
+(04:27:00)<oeb>In ireland anyway the words are interchangable.
+(04:27:26)<RotateMe>well we have pubs who especially address irish (and for some reason american and english) people
+(04:27:52)<joe6pack>in canada a pub is where you'd go with other guys to watch a hockey match and a bar is where you'd go to find women
+(04:27:53)<RotateMe>if it's the same thing, i agree, we have tons here
+(04:28:15)<RotateMe>i live in heidelberg, it's got the most bars in one street in the whole friggin world
+(04:28:21)<RotateMe>(unproven fact)
+(04:28:44)<joe6pack>heh
+(04:29:02)<joe6pack>i have heard this "fact" said about many, many cities
+(04:29:06)<oeb>In Ireland a pub club bar or boozer is a place that serves alcohol, may serve food.
+(04:29:14)<RotateMe>well it's also the longest pedestrian zone in europe so that's not such a great fact
+(04:29:39)<oeb>You can pick up women anywhere, easier at night though rather than sunday afternoon when they are sitting down for lunch with their parents.
+(04:29:41)<joe6pack>i would also take that one with a grain of salt 
+(04:30:01)<RotateMe>what i hate is clubs
+(04:30:20)<RotateMe>at least, again, the german definition of it
+(04:30:36)<oeb>Most clubs here tend to have a bar at the front and a disco / nightclub at the back.
+(04:30:44)<oeb>That's different in the cities though.
+(04:30:54)<RotateMe>a place where you have to pay to get in, to get even more expensive drinks, get looked at because you're wearing a pullover instead of something stylish
+(04:31:23)<RotateMe>and probably get thrown out when you drink too much
+(04:31:24)<joe6pack>i have stopped going to clubs a long time ago
+(04:32:02)<RotateMe>if i have to pay to get in and there's no good live musiv it's a no go area for me too
+(04:32:12)<RotateMe>*music
+(04:33:22)<RotateMe>and bars/pubs are not as good as they've been when you were allowed to smoke inside :(
+(04:34:03)<joe6pack>hah
+(04:34:12)<joe6pack>in vienna nobody gives a shit about that law
+(04:34:41)<joe6pack>that's part of the reason i hate going out here. i always come back stinking of cigarette smoke
+(04:34:52)<oeb>I don't pay to go into any clubs around here =P
+(04:35:16)<oeb>(I worked as a doorman for a few years)
+(04:37:10)<RotateMe>the prices for drinks suck in most clubs though
+(04:37:15)<RotateMe>and the drinks themselves
