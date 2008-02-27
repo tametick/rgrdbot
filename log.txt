@@ -2463,3 +2463,154 @@
 (04:35:16)<oeb>(I worked as a doorman for a few years)
 (04:37:10)<RotateMe>the prices for drinks suck in most clubs though
 (04:37:15)<RotateMe>and the drinks themselves
++++ Start of log: Tue Feb 26 16:46:01 GMT 2008 +++
+(06:42:51)<deveah>hellos
+(06:49:11)<cakeboy>sup
+(06:49:19)<cakeboy>tried to download idih
+(06:49:23)<cakeboy>your host is down
+(06:58:50)<deveah>i know
+(06:59:35)<deveah>untergrund is fucked up, even with 10gb diskspace, 1000gb bandwith, php full-mode and fully powered sql shit :(
+(07:00:14)<deveah>it's here http://cycorvallen.untergrund.net/members/deveah/idih/
+(07:00:31)<deveah>and *maybe* they shut down my site for rasism :/ dunno
+(07:03:01)<cakeboy>haha
+(07:03:10)<cakeboy>i think i might accept your challenge
+(07:03:32)<deveah>http://deveah.googlepages.com/ this too: anti-hungarian anti-magyar logos - you can even put them on tshirts!
+(07:04:06)<deveah>it's a site selling this rasist stuff on the romanian web...
+(07:07:38)<deveah>i'll make an offer if you but >5 !
+(07:09:58)<deveah>any new rl activity btw?
+(09:18:04)<joe6pack>jesus christ! konijn looks like a serial killer 
++++ Start of log: Tue Feb 26 22:25:15 GMT 2008 +++
++++ The date has changed: 2008/02/27 +++
+(08:00:20)<TMC>hihi
+(08:00:25)<TMC>what's happened
+(09:15:07)<ido>anyone know of a sort of tutorial on how to program telnet applications like crawl/nethack's public server?
+(09:32:59)<oeb>Earthquakes in England last night. 4.5 on the scale!
+(09:33:51)<joe6pack>4.5 is nothing 
+(09:33:56)<DaEezT>i read something about 5.3
+(09:34:11)<joe6pack>that's also not really noteworthy 
+(09:35:09)<joe6pack>Earthquakes get interesting when buildings collapse and/or people are dieing 
+(09:39:02)<oeb>It's something for England
+(09:39:11)<oeb> http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008nyae.php
+(04:26:49)<joe6pack>so
+(04:26:53)<joe6pack>what's up?
+(04:28:32)<Aerton>ido> anyone know of a sort of tutorial on how to program telnet applications like crawl/nethack's public server?
+(04:28:46)<Aerton>funny coicendence :)
+(04:28:46)<joe6pack>Aerton: indeed
+(04:28:50)<joe6pack>why?
+(04:29:14)<joe6pack>i was thinking of posting the quesetion to the newsgroup 
+(04:29:16)<Aerton>there is one in development for 2 days :)
+(04:29:22)<joe6pack>by you?
+(04:29:26)<Aerton>yes
+(04:29:31)<joe6pack>:)
+(04:29:50)<joe6pack>then maybe you can write a tutorial of sorts...
+(04:30:03)<joe6pack>how's it going? easy? difficult?
+(04:30:42)<Aerton>easier, if you are familiar with unix system programming
+(04:30:49)<joe6pack>ok
+(04:31:02)<joe6pack>which language are you developing it in?
+(04:31:07)<Aerton>C
+(04:31:11)<joe6pack>great
+(04:31:29)<joe6pack>then maybe i can take a look at your system
+(04:31:46)<joe6pack>(after i finish studying to all my exams) 
+(04:31:59)<Aerton>:)
+(04:32:09)<Aerton>is there a lot of them left?
+(04:32:16)<joe6pack>yes :(
+(04:32:25)<joe6pack>it will be a while
+(04:32:51)<joe6pack>and i will also have quite a few courses in the coming semester
+(04:33:01)<joe6pack>so until the summer i will not have a lot of free time
+(04:33:26)<Aerton>I *hope* to get at least something of prototype-quality before 7DRL 2008
+(04:33:37)<joe6pack>ok
+(04:33:43)<joe6pack>good
+(04:33:54)<joe6pack>i will now go back to learning 
+(06:36:48)<deveah>hello
+(06:43:42)<ido_>Aerton: ftp://ftp.alt.org/pub/dgamelaunch/
+(06:44:11)<ido_>it can actually be used to start any game
+(06:44:36)<ido_>there is nothing nethack specific there
+(06:44:46)<ido_>or the README says
+(06:48:04)<ido_studying>quote telnet, ftp://ftp.alt.org/pub/dgamelaunch/
+(06:48:16)<ido_studying>getquote telnet
+(06:48:16)<null>telnet(0):  ftp://ftp.alt.org/pub/dgamelaunch/
+(07:03:06)<Glowie>Yeah it can, but it's not guaranteed to work with all games
+(07:03:49)<Glowie>I spent one day fiddling with it with Napkin (he runs a Crawl server and wants to add more games), but we couldn't get watching to work with Frozen Depths. Most likely a ttyrec problem after a lot of experimenting
+(07:03:57)<Glowie>Aerton is able to fix that :P
+(07:06:51)<ido_studying>ttyrec?
+(07:07:11)<Glowie>A program that records console
+(07:07:17)<Glowie>For example roguelikes
+(07:07:24)<joe6pack>oh ok
+(07:07:35)<Glowie>DGameLaunch uses it to provide the watching feed for people
+(07:08:17)<joe6pack>why would it work differently with fd? if it's just a normal curses program
+(07:08:38)<Glowie>I have no idea
+(07:09:06)<Glowie>It misdrew parts of the screen
+(07:09:08)<Glowie>Very weird stuff
+(07:09:22)<joe6pack>strange 
+(07:12:21)<joe6pack>well dgl uses curses itself. maybe it setups some options in a way that fd didn't expect? 
+(07:12:29)<Glowie>Perhaps Aerton's thingie will support all roguelikes
+(07:12:42)<Glowie>But it's not DGL, it's ttyrec
+(07:12:50)<Glowie>Playing the game worked fine
+(07:12:52)<Epyon_>S*** telnet server lol
+(07:12:52)<Glowie>But not watching
+(07:13:19)<Glowie>We even tried with just ttyrec and it screwed the video too
+(07:13:27)<joe6pack>hrm
+(07:13:37)<joe6pack>so the problem isn't dgl
+(07:13:50)<Glowie>Indirectly I'd say :P
+(07:13:53)<Glowie>DGL uses ttyrec
+(07:13:56)<Glowie>So it's both of their problem
+(07:15:31)<joe6pack>he will have to write or find an alternative for ttyrec then
+(07:16:00)<joe6pack>and if he does maybe the dgl can be used with that... oh well
+(07:16:08)<joe6pack>we'll see what he comes up with
+(07:16:43)<Glowie>He has written a watching telnet program once already
+(07:16:55)<joe6pack>link?
+(07:16:58)<Glowie>So he'll write an alternative, but most likely an integrated one so it can't be used with it
+(07:17:14)<Glowie>Unfortunately it was only for our private use and isn't online
+(07:17:21)<Glowie>The sources might be on Aerton's old computer still
+(07:19:28)<joe6pack>http://groups.google.com/group/linux.dev.kernel/msg/76ae734d543e396d
+(07:19:41)<joe6pack>Only wimps use tape backup: _real_ men just upload their important stuff
+(07:19:43)<joe6pack>on ftp, and let the rest of the world mirror it ;) 
+(07:34:12)<deveah>i love classics! Jeroen Tel - Robocop 3
+(07:34:14)<deveah>:D
++++ Start of log: Wed Feb 27 22:00:53 GMT 2008 +++
+(10:04:18)<TMC>anyone around here still speak?
+(10:05:00)<kinnala>aye
+(10:06:25)<kinnala>guess I've got +o because being so active :-D
+(10:07:24)<TMC>oh hi
+(10:07:30)<TMC>haven't seen you before
+(10:07:44)<kinnala>maybe because I haven't said anything before
+(10:07:51)<kinnala>I've been just stalking you guys
+(10:07:54)<TMC>huh??
+(10:08:58)<kinnala>what's up
+(10:09:39)<TMC>well not much
+(10:09:44)<TMC>eatying breakfast
+(10:09:47)<joe6pack>oh hi
+(10:09:58)<kinnala>seems that I've got a stable server :D
+(10:09:58)<TMC>'morning
+(10:10:28)<joe6pack>kinnala: i occasionally go on /op frenzies and +o everyone present 
+(10:10:40)<kinnala>I see :-)
+(10:11:49)<joe6pack>just finished 3 games of warcraft 3. it's been quite some time since i've played that game regularly 
+(10:11:58)<joe6pack>i won every match :)
+(10:12:19)<kinnala>I used to play c&c:generals a lot
+(10:12:24)<joe6pack>but i was palying against total novices 
+(10:12:25)<kinnala>it was a fun game to play with friends
+(10:12:38)<kinnala>got wc3 also
+(10:13:01)<joe6pack>are you good at it?
+(10:13:09)<kinnala>no :-D
+(10:13:21)<joe6pack>did you play on battle.net?
+(10:13:29)<kinnala>few times
+(10:13:42)<joe6pack>it's not an easy game to master
+(10:13:59)<joe6pack>i've been playing it on and off for years
+(10:14:15)<kinnala>it's one of those games which is kinda hard to start
+(10:14:20)<joe6pack>every several months i get into it again
+(10:14:20)<kinnala>you lose much in the beginning
+(10:14:24)<joe6pack>yea
+(10:14:43)<kinnala>just like every 1on1 game
+(10:14:49)<joe6pack>i'm not that good at it either, but i am at least at a level where i don't lose all the time
+(10:15:08)<joe6pack>you can play teams though, easier to learn i guess
+(10:16:14)<joe6pack>and every race is also totally different; i can play alright with the humans, elves and orcs but i almost haven't played the undead at all
+(10:16:26)<joe6pack>btw
+(10:16:54)<joe6pack>why isn't the plural of human "humen"?
+(10:17:10)<joe6pack>i mean there this whole man->men business 
+(10:17:20)<joe6pack>it only makes sense to have humen as well 
+(10:17:25)<kinnala>true
+(10:17:26)<kinnala>:D
+(10:29:18)<joe6pack>hmm
+(10:29:37)<joe6pack>i think i'll play another match and go to bed
+(10:29:40)<joe6pack>good night!
+(10:29:45)<kinnala>gn

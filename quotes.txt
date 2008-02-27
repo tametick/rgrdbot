@@ -10,3 +10,4 @@
 [dungeonhunter] http://home.arcor.de/dungeonhunter/Screens/
 [deveah]  the ass-licking hunarians posted anti-romanian clips on 
 [deveah]  the web because they want all our resources and to destroy us
+[telnet]  ftp://ftp.alt.org/pub/dgamelaunch/
