@@ -2417,6 +2417,439 @@
 (10:15:54)<deveah>Being a pirate is alright to be
 (10:15:54)<deveah>Do what you want 'cause a pirate is free
 (10:15:54)<deveah>You are a pirate!
+<<<<<<< .mine
++++ Start of log: Thu Feb 21 21:02:41 EST 2008 +++
+(09:02:58)<konijn_mac>welcome back bot
+(09:03:01)<konijn_mac>info
+(09:03:05)<konijn_mac>help
+(09:03:15)<konijn_mac>help?
+(09:03:15)<null>Available commands:
+(09:03:15)<null>time (by joe6pack)
+(09:03:15)<null>[subject] news (by joe6pack)
+(09:03:15)<null>news sources (by joe6pack)
+(09:03:15)<null>decide [option1],[option2] (by RotateMe)
+(09:03:15)<null>quote [keyword],[quote] (by RotateMe)
+(09:03:15)<null>getquote [keyword] (by RotateMe)
+(09:03:15)<null>randomquote (by RotateMe)
+(09:03:15)<null>roll (by konijn)
+(09:04:11)<konijn_mac>news
+(09:04:16)<konijn_mac>rgrd news
+(09:04:17)<null>Re: 7DRL finished: Alan's Psychedelic Journey
+(09:04:17)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/5523b66a8f563fa6
+(09:04:17)<null>Re: 7DRL finished: Alan's Psychedelic Journey
+(09:04:17)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/cb3be3e00cd63ac2
+(09:04:17)<null>Re: Beginner's Guide to Roguelike Development [New Release]
+(09:04:17)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/e83b374f834b93f2
+(09:04:17)<null>Re: 7drl starting announcement
+(09:04:17)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/f6d2ac8893119f10
+(11:21:03)<jomiolto>hmm, I wonder why almost all C "Hello, world!"s use printf()
+(11:21:10)<jomiolto>woudln't puts() be more appropriate?
+(11:25:06)<jomiolto>randomquote
+(11:25:06)<null>dungeonhunter: http://home.arcor.de/dungeonhunter/Screens/
+(11:26:28)<jomiolto>nice :)
++++ The date has changed: 2008/02/22 +++
+(03:37:55)<MadCacti>hi
+(03:38:14)<MadCacti>quakenet acting up?
+(04:56:01)<joe6pack>help
+(04:56:04)<joe6pack>help?
+(04:56:04)<null>Available commands:
+(04:56:04)<null>time (by joe6pack)
+(04:56:04)<null>[subject] news (by joe6pack)
+(04:56:04)<null>news sources (by joe6pack)
+(04:56:04)<null>decide [option1],[option2] (by RotateMe)
+(04:56:04)<null>quote [keyword],[quote] (by RotateMe)
+(04:56:04)<null>getquote [keyword] (by RotateMe)
+(04:56:04)<null>randomquote (by RotateMe)
+(04:56:04)<null>roll (by konijn)
+(04:56:25)<joe6pack>rgrd news
+(04:56:25)<null>Re: libtcod 1.1 released
+(04:56:25)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/d9518c54d4fe7b96
+(04:56:25)<null>Re: Unit testing for roguelikes?
+(04:56:25)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/e858a351851a22f7
+(04:56:25)<null>Re: Unit testing for roguelikes?
+(04:56:25)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/121802019b5b6ce4
+(04:56:25)<null>Re: libtcod 1.1 released
+(04:56:25)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/b03e9086e921af66
+(05:02:33)<jomiolto>hmm, jice doesn't irc here by any chance?
+(05:06:59)<oeb>joe, that bot could get quickly hated, response to help should probably be over /msg
+(05:10:19)<joe6pack>you tell konijn_mac that
+(05:10:36)<joe6pack>he's developing it 
+(05:13:17)<joe6pack>but i think that's a good idea
+(05:13:53)<joe6pack>you should write it down here: http://code.google.com/p/rgrdbot/issues/entryhttp://code.google.com/p/rgrdbot/issues/entry
+(05:14:48)<joe6pack>oeb: do you have a google account? like gmail for example?
+(05:18:42)<oeb>yup
+(05:19:01)<joe6pack>what's your gmail address? 
+(05:19:21)<oeb>what.will.i.do.with.a.gig@gmail.com
+(05:19:41)<joe6pack>good
+(05:19:51)<joe6pack>now you can enter your bug report 
+(05:20:29)<joe6pack>http://code.google.com/p/rgrdbot/issues/entry
+(05:20:44)<joe6pack>i pasted it twice by mistake the 1st time 
+(05:21:09)<jomiolto>nice, I didn't know google groups automagically cut long lines, so I did my own formatting and now the post came out all wonky :/
+(05:22:09)<joe6pack>yea, just write it without thinking about new lines, it'll be ok
+(05:22:37)<jomiolto>hmm, and I think it used my nick name too, instead of my real name
+(05:22:43)<jomiolto>I wonder where I can change that?
+(05:22:50)<jomiolto>nothing in the profile thingy...
+(05:23:13)<joe6pack>https://www.google.com/accounts/EditUserInfo?hl=en
+(05:23:26)<oeb>Thank you for entering  Issue 1"
+(05:23:31)<joe6pack>"  Nick name:"
+(05:23:31)<oeb>I feel priviliged
+(05:23:39)<jomiolto>ah, thanks joe6pack 
+(05:23:47)<joe6pack>:)
+(05:23:49)<joe6pack>np
+(05:25:04)<joe6pack>oeb: 1 step closer to haveing you take over bot development... 
+(05:25:07)<jomiolto>hah, it didn't allow me to leave the nickname blank, so I entered my real name to it: bad google page design 0 - me 1 :)
+(05:35:29)<oeb>Step 1: Raise Issue
+(05:35:38)<oeb>Step 2: Re-Learn Java
+(05:35:43)<oeb>Step 3: ???
+(05:35:50)<oeb>Step 4: Profit!
+(05:36:07)<joe6pack>you don't need to learn a lot of java. just look at the code already written 
+(05:36:48)<oeb>Ok Step 3: is overcome my all consuming lazyness.
+(05:36:52)<joe6pack>it shouldn't be difficult to modify the help command to append a "/msg nick" to the answer 
+(05:38:15)<oeb>Got an interesting book yesterday, amongst other things it talks about writing a 3d maze application in javascript. Thinking about taking it and sticking a random maze generator in there.
+(07:19:32)<RotateMe>:D great story (link of the day)
+(07:22:30)<joe6pack>should change it to this one, for eyenot: http://www.opengroup.org/onlinepubs/007908799/cursesix.html
+(07:22:57)<joe6pack>he was complaining about the lack of a standard way to do all kinds of terminal handling 
+(07:23:10)<joe6pack>but curses *is* a standard 
+(07:23:28)<joe6pack>it is an offcial part of The Single UNIX Specification
+(07:24:03)<joe6pack>so every conforming platform *must* provide a curses implementation 
+(07:28:48)<joe6pack>quote curses, http://www.opengroup.org/onlinepubs/007908799/cursesix.html
+(07:29:01)<joe6pack>getquote curses
+(07:29:01)<null>curses(0):  http://www.opengroup.org/onlinepubs/007908799/cursesix.html
+(07:29:48)<joe6pack>quote curses, <@joe6pack> he was complaining about the lack of a standard way to do all kinds of terminal handling
+(07:30:01)<joe6pack>quote curses, <@joe6pack> but curses *is* a standard
+(07:30:11)<joe6pack>quote curses, <@joe6pack> it is an offcial part of The Single UNIX Specification
+(07:30:32)<joe6pack>getquote curses
+(07:30:32)<null>curses(0):  http://www.opengroup.org/onlinepubs/007908799/cursesix.html
+(07:30:32)<null>curses(1):  <@joe6pack> he was complaining about the lack of a standard way to do all kinds of terminal handling
+(07:30:32)<null>curses(2):  <@joe6pack> but curses *is* a standard
+(07:30:32)<null>curses(3):  <@joe6pack> it is an offcial part of The Single UNIX Specification
+(07:39:45)<RotateMe>:D
+(07:43:35)<RotateMe>has the pircbot methods for sending files? it would be cool if he could send you the log.txt on request
+(07:49:06)<joe6pack>not that i know of
+(07:49:19)<joe6pack>but go ahead, add it to the list...
+(07:49:31)<joe6pack>http://code.google.com/p/rgrdbot/issues/entry
+(07:51:50)<RotateMe>google code is just as slow as scourceforge, no?
+(07:57:38)<RotateMe>well all the stuff from the todo and ideas section should go there
+(07:57:51)<RotateMe>i think there are some points left but the botowner has to look at this
+(08:20:55)<RotateMe>wtf?
+(08:48:07)<cakeboy>SNOW DAY
+(08:48:10)<cakeboy>snow day today
+(08:49:11)<joe6pack>haven't seen snow in a *long* while
+(08:49:21)<joe6pack>it's 13C outside 
+(08:56:19)<cakeboy>first snow day in my 4 semesters of college
+(08:56:24)<cakeboy>(that i didn't declare myself)
+(08:56:55)<RotateMe>i forgot how good crawl was... killed my third char today
+(08:57:14)<RotateMe>two times by friggin sigmund
+(08:57:31)<joe6pack>that sigmund is something, isn't he?
+(08:57:47)<joe6pack>i also often get killed by ghosts of past players 
+(09:00:27)<cakeboy>happens to me a lot too
+(09:00:46)<cakeboy>i'm no good at crawl still  :(
+(09:01:22)<joe6pack>jesus christ! 15c in February! 
+(09:01:23)<RotateMe>are those tutorials new? they're awesome
+(09:01:35)<RotateMe>in vienna?
+(09:01:37)<joe6pack>which tutorials?
+(09:01:46)<RotateMe>in crawl ss
+(09:01:47)<joe6pack>yes
+(09:01:58)<RotateMe>that's sure hot for vienna
+(09:01:59)<joe6pack>(to the weather, not the tuts)
+(09:02:09)<joe6pack>yes
+(09:02:21)<joe6pack>last winter was warm as well, though 
+(09:02:22)<RotateMe>tutorials: press T in the char slection screen
+(09:02:35)<joe6pack>never seen them
+(09:02:43)<joe6pack>will take a look next time
+(09:02:59)<joe6pack>have to get back to learning... :|
+(09:03:10)<RotateMe>kk
+(09:03:32)<joe6pack>damn, and in such a nice day as well
+(09:06:12)<cakeboy>man
+(09:06:15)<cakeboy>github is the greatest
+(09:06:24)<cakeboy>i wish i had some beta invites to hand out
+(09:16:13)<RotateMe>ooops, a cursed rings ring of teleportation :D
+(09:16:17)<RotateMe>that's gonna be fun
+(09:16:32)<RotateMe>cakeboy, what's github?
+(09:17:45)<RotateMe>killed sigmund :D, with elvish arrows of ice
+(09:19:31)<cakeboy>git is a version control system, it's my favorite so far
+(09:19:43)<cakeboy>and github is a beta service that lets you host as many projects as you want
+(09:19:49)<cakeboy>except it is beta and invite only :(
+(09:20:14)<RotateMe>ah, too bad
+(09:20:29)<RotateMe>well i've never done version control anyways...
+(09:20:49)<cakeboy>it's cool when you have a couple different computers and you want to sync your projects
+(09:20:53)<cakeboy>that what i use it for, anyway
+(09:20:58)<cakeboy>plus it lets everyone else have access to it
+(09:21:04)<RotateMe>for some reason i never had problems but i can sure think of times when it would become handy
+(09:21:16)<RotateMe>ah okay
+(09:25:56)<cakeboy>i like how some games, just because i'm on linux, assume that i like the vi keys
+(09:26:01)<cakeboy>i hate the vi keys
+(09:37:55)<RotateMe>i don't like how i just got pwnd :(
+(09:51:28)<deveah>hello all
+(09:52:10)<joe6pack>hi deveah 
+(09:52:36)<deveah>any rl activity while i was missing?
+(09:52:42)<joe6pack>apj
+(09:53:19)<joe6pack>http://www.hytti.uku.fi/~jmtoivan/apj/
+(09:53:40)<deveah>oh, i've seen this on my mobile
+(09:54:40)<joe6pack>deveah: why don't you take up the bot's development? i think konijn might have had enough of it 
+(09:55:09)<deveah>in what language?
+(09:55:13)<joe6pack>jasva
+(09:55:14)<joe6pack>java]
+(09:55:17)<joe6pack>java
+(09:55:33)<joe6pack>but you don't need to know it before hand
+(09:55:49)<joe6pack>just look at the code we have already written
+(09:56:06)<deveah>hmmm.....
+(09:56:11)<deveah>ok then
+(09:56:16)<joe6pack>\o/
+(09:57:27)<deveah>where's the download?
+(09:57:45)<joe6pack>http://code.google.com/p/rgrdbot/source/checkout
+(09:57:47)<joe6pack>but first
+(09:58:11)<deveah>brb lunch
+(09:58:28)<joe6pack>write konijn_mac and email and ask him to commit the changes (includeing the log) and turn it off on his computer
+(09:58:49)<joe6pack>so that we get a consistent log 
+(10:12:11)<deveah>back
+(10:58:26)<joe6pack_away>ls
+(10:59:42)<deveah>hmpfish
+(10:59:52)<Aerton>ls?
+(11:00:01)<Aerton>wrong terminal :-P
+(11:00:07)<joe6pack_away>Aerton: typed that in the wrong terminal
+(11:00:11)<joe6pack_away>:p
+(11:00:14)<Aerton>:qw
+(11:00:20)<deveah>Alas, you were trampled to death by a lizard!You scored 369 points!Your journey lasted for 558 turns.Your final health was -5/100You ate 7 blue mushrooms,10 green mushrooms, and11 purple mushrooms on your way.You had 2 enlightening visions.You were left with 4 bottle(s) of beer!
+(11:00:49)<joe6pack_away>Aerton: surely you mean :wq
+(11:01:03)<joe6pack_away>first quitting and then saving doesn't make much sense 
+(11:02:53)<Aerton>hadn't you hear a story of a teacher who first turned the power off and then asked students to save their work?
+(11:03:42)<Aerton>he was kind enough to turn it again on when they started to cry 
+(11:03:52)<joe6pack_away>vim would let you do that anyway. you have to add a ! inorder to quit a file you've made changes to 
+(11:04:07)<joe6pack_away>s/would/wouldn't 
+(11:04:53)<Aerton>hush!
+(11:04:54)<Aerton>I've told a whole story to hide my stupid typo!
+(11:06:09)<Aerton>btw, after looking at your screenshot, I run vim alongside the irc on the same screen ^^
+(11:06:32)<joe6pack_away>heh
+(11:06:54)<joe6pack_away>i now run irssi on a second monitor 
+(11:07:12)<deveah>what screenie?
+(11:07:24)<joe6pack_away>should have thought about hooking it up to my laptop a long time ago
+(11:07:32)<joe6pack_away>deveah: you've seen it. of my desktop
+(11:07:35)<deveah>oh
+(11:08:23)<oeb>One of these days I will have the courage to install linux on my main desktop.
+(11:08:45)<oeb>I can do all my work stuff on my laptop, and that runs ubuntu.
+(11:08:53)<deveah>i think i'm gonna start a new rl - a med-sized one.
+(12:27:23)<joe6pack>deveah: did you sent konijn an email?
+(01:19:33)<deveah>reg
+(01:19:51)<deveah>joe6pack no, busy with homework
+(01:19:56)<joe6pack>ok
+(01:20:07)<deveah>and i want to test something new now
+(02:26:33)<deveah>http://gamemakergames.com/?a=view&id=6340 this is a great roguelike
+(02:27:13)<deveah>Crypts of Despair, made on Game Maker
+(06:33:57)<RotateMe_away>joe6pack, that story in the link of the day is one of the reason i'm quitting work for sap :D
+(07:22:08)<konijn_mac>MEH
+(07:22:11)<konijn_mac>meh
+(07:22:13)<konijn_mac>I meant
+(07:22:22)<konijn_mac>I find bee's of the article unproductive
+(07:26:56)<joe6pack>when?
++++ The date has changed: 2008/02/23 +++
+(04:52:34)<deveah>mornin
+(04:52:35)<deveah>g
+(06:07:45)<ido>good morning!
+(06:10:44)<purestrain>moin
+(06:16:52)<RotateMe>moin moin
+(06:43:20)<RotateMe>hehe the "typical novice's session with ed" is great :D
+(06:43:55)<deveah_>"Deveah's eXtended Console System"
+(06:44:49)<joe6pack>Ed is
+(06:44:49)<joe6pack>generous enough to flag errors, yet prudent enough not to overwhelm
+(06:44:51)<joe6pack>the novice with verbosity.
+(06:45:23)<deveah_>color print = cprint // get char from screen=getch
+(06:45:34)<deveah_>+ color flags
+(07:05:14)<deveah_>a half-an-hour roguelike would rock
+(07:05:33)<joe6pack>a lot of 7drls are just that 
+(07:05:54)<joe6pack>do you mean gameplay-wise or development? 
+(07:06:56)<deveah_>development
+(07:06:59)<deveah_>30 minutes.
+(07:15:05)<deveah_>looks like console flashing is because bright colors
+(07:19:42)<deveah_>i see the characters from 0 to 31 are only for control, but the smiley face chr code is 1 :/
+(07:24:35)<deveah_>lunch brb
+(07:50:36)<RotateMe>whOOt! just started a char in crawl and equipped a cursed weapon... i wanted to throw him right away and start anew but i had still one scroll in my inventory
+(07:51:04)<RotateMe>i read it for fun and "it [felt] like something [was] helping [me]"
+(07:51:20)<RotateMe>the weapon was uncursed and the char can continue :D
+(08:03:58)<RotateMe>hmm i think i will start to make an ascii mode for dungeonhunter
+(08:55:57)<deveah_>i want a cave generator
+(08:56:03)<deveah_>or a crypt generator
+(08:56:06)<deveah_>or a map generator
+(08:56:15)<deveah_>i don't care, i want it! :((
+(09:01:08)<joe6pack>there are a ton of those in the internet 
+(09:03:47)<Glowie>Write one yourself, it's a lot more fun
+(09:04:37)<joe6pack>well yea, but he can get *inspired* by existing ones...
+(09:05:09)<Glowie>Sure can
+(09:05:34)<joe6pack>there is so much info about it that there's really no excuse not to do it
+(09:09:52)<deveah_>i don't know where to start :/
+(09:14:36)<joe6pack>you can start with this:
+(09:14:46)<joe6pack>#include <curses.h>
+(09:14:52)<joe6pack>int main(){
+(09:14:54)<deveah>haha
+(09:14:55)<deveah>lol
+(09:15:07)<joe6pack>and at the end
+(09:15:08)<joe6pack>}
+(09:15:13)<joe6pack>now just fillup the gaps 
+(09:15:25)<deveah>does curses.h have a generator?
+(09:15:32)<joe6pack>for what?
+(09:15:35)<joe6pack>for a map?
+(09:15:38)<deveah>yes
+(09:15:40)<joe6pack>no
+(09:15:41)<deveah>if not then no
+(09:15:52)<Glowie>I'd suggest reading the old roguelikedevelopment.org articles from RogueBasin
+(09:15:56)<Glowie>Those gave me a good start
+(09:16:01)<deveah>i'm going rogue.
+(09:16:17)<deveah>rogue-style rooms
+(09:16:22)<joe6pack>http://jice.nospam.googlepages.com/basicdungeongeneration
+(09:16:45)<deveah>kind of like that
+(09:17:02)<joe6pack>it explains exactly how to do it 
+(09:28:12)<deveah>brb
+(09:30:46)<Aerton>duh, just buy a pike from the general store and start to dig
+(09:31:07)<Aerton>wands of stone to mud might be helpful, but the price bites
+(09:38:09)<RotateMe>grumble... i have to prerender the ascii bitmaps to display them in different colors... what a crappy language :(
+(09:42:18)<purestrain>encountered next bug in D :P
+(10:25:57)<konijn_mac>I still prefer this one : http://kuoi.com/~kamikaze/GameDesign/art07_rogue_dungeon.php
+(10:42:42)<joe6pack>i think the pics really help
+(10:43:11)<joe6pack>makes it much easier to understand 
+(10:46:58)<purestrain>and of course you can have a difficult passage, since the level is basically divided into two parts with one corridor
+(10:47:09)<purestrain>puts lots of orcs there :-)
+(10:47:30)<purestrain>and one goal on each side
+(10:49:19)<konijn_mac>yeah, I dont know
+(10:49:36)<konijn_mac>I guess I get my specs in textual format, so I can deal better with that ;)
+(10:51:14)<purestrain>for the lazy ones http://dungeonmaker.sourceforge.net/
+(10:53:00)<joe6pack>is that yours?
+(10:53:15)<purestrain>no ;-)
+(10:53:46)<joe6pack>the name sounds familiar 
+(10:53:54)<joe6pack>but i don't remeber from where 
+(10:54:45)<joe6pack>also
+(10:54:50)<joe6pack>no screen shots 
+(10:56:13)<purestrain>http://dungeonmaker.sourceforge.net/DM2_Manual/ <- here are some
+(10:56:41)<joe6pack>oh yea
+(01:53:58)<Nasareti1ainen>what the?
+(01:54:09)<jomiolto>there
+(01:54:31)<Glowie>Ate a few mushrooms, changed the name and forgot you did it?
+(01:54:38)<jomiolto>I think I need to tweak my irssi settings :(
+(01:54:57)<jomiolto>nah, it's just that I irc in two different networks, and irssi seems to default to the same nick in both of them
+(01:56:12)<jomiolto>and, besides, you're making me sad, because it's winter and all the tasty 'shrooms are covered under a foot of snow :(
+(01:56:33)<Glowie>I thought you had an in-door mushroom farm :b
+(01:57:23)<jomiolto>nah, the one's grown by mother nature taste better (and given nicer hallucinations :)
+(01:58:28)<jomiolto>sigh... 9pm already, and I was supposed to get some code done today :(
+(01:58:50)<Glowie>I debugged one bastard of a bug for 2 hours ^_^
+(01:59:03)<jomiolto>that's nice :)
+(01:59:32)<Glowie>It wasn't that nice after 1,5 hours of debugging
+(02:00:25)<jomiolto>well, at least for me it depends on what the bug if like; if it's something blindingly obvious that you should have noticed immediately, then it's not fun, but if it's something really obscure and difficult, then it's a great feeling to actually find the bug
+(02:01:22)<Glowie>It was a great feeling, and it certainly wasn't obvious. Rather hard to reproduce too... The player had to be unarmed, paralyzed and use double strike special skill to make it appear :(
+(02:01:40)<Glowie>(It was caused by overflowing message buffer when the player is paralyzed)
+(02:01:48)<jomiolto>oh
+(02:02:50)<jomiolto>it has sometimes taken me a week to find some similar bugs (although I didn't spend week doing just debugging, but also did some other stuff)
+(02:03:12)<jomiolto>and, actually, I've once run into a bug in GCC, some years ago
+(02:03:45)<jomiolto>that definitely wasn't fun when you spent a day debugging your code and found out that nothing was acutlly wrong...
+(02:03:46)<Glowie>"And then I thought, ha! The bug must be in the compiler!" Something similar was someone's signature in RGRD :P
+(02:04:13)<Glowie>Did you report that GCC's bug
+(02:04:52)<jomiolto>nah, I didn't have a stable internet connection back then and I was actually using an old version
+(02:05:16)<Glowie>Oh
+(02:05:17)<jomiolto>I'm not sure I would have ever discovered the problem, had I not known assembler
+(02:05:56)<Glowie>Nice, someone has benefited from knowing assembly :P
+(02:06:01)<jomiolto>:D
+(02:06:29)<Glowie>So, what's your next project now after Alan's success?
+(02:06:31)<jomiolto>I actually like coding in assembler, but sadly it is about as far from portable as possible
+(02:06:37)<Glowie>Hehe
+(02:07:45)<jomiolto>Glowie: well, I'll continue working on my roguelike library, libexador, until it's ready for my next game, Dungeon of the Undead
+(02:08:12)<jomiolto>DotU will also be quite small for a roguelike, something about the size of the original rogue, I reckon
+(02:08:30)<Glowie>Will there be rotting flesh and yellowish bones?
+(02:08:45)<jomiolto>perhaps in the tile graphics version :)
+(02:09:19)<Glowie>Yay
+(02:09:47)<jomiolto>DotU was actually my original distraction from the bigger roguelike I'm working on, Shadows of Exador
+(02:10:24)<Glowie>The Exador screen I found seemed influenced by ADOM :P
+(02:10:26)<jomiolto>... which in turn is something I want to get done before starting to really work on my dream roguelike :)
+(02:10:33)<Glowie>Haha
+(02:10:36)<Glowie>Vaporware after vaporware
+(02:10:41)<jomiolto>Glowie: it is and very heavily so
+(02:10:46)<jomiolto>at least in some respects
+(02:12:23)<joe6pack>i haven't had a "dream roguelike"  in years
+(02:13:11)<Glowie>You realized it's impossible to make it true?
+(02:13:20)<joe6pack>yes
+(02:13:23)<jomiolto>:(
+(02:13:35)<joe6pack>at least it was at the time...
+(02:13:38)<jomiolto>nanananana, I do not hear you, nanananana!
+(02:13:43)<jomiolto>:)
+(02:13:45)<joe6pack>i am a much better programmer now
+(02:14:17)<joe6pack>but i think i prefer a series of 7drl's...
+(02:14:40)<joe6pack>real life interfering with my game programming again
+(02:15:00)<joe6pack>but i'm glad i did the 7drl this year. i think i will do another one next year
+(02:17:59)<jomiolto>hmm, that cryptrover yours?
+(02:18:09)<joe6pack>yes
+(02:18:10)<jomiolto>seems interesting, I think I'll try it out
+(02:18:19)<joe6pack>try the current versiopn
+(02:18:47)<joe6pack>it has some fixes and extrsa features that the 7drl version didn't have 
+(02:19:10)<jomiolto>well, I might try both of them actually
+(02:19:36)<joe6pack>do you have svn installed?
+(02:19:40)<jomiolto>but the 7day version is the one that interests me more (unless it has some crashing bugs?)
+(02:19:46)<joe6pack>no,
+(02:19:49)<jomiolto>yeah, I do
+(02:19:53)<joe6pack>just minot bugs
+(02:19:57)<joe6pack>"minor"
+(02:20:04)<joe6pack>and 1 feature less
+(02:20:13)<joe6pack>and is too easy :p
+(02:20:39)<joe6pack>why is the 7drl version more interesting? 
+(02:20:56)<joe6pack>current: svn checkout http://cryptrover.googlecode.com/svn/trunk/ cryptrover
+(02:21:00)<jomiolto>because it's made in 7 days :P
+(02:21:15)<joe6pack>7drl: http://code.google.com/p/cryptrover/downloads/list
+(02:21:48)<jomiolto>yeah, I already have the code and I compiled the game, I just a bit distracted by the source
+(02:22:08)<joe6pack>how come?
+(02:22:20)<jomiolto>well, I don't know, I just had to see it :)
+(02:22:42)<joe6pack>i think the 7drl source is probably easier to understand though 
+(02:23:18)<joe6pack>"proper" keyboard handleing isn't that easy 
+(02:25:51)<jomiolto>oops, I was surrounded by monsters when I started, didn't survive very long :(
+(02:26:10)<joe6pack>that's another thing that's been corrected in the current version
+(02:26:20)<joe6pack>i think i will release it as the 1.0 version
+(02:26:46)<joe6pack>but i'll sit on it till may 1st, make it a round 3 months between the 7drl version and 1.0
+(02:27:23)<joe6pack>even though i haven't developed it at all after about ~1.5 weeks after the 7drl version
+(02:27:49)<joe6pack>just in case something pops up...
+(02:28:00)<joe6pack>and then i will leave it be forever 
+(02:28:00)<jomiolto>hmm, I like the idea and the game seems really nice
+(02:28:09)<joe6pack>thank you 
+(02:28:52)<jomiolto>I don't know about too easy, though, I guess I'm really lousy player, since I died again :P
+(02:28:59)<jomiolto>ran out of air
+(02:29:02)<joe6pack>in the 7drl version?
+(02:29:05)<jomiolto>yeah
+(02:29:30)<joe6pack>well some guys on rgrm said it was too easy, take what you will out of that ;0
+(02:29:43)<joe6pack>that was meant to be a ;)
+(02:30:13)<joe6pack>i don't think the people who frequent rgrm are "normal" palyers
+(02:31:25)<joe6pack>hey
+(02:31:34)<joe6pack>now that i look at the downloads section
+(02:31:48)<jomiolto>agh, I don't seem to get past level 5
+(02:32:19)<joe6pack>glowie's hall of fame screenshot is from only 8 days after the 7drl release, and that one had pretty much everything in it 
+(02:32:39)<joe6pack>i thought it took longer than taht 
+(02:33:44)<jomiolto>are the later release(s) more difficult than the 7drl version?
+(02:33:57)<joe6pack>i think they might be a bit more difficult 
+(02:34:04)<jomiolto>oh, no :P
+(02:34:11)<joe6pack>but you can just give yourself a bit more hp and air
+(02:34:19)<jomiolto>heh
+(02:34:24)<joe6pack>there is a #define AIR ...
+(02:34:26)<joe6pack>somewhere
+(02:35:31)<joe6pack>look at items.h
+(02:35:41)<joe6pack>and change these lines at the top:
+(02:35:46)<joe6pack>#define MED_CHARGE 3
+(02:35:46)<joe6pack>#define AIR_CHARGE 21
+(02:35:46)<joe6pack>#define BATTERY_CHARGE 34
+(02:35:46)<joe6pack>#define MED_NUM 3
+(02:35:46)<joe6pack>#define AIR_NUM 4
+(02:35:49)<joe6pack>#define BATTERY_NUM 3
+(02:36:15)<jomiolto>nah, I'll just try to beat it fairly :)
+(02:36:22)<joe6pack>the first 3 control how much each pack gives you and the last 3 how many of them there are at each level 
+(02:47:02)<deveah>who wants to listen to klingonian joy?
+(02:47:02)<deveah>http://www.filehost.ro/313936/dvh_kljoy_xm/
+(02:48:27)<jomiolto>"Pentru a putea downloada va rugam sa va autentificati:
+(02:48:33)<jomiolto>:(
+(02:49:01)<jomiolto>I don't even know what language that is :P
+(02:49:12)<deveah>http://www.filehosting.cc/?d=496855FB3
+(02:49:36)<jomiolto>okay, that works
+(02:49:37)<deveah>it sais: "To download you must auth." and it's Romanian
+(02:49:48)<deveah>says
+(02:51:20)<jomiolto>chip tune! \o/
+(02:51:38)<deveah>i'm a musician :D
+(02:51:54)<jomiolto>and one that makes chip tunes, yay!
+(02:55:15)<jomiolto>trippy tune :)
+(02:56:50)<deveah>zx spectum-like samples + triangle
+(03:15:02)<jomiolto>http://www.gnu.org/fun/jokes/dna.html :D
+(07:01:13)<joe6pack>good night
+=======
 +++ Start of log: Tue Feb 26 16:23:39 GMT 2008 +++
 (04:24:04)<RotateMe>hi, joe6bot
 (04:24:13)<RotateMe>randomquote
@@ -2614,3 +3047,4 @@
 (10:29:37)<joe6pack>i think i'll play another match and go to bed
 (10:29:40)<joe6pack>good night!
 (10:29:45)<kinnala>gn
+>>>>>>> .r7

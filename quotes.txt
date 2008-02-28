@@ -10,4 +10,11 @@
 [dungeonhunter] http://home.arcor.de/dungeonhunter/Screens/
 [deveah]  the ass-licking hunarians posted anti-romanian clips on 
 [deveah]  the web because they want all our resources and to destroy us
+<<<<<<< .mine
+[curses]  http://www.opengroup.org/onlinepubs/007908799/cursesix.html
+[curses]  <@joe6pack> he was complaining about the lack of a standard way to do all kinds of terminal handling
+[curses]  <@joe6pack> but curses *is* a standard
+[curses]  <@joe6pack> it is an offcial part of The Single UNIX Specification
+=======
 [telnet]  ftp://ftp.alt.org/pub/dgamelaunch/
+>>>>>>> .r7
