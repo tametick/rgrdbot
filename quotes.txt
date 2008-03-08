@@ -18,3 +18,6 @@
 =======
 [telnet]  ftp://ftp.alt.org/pub/dgamelaunch/
 >>>>>>> .r7
+[svn-merge]  after log.txt was merged Joe6Bot only added new lines to the log after being restarted
+[books]  <oeb> 'The Road' by Cormac McCarthy.
+[books]  'A Wild Sheep Chase' by Haruki Murakami

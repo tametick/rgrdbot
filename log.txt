@@ -3047,4 +3047,1414 @@
 (10:29:37)<joe6pack>i think i'll play another match and go to bed
 (10:29:40)<joe6pack>good night!
 (10:29:45)<kinnala>gn
+<<<<<<< .mine
++++ Start of log: Thu Feb 28 11:51:42 CET 2008 +++
+(12:42:32)<TMC>I really hate quakenet
+(12:42:37)<ido>why?
+(12:42:42)<TMC>every time I say someone, I ping out instead
+(12:42:46)<TMC>*something
+(12:42:57)<TMC>did you see the two lines I just said?
+(12:43:07)<TMC>see? him too
+(12:43:08)<ido>you probably pinged out a long time ago and just get the message when you try to say something 
+(12:43:27)<ido>thatś odd....
+(12:43:46)<TMC>[00:46] <TMC> wtf
+(12:43:46)<TMC>[00:47] <TMC> permadeath and unavoidable random instadeath don't mix
+(12:44:54)<ido>hey -  i just noticed you are exactly 12h ahead of me 
+(12:45:03)<ido>how convenient 
+(12:45:09)<TMC>interesting
+(12:45:25)<TMC>where are you again?
+(12:45:32)<ido>vienna 
+(12:45:56)<ido>i guess that's really about as far from new zealand as possible 
+(12:46:13)<ido>at least if we restrict ourselves to this planet 
+(12:46:58)<TMC>within a couple thousand km of directly opposite me
+(12:47:17)<ido>where's that exactly?
+(12:47:38)<TMC>somewhere in the atlantic near spain, I think
+(01:11:27)<TMC>yep
+(01:12:08)<TMC>wow
+(01:12:14)<TMC>that's a really fluffy bunny
+(01:12:55)<TMC>fluffy bunnies AND love
+(01:13:04)<TMC>it has it all
+(01:25:51)<TMC>oh
+(01:25:54)<TMC>you missed it
+(01:25:59)<TMC>I invented a new word
+=======
 >>>>>>> .r7
+>>>>>>> .r8
++++ Start of log: Thu Feb 28 17:09:20 CET 2008 +++
+(05:10:04)<ido>end of log merge
+(05:10:20)<ido>help
+(05:10:23)<ido>help?
+(05:10:23)<null>Available commands:
+(05:10:23)<null>time (by joe6pack)
+(05:10:23)<null>[subject] news (by joe6pack)
+(05:10:23)<null>news sources (by joe6pack)
+(05:10:23)<null>decide [option1],[option2] (by RotateMe)
+(05:10:23)<null>quote [keyword],[quote] (by RotateMe)
+(05:10:23)<null>getquote [keyword] (by RotateMe)
+(05:10:23)<null>randomquote (by RotateMe)
+(05:10:23)<null>roll (by konijn)
+(05:11:35)<ido>quote svn-merge, after log.txt was merged Joe6Bot only added new lines to the log after being restarted
+(05:11:44)<ido>getquote svn-merge
+(05:11:44)<null>svn-merge(0):  after log.txt was merged Joe6Bot only added new lines to the log after being restarted
+(05:23:17)<Aerton>the roguelike telnet project needs a name ^^
+(05:23:49)<ido>"the roguelike telnet project"
+(05:23:54)<ido>trtp
+(05:24:09)<Aerton>:)
+(05:25:00)<ido>pronounced "tar-tap"
+(05:25:28)<ido>we can make a little logo,
+(05:25:38)<ido>of a tap with tar flowing from it 
+(05:26:25)<Aerton>Oo
+(05:28:24)<Glowie>Tartap, there's a name for you :P
+(05:30:36)<ido>i just sent an email to this girl, asking if she wants to watch the new coen brothers film
+(05:30:43)<ido>i hope she does
+(05:31:44)<ido>nothing motivates one to find a new girlfriend like finding out one's ex has a new boyfriend 
+(05:38:50)<oeb>New Coen bros film kicks ass
+(05:39:01)<ido>so i have heard
+(05:39:08)<oeb>Although I took two girls to see it and neither one 'got' it. So beware.
+(05:39:30)<jraregris>high five!
+(05:39:46)<oeb>I ment the movie. They did get the other thing.
+(05:39:52)<ido>well i think this one is different 
+(05:40:05)<ido>she liked fight club 
+(05:40:08)<oeb>It's quite abstract.
+(05:40:18)<ido>i don't know any other girl who liked fight club
+(05:41:40)<oeb>I know a couple.
+(05:42:34)<ido>well we'll see 
+(05:42:40)<oeb>Sitting in the cinema after the movie finished was funny though. Nearly every couple in there had one person going 'That was the best movie ever' and another going 'What the fuck was that about? That makes no bloody sense!'
+(05:42:54)<ido>haha
+(05:43:05)<ido>so it will also double as an iq test 
+(05:43:07)<oeb>Read the book too. Cormac McCarthy is a good writer.
+(05:43:22)<ido>to see if i should try to go any further with her
+(05:43:22)<oeb>It's not IQ, it just requires kinda abstract thinking.
+(05:43:46)<ido>the trailer didn't seem so abstract 
+(05:43:57)<ido>just some guy going on a killing rampage 
+(05:44:03)<oeb>It does not start off abstract.
+(05:44:19)<oeb>It's the ending is a bit of a mind fuck. It's what the charachters represent.
+(05:44:25)<ido>ok
+(05:44:36)<oeb>It's the conclusion of the story that really sours it for people that did not get it.
+(05:44:46)<ido>let's not talk about it anymore
+(05:44:54)<oeb>Ohh no spoilers from me.
+(05:45:04)<ido>:)
+(05:45:18)<ido>i still rather be as surprised as possible 
+(05:45:22)<oeb>Also, if you like reading, also try 'The Road' by Cormac McCarthy. Very good book.
+(05:45:29)<ido>ok
+(05:45:49)<purestrain>hello
+(05:45:54)<oeb>ello
+(05:45:59)<ido>quote books, <oeb> 'The Road' by Cormac McCarthy.
+(05:46:05)<ido>getquote books
+(05:46:05)<null>books(0):  <oeb> 'The Road' by Cormac McCarthy.
+(05:46:16)<ido>hi there purestrain 
+(06:00:33)<RotateMe>quote books, 'A Wild Sheep Chase' by Haruki Murakami
+(06:00:40)<RotateMe>finished it yesterday, was just awesome
+(06:01:51)<jraregris>are any of you aware of any form of documentation on jcurses (apart from the javadoc)?
+(06:04:46)<RotateMe>sry can't help you there :(
+(06:09:50)<jraregris>i think I'll move away from the `urge' to make my game dgamelaunch-compatible, at least for now, and rather do a pseudo-ascii thing like DF or something
+(06:10:48)<Aerton>I think curses for java were discussed more the once on rgrd
+(06:13:35)<ido>they were
+(06:13:54)<ido>there isn't a really good platform independent way to do it
+(06:15:45)<Aerton>:(
+(06:16:28)<ido>i would write my own wrapper around curses and provide a windows and linux binary with the java classes
+(06:27:13)<jraregris>that's pretty much what jcurses does, i guess. and i might come around to it some time, but just now I'd rather make a roguelike than a library wrapper iykwim
+(06:27:33)<ido>yes
+(06:27:52)<ido>i want to give swig a try some day
+(06:28:00)<ido>but i never seem to get to ti
+(06:28:01)<ido>it
+(06:37:43)<jraregris>yeah, swing has all the documentation jcurses doesn't have times a million
+(06:39:32)<ido>yes, it seems to be very well documented and comes highly recommended 
+(06:39:43)<ido>oh
+(06:39:50)<ido>i mean swig not swing
+(06:40:02)<jraregris>i thought as much
+(06:40:02)<ido>http://www.swig.org/
+(07:17:00)<FledR_Away>I'm looking for good RL comics.  Is there a list of them somewhere?
+(07:17:15)<ido>i remeber seeing an angband comics 
+(07:17:23)<ido>don't recall any others 
+(07:25:38)<ido>http://www.philhassey.com/blog/2008/02/28/tinypy-10-mit-license-and-swell-opengl-demo/
+(07:25:42)<ido>hmm
+(07:25:53)<ido>maybe i'll give tinypy a try
+(07:26:28)<ido>i already know python, and that virtual machine is really small enough so that i wouldn't mind bundling it with my game
+(07:48:40)<cakeboy>http://github.com/jdp/tarn/tree/master
+(07:48:50)<cakeboy>my pet project i started on a little while ago
+(07:52:07)<cakeboy>i should put some docs and examples up soon
+(07:57:34)<RotateMe>FledRebel, there are two angband comics: http://angband.oook.cz/comic/
+(07:57:44)<RotateMe>and http://angband.calamarain.net/
+(07:58:06)<FledRebel>Thanks
+(08:08:47)<deveah>i not see topics
+(08:09:11)<deveah>:x
+(08:09:28)<ido>deveah: what?
+(08:09:37)<ido>there is a topic set
+(08:09:39)<deveah>i don't see the topic
+(08:09:49)<deveah><No Topic> to me
+(08:09:51)<ido>maybe you need glasses 
+(08:10:02)<ido>or a better irc client 
+(08:10:12)<deveah>still no
+(08:10:26)<ido>20:16:43 -!- Topic for #rgrd: The official rgrd channel | Link of the day: 
+(08:10:27)<ido>http://fci.wikia.com/wiki/Education#Don.27t_start_with_a_large_project | Bot:  http://code.google.com/p/rgrdbot/
+(08:10:30)<ido>20:16:43 -!- Topic set by joe6pack [] [Wed Feb 27 20:42:31 2008]
+(08:11:27)<deveah>lol! in 1986 Barry Leitch trackerd "F.R.I.D.G.E."
++++ The date has changed: 2008/02/29 +++
+(11:09:57)<ido>morning Numeron 
+(11:15:07)<Numeron>heya
+(11:18:03)<Numeron>im having trouble getting a return string from an array of mobiles(superclass for all npcs), looks like: town.mobile[x][y].name  returns nothing or crashes, whereas getting health or anything other than a string seems to work fine :S
+(11:18:31)<joe6pack>are all the rest primitives?
+(11:18:42)<joe6pack>like int or bool?
+(11:19:09)<Numeron>yep.. there is one other string which is says, and returns a line of convo
+(11:19:20)<Numeron>it doesnt work either
+(11:19:23)<joe6pack>try allocation on the heap 
+(11:19:29)<joe6pack>with malloc 
+(11:20:36)<Numeron>never heard of this function..
+(11:20:45)<joe6pack>are you programming in c?
+(11:20:50)<Numeron>c++
+(11:21:00)<joe6pack>it is called "new" in c++
+(11:21:44)<Numeron>ive found it at www.cplusplus.com, give me 5m to play with it
+(11:22:44)<joe6pack>i think malloc is supposidly not "good c++" or something.
+(11:22:50)<joe6pack>but i don't know
+(11:23:01)<joe6pack>i can tell you how i would have done it in c :)
+(11:25:10)<Numeron>"good" or "bad" c++ doesnt worry me much... i cant seem to understand how it works anyway though :\ its used in my mobile class...?
+(11:25:28)<joe6pack>how the "new" keyword works?
+(11:25:39)<Numeron>oh i know how that works
+(11:25:47)<Numeron>ahh i get you
+(11:26:04)<Numeron>i thought you meant it was new to c++
+(11:26:20)<joe6pack>:)
+(11:26:50)<joe6pack>http://www.cplusplus.com/doc/tutorial/dynamic.html
+(11:34:26)<joe6pack>did you figure it out or is it still not working?
+(11:35:14)<Numeron>havent been able to get it :(
+(11:38:33)<joe6pack>paste the line where you define your string
+(11:38:43)<joe6pack>and the line where you put something in it
+(11:40:46)<Numeron>string name;//public global     name = "No name";//inside constructor
+(11:41:13)<joe6pack>i guess "string" is from the STL or something?
+(11:41:29)<Numeron>using namespace std yeah
+(11:41:31)<joe6pack>because i haven't used that in a _long_ while...
+(11:42:55)<joe6pack>i can tell you how i would do it with char*, which is the c wawy of doing it 
+(11:43:09)<Numeron>do, ill try it
+(11:43:21)<joe6pack>but maybe someone who knows c++ can help?
+(11:45:36)<Numeron>...i might set up some accessor methods and see if i can pinpoint where the f up happens
+(11:47:02)<joe6pack>it happens when you leave the function scope and the stack is trashed
+(11:47:10)<joe6pack>give me a min i'll write an example
+(11:50:39)<joe6pack>char ** some_function(){
+(11:50:43)<joe6pack>	char** str= malloc(sizeof(char)*50 );
+(11:50:43)<joe6pack>	*str="1234\n";
+(11:50:43)<joe6pack>	return str;
+(11:50:43)<joe6pack>}
+(11:50:51)<joe6pack>main(){ printf(*some_function());
+(11:50:52)<joe6pack>}
+(11:51:33)<joe6pack>that way the content of the string is not trashed after you leave the function some_function()
+(11:52:29)<Numeron>i cant define anything in the global scope without it being static though can i?
+(11:52:43)<joe6pack>?
+(11:53:10)<joe6pack>of course you can define pointers in the global scope
+(11:53:48)<joe6pack>you just don't allocate the memory in the global scope
+(11:54:55)<Numeron>hmm. ill see what i can do
+(11:55:26)<joe6pack>char **str;
+(11:55:26)<joe6pack>void some_function(){ str= malloc(sizeof(char)*50 ); *str="1234\n";
+(11:55:32)<joe6pack>}
+(11:55:57)<joe6pack>dammit why does it paste it in such a crappy way
+(11:56:08)<joe6pack>char **str;
+(11:56:10)<joe6pack>void some_function(){
+(11:56:13)<joe6pack>    str= malloc(sizeof(char)*50 );
+(11:56:17)<joe6pack>    *str="1234\n";
+(11:56:20)<joe6pack>}
+(11:56:26)<joe6pack>main(){
+(11:56:28)<joe6pack>    some_function();
+(11:56:30)<joe6pack>    printf(*str);
+(11:56:34)<joe6pack>}
+(11:56:48)<joe6pack>in that case str is in the global scope
+(11:58:06)<Numeron>i see
+(11:58:59)<Numeron>i have:
+(11:59:08)<Numeron>uh hang on
+(11:59:19)<joe6pack>maybe give a link instead
+(12:00:20)<Numeron>name = malloc(sizeof(char)*50 );
+(12:00:26)<Numeron>*name = "Default";
+(12:00:42)<joe6pack>yes
+(12:00:45)<Numeron>gives compiler error: 
+(12:00:46)<Numeron>ambiguous overload for 'operator=' in '((Mobile*)this)->Mobile::name = malloc(50u)' 
+(12:01:10)<joe6pack>what is the type of name?
+(12:01:24)<joe6pack>should be "char **name;"
+(12:01:46)<Numeron>ah
+(12:02:15)<joe6pack>again, this is the c way of doing things. if you want to use the stl this is not the way to go
+(12:02:36)<Numeron>name = malloc(sizeof(char)*50 ); is invalid conversion from void* to char** :(
+(12:03:45)<joe6pack>oh yea
+(12:04:04)<Numeron>i think i might jsut continue to shotgun program it for a while... ahh something so seemingly trivial after the awesomeness of getting walls in lit rooms to light up when viewed from the lit side but stay dark otherwise :(
+(12:04:20)<joe6pack>there was a bug in my code
+(12:05:59)<joe6pack>try with 1 star
+(12:06:05)<joe6pack>char *str;
+(12:06:08)<joe6pack>void some_function(){
+(12:06:12)<joe6pack>    str= malloc(sizeof(char)*50 );
+(12:06:17)<joe6pack>    *str="1234\n";
+(12:06:21)<joe6pack>}
+(12:06:52)<joe6pack>anyway
+(12:07:24)<joe6pack> you should find out how to do this with new and and string, since this is the way it probably should be done in c++
+(12:08:16)<Numeron>invalid from void* to char*, i will try to get it with new
+(12:08:29)<joe6pack>oh wait what am i writing...
+(12:13:12)<joe6pack>char *str;
+(12:13:15)<joe6pack>void some_function(){
+(12:13:19)<joe6pack>    str= malloc(sizeof(char)*50 );
+(12:13:22)<joe6pack>    strcpy(str,"1234\n");
+(12:13:25)<joe6pack>}
+(12:14:19)<joe6pack>damn have to start studying :(
+(12:14:25)<joe6pack>have a nice day
+(12:14:28)<joe6pack>and good luck
+(12:16:51)<Numeron>i think i jsut got it... by pure fluke while looking into something else i discovered that in my game.h i have Map town; and also have in the constructor Game(){ town = Map();  ...
+(12:17:43)<Numeron>so it initialised town twice, making it funky for whatever reason
+(12:18:11)<joe6pack>i hope you are freeing all that dynamic memory at some point ;)
+(12:18:53)<joe6pack>i try to use the stack as much as possible, since it's sometimes such a pain in the ass, what with memory leaks and all
+(12:19:57)<joe6pack>i am sure that if you don't know why it works now and why it didn't work before that you are doing something wrong and it will come up again in the future 
+(12:20:12)<joe6pack>ideally you should understand what your program is doing 
+(12:20:14)<joe6pack>which is
+(12:20:20)<joe6pack>incedentally 
+(12:20:27)<joe6pack>the reason why i don't program in c++ :)
+(12:20:36)<Numeron>you are absoluetly correct. thanks for your help though, 'tis appreciated
+(12:20:44)<joe6pack>no problem
+(12:20:56)<Numeron>i got a job yesterday with fujitsu working with java, so i wont have that problem anyway
+(12:21:10)<Numeron>im excited. first job of my career
+(12:21:14)<joe6pack>with all that buggy code i pasted here, wasn't that helpfull...
+(12:21:34)<joe6pack>is it a c++ job?
+(12:21:55)<Numeron>java and the oh so not sexy plsql
+(12:22:18)<joe6pack>well you will at least not have these problems in java :0
+(12:22:37)<Numeron>yeah i know, go team garbage collector :P
+(12:22:38)<joe6pack>everything is on the heap anyway 
+(12:22:51)<joe6pack>oh yea, and you don't have to free it yourself...
+(12:24:01)<joe6pack>i blame my problems with memory allocation to the fact that almost all of my experience comes from using java and python 
+(12:24:08)<joe6pack>that's why i started getting into c,
+(12:24:35)<joe6pack>you have to learn these things sometime. and you won't learn it from java, python or scheme
+(12:24:36)<Numeron>c is pretty hard edge with memory hey?
+(12:24:55)<joe6pack>same as c++, as far as i can tell
+(12:25:12)<joe6pack>in c++ you just use new and delete instead of malloc and free
+(12:26:17)<Numeron>at uni i was taught java, and half way through my course everything switched over to c++ and i had to learn it on the fly while being taught advanced programming techniques... so most things to do with memory are pretty much beyond me
+(12:26:19)<joe6pack>i think cryptrover was the 2nd "real" c program that i've written 
+(12:26:55)<joe6pack>yea it was the same way for me. but since cs is not my major i only did c and c++ in 1 course
+(12:27:23)<joe6pack>so i try to learn it myself by programming rougelikes in c :)
+(12:27:56)<Numeron>its a good way, especially with small disposable rls like the 7day ones
+(12:28:02)<joe6pack>yes
+(12:28:20)<Numeron>are you still working on cryptrover btw?
+(12:28:36)<joe6pack>as basic as my c skills are now, they are leaps and bounds better developed than they were before i did cryptrover 
+(12:28:39)<joe6pack>no
+(12:28:46)<joe6pack>haven't touched it in a while
+(12:29:08)<Numeron>fair enough.
+(12:29:39)<joe6pack>i think i'll leave it as it is. simple and small
+(12:31:30)<Numeron>aye. ive not touched crown, but then again im working on a large scale version atm anyway lol
+(12:32:28)<joe6pack_studyi>hoping the nick will make me actually start studying for my exam :O
+(12:32:41)<hopbot>PEOPLE
+(12:33:01)<hopbot>oh man
+(12:33:08)<hopbot>semester starts in 2 days
+(12:33:52)<hopbot>I have to find my bag and pencil case, get supplies, find out about the buses, buy text and course books, pay the fees, start waking up 5 hours earlier, etc, etc :(
+(12:34:37)<Numeron>you'll be right, first week is all plaigarism statements and "this is what you're going to learn" and rubbish like that
+(12:34:55)<hopbot>not in my experience
+(12:35:10)<hopbot>normally they do that for between 5 minutes and one lecture
+(12:36:27)<Numeron>i guess. im usually pretty lax during my first week :P
+(12:36:40)<hopbot>well me too
+(12:37:04)<hopbot>but I haven't prepared in the slightest, and I'm busy with things this weekend
+(01:07:30)<ido>i just wanted to tell you guys that the log can be found on my website:
+(01:07:34)<ido>http://yehieli.info/rgrd/
+(01:07:56)<ido>and now...
+(04:47:07)<oeb>Awww, partys over =(
+(04:47:14)<oeb>Hide the drinks!
+(04:49:52)<deveah>didn't see a topic
+(04:50:16)<DaEezT>16:56 <+deveah> didn't see a topic
+(04:50:21)<DaEezT>stupid irssi/miau
+(04:50:30)<DaEezT>I get the wrong chan modes D:
+(04:50:58)<deveah>my own irc client is not yet fully functional
+(04:51:19)<DaEezT>maybe oeb being a mod is an error as well
+(04:51:33)<DaEezT>op*
+(04:51:35)<deveah>yes - and kinnala too
+(04:51:49)<deveah>i never seen them before
+(04:52:20)<DaEezT>me neither
+(04:52:32)<DaEezT>we need some rules for new guys
+(04:52:39)<DaEezT>like buying a round or something
+(04:55:34)<jomiolto>didn't party pver? :(
+(04:55:47)<jomiolto>I still have have a half a bottle of jagermeister :(
+(04:57:25)<jomiolto>well, I guess I can party by myself! :D
+(04:58:34)<DaEezT>\o/
+(05:00:46)<jomiolto>I'm taking some antibiotics for tonsillitis, but at least I didn't find anytihng to stop me from using alcohol with them :)
+(05:00:49)<oeb>I have been an op here for about a week at this stage.
+(05:01:22)<jomiolto>so, I guess I'll just drink as usual (not that I'm already drunk...)
+(05:02:02)<oeb>It's ok, I only sobered up about 4 hours ago. And I have been at work for 7.
+(05:02:24)<jomiolto>I've been drinkin almost the whole day, and I'm only getting drunk just now ;)
+(05:02:38)<jomiolto>jägermeister is a good medicin for sore throat
+(05:02:40)<oeb>What time zone are you in?
+(05:02:41)<jomiolto>:)
+(05:02:56)<jomiolto>oeb: Finland
+(05:03:04)<oeb>What's that? GMT+2?
+(05:03:07)<jomiolto>UTC+2 or +3, don't remember :/
+(05:03:15)<DaEezT>too drunk already :D
+(05:03:17)<oeb>It's 16.11 here now.
+(05:03:24)<DaEezT>17:09 here
+(05:03:30)<jomiolto>18:11 here now
+(05:03:38)<oeb>Ohh ok, 2 ahead.
+(05:03:55)<oeb>I wanna go on the beer again tonight! I'll have to wait till tomorrow though.
+(05:04:09)<oeb>Guess I'll have to go back to fucking around with SVG tonight.
+(05:04:09)<jomiolto>why?
+(05:04:22)<oeb>I have my son on Friday nights.
+(05:04:35)<jomiolto>SVG=vector graåhics, or something else?
+(05:04:44)<oeb>Vector Graphics.
+(05:04:47)<jomiolto>ok
+(05:05:04)<oeb>Writing a graphing / Charting thing with PHP / Javascript.
+(05:05:30)<jomiolto>:/
+(05:05:38)<jomiolto>work or something else?
+(05:06:10)<jomiolto>I'm personlly setting up Gentoo system for my home server ;)
+(05:06:24)<oeb>Doing it for the hell of it.
+(05:06:33)<oeb>Never used SVG with Javascript before.
+(05:06:33)<jomiolto>hah :)
+(05:06:47)<oeb>I'll probably find something to do with it for work though.
+(05:08:09)<DaEezT>gentoo for home servers 4t2 \o/
+(05:08:12)<DaEezT>4tw
+(05:08:13)<DaEezT>D:
+(05:08:14)<jomiolto>hmm, I should work on my roguelike library, but I think I'm too drunk :(
+(05:09:35)<jomiolto>btw, anyone using source management system with their roguelikes/other projects?
+(05:09:55)<DaEezT>we use svn at work
+(05:09:56)<jomiolto>t I'm asking because I just set up git on my home server :)
+(05:10:09)<jomiolto>never use any system before...
+(05:10:13)<DaEezT>used to use cvs at uni
+(05:10:21)<cakeboy>i use git a lot
+(05:10:22)<jomiolto>always done backups, etc. by myself...
+(05:10:27)<cakeboy>git is super
+(05:10:36)<oeb>I dont use any source control or backups. I walk on the wild side.
+(05:10:37)<jomiolto>git seems nice from the little I've used it
+(05:10:39)<cakeboy>and actually really easy to use
+(05:10:51)<oeb>Vodka and Pocket Protectors Baby!
+(05:11:08)<jomiolto>It was even quite easy to set up, once I got past the initial difficulties
+(05:11:24)<jomiolto>now I'll just see if it actually works fpr me
+(05:12:05)<oeb>Does Git have decent windows clients? I have been meaning to set up source control on the ubuntu server at my feet for ages
+(05:12:26)<jomiolto>the problem with doing the backups by myself is the fact that I might require different versions for different applications (for example Alan's Journey will require one that has exactly the same interface as the current version)
+(05:12:49)<jomiolto>oeb: I don't know about windows clients rally, since I use Linux only :/
+(05:13:00)<jomiolto>but I think there is supposed to be a windows port
+(05:13:15)<oeb>Main work machines are windows =(
+(05:13:50)<jomiolto>:(
+(05:14:08)<cakeboy>oeb: yes
+(05:14:24)<cakeboy>to actually push and pull with it might be hard, because you need an rsa keygen
+(05:14:34)<cakeboy>and for some reason my windows one wouldn't generate proper keys
+(05:14:51)<cakeboy>but it's real easy to check out and all that
+(05:15:23)<jomiolto>well, I have a ssh thing setup already, so the rsa stuff is already setup ;)
+(05:15:40)<jomiolto>All I need for a push is passwd/username
+(05:41:59)<DaEezT>oeb really knows how to kill a conversation
+(05:42:06)<DaEezT>arg
+(05:42:07)<DaEezT>lol
+(05:42:09)<DaEezT>disregard
+(05:42:18)<DaEezT>irssi didn't scroll
+(05:42:24)<DaEezT>it was stil lstuck at that windows remark :D
+(05:42:31)<DaEezT>for the last half hr
+(05:52:32)<oeb>=P
+(05:52:56)<oeb[away]>later guys
+(05:57:35)<FledRebel>Anyone ever managed to get the ctrl characters (<32) to be properly displayed in putty?  I've been trying for a while with no success.
+(07:05:35)<joni|drunk>nams, jägermeister rules :)
+(07:05:56)<joni|drunk>those germans really know how to make alcohol stuff :)
+(07:07:44)<joni|drunk>or perhaps I should say I ate mushrooms, just to make sure people are sure I'm real :)
+(07:08:08)<joni|drunk>btw, I'm listening to Queen Live In Wembley '86 :D
+(07:08:20)<joni|drunk>Sometimes I wish I was 20 years older :)
+(07:09:09)<joni|drunk>I was born on 85 and (one of the) greatest gigs in the history of humankind was performed in '86...
+(07:09:17)<joni|drunk>IMO
+(07:21:16)<purestrain>i wish i were 20 years older, too
+(07:21:24)<purestrain>at least ~10
++++ Start of log: Sat Mar 01 10:51:15 CET 2008 +++
+(10:53:50)<ido>if my computer would have been quieter i would have left the bot on all night
+(10:55:08)<DaEezT>fanless servers 4tw
+(10:55:26)<ido>well i don't want to invest any money into it
+(10:55:34)<DaEezT>D:
+(10:55:35)<ido>my server is an old pentium II
+(10:55:55)<DaEezT>this server is a 6 year old via epia
+(10:55:59)<DaEezT>with fans :p
+(10:56:07)<DaEezT>but locked away in the storage room
+(10:56:14)<ido>mine is actually not very noisy 
+(10:56:19)<DaEezT>I got meself one of those nice fanless epia ones last year
+(10:56:22)<ido>but it's in my bedroom
+(10:56:33)<DaEezT>that one is stowed away under my parent's tv set
+(10:56:47)<DaEezT>so I can l33ch their bandwidth :D
+(10:57:21)<ido>fuck i really have to study :(
+(10:57:27)<DaEezT>D:
+(10:57:28)<ido>test on tuesday 
++++ Start of log: Sat Mar 01 11:03:40 CET 2008 +++
+(11:06:34)<hopbot>oh damn
+(11:06:41)<hopbot>someone else is using the nick TMC
+(11:06:46)<hopbot>I couldn't register it either
+(11:07:03)<hopbot>what a drage
+(11:07:11)<TeeEmCee>*drag
+(11:54:01)<TeeEmCee>have I pinged out yetr
+(12:02:55)<jraregris>High Five, Roguelike Makers of the internet!
+(12:06:12)<Glowie>Does that count as a high five :P
+(12:07:02)<jraregris>Yeah, that's close enough
+(12:07:06)<jraregris>o/
+(12:13:58)<Glowie>What's up? :P
+(12:20:50)<jraregris>never mind me. I'm just over tired as we say in norwegian
+(12:21:13)<Glowie>Okay
+(12:21:46)<jraregris>I've had all week to lay out a magazine in InDesign, and i never really get started until its almost too late
+(12:22:20)<jraregris>I've got procrastination problems
+(12:23:08)<jraregris>so now I've been marking up word-documents and laying up for 14 hours straight
+(12:24:16)<Glowie>:P
+(12:27:14)<jraregris>it's usually when I've got something important work hovering over me that i get productive on all the 'everyday projects' I always intend on doing, but never seem to get around to
+(12:28:17)<jraregris>like last night me and a friend made a php-script that helps you out on an ethical level
+(12:29:24)<Glowie>Substitute work to replace the real work you'd have to do?
+(12:29:29)<jraregris>if you're at a party and appear to be getting lucky with a girl, but she seems a bit young, and you're not all certain on if it's morally 'right' to have sexing with her
+(12:29:35)<jraregris>yeah
+(12:30:00)<jraregris>anyways, you enter your age and her age, and the script tells you to go ahead or let her be
+(12:30:18)<jraregris>it works for girls too
+(12:31:07)<Glowie>Haha
+(12:31:12)<Glowie>And if the girl lies her age?
+(12:31:57)<jraregris>our php has no way of telling lies from truth at this moment
+(12:32:21)<Glowie>:P
+(12:32:32)<jraregris>maybe we could add a credit card check up or something
+(12:33:24)<jraregris>maybe we ought to implement a quiz to determine the age (like in leisure suit larry)
+(12:33:54)<Glowie>Haha
+(12:34:05)<Glowie>I remember guessing the questions when I was a kid
+(12:39:59)<jraregris>me too
+(12:40:44)<jraregris>and whene me and a mate played cannon fodder, we knew one of the possible key words (from the manual) and started the game about 50 times to get through
+(12:40:52)<jraregris>it was 'rose'
+(12:43:11)<Glowie>Haha I've done that too with a few games :P
++++ Start of log: Sat Mar 01 13:14:31 CET 2008 +++
+(01:14:50)<RotateMe>commands
+(01:14:50)<null>Available commands:
+(01:14:50)<null>time (by joe6pack)
+(01:14:50)<null>[subject] news (by joe6pack)
+(01:14:50)<null>news sources (by joe6pack)
+(01:14:50)<null>decide [option1],[option2] (by RotateMe)
+(01:14:50)<null>quote [keyword],[quote] (by RotateMe)
+(01:14:50)<null>getquote [keyword] (by RotateMe)
+(01:14:50)<null>randomquote (by RotateMe)
+(01:14:50)<null>roll (by konijn)
+(01:28:53)<jraregris>reading that interview made me re-realise that I really don't care wether my RL conforms to 'RL-laws'
+(01:38:36)<TeeEmCee>hi
+(01:38:40)<TeeEmCee>this is really neat
+(01:38:58)<TeeEmCee>this is the first conversation I've seen in this channel in a week
+(01:39:13)<TeeEmCee>I've been pinged out during all other conversations
+(01:57:01)<RotateMe>:D 
+(01:57:25)<RotateMe>this channel has it's times, but not much action in the last few days, that's right
+(02:14:11)<TeeEmCee>well I keep rejoining just as the last line of a conversation is said
+(05:23:08)<deveah_>i'm gonna learn java and make a mobile roguelike
+(05:23:10)<deveah_>period
+(05:23:24)<RotateMe>�u�
+(05:24:02)<RotateMe>do it for the psp that's the only portable thing i have
+(05:24:15)<deveah_>i'll have to learn cpp
+(05:24:42)<deveah_>i know java 10% - if i study it enough i'll get to a decent 33,33%
+(05:26:49)<deveah_>and roguebasin has a lot of premade algorithms for java :D
+(05:28:49)<RotateMe>33,33% sounds fine ^^^
+(05:30:28)<deveah_>yes, 10/3 :D
+(05:32:56)<jraregris>roguebasin has a lot for algorithms for java?
+(05:33:24)<deveah_>not a lot, but all algoritms i've seen have a java version
+(05:36:15)<jraregris>roguebasin is worth it's weight in zorkmids
+(06:07:12)<Glowie>Noo don't take the Java path
++++ The date has changed: 2008/03/02 +++
+(11:00:49)<ido>good morning! 
+(11:04:28)<ido>hi deveah 
+(11:10:10)<deveah>hi joe6pack
+(11:12:28)<TeeEmCee>hi
+(11:12:36)<deveah>hi tmc
+(11:12:40)<TeeEmCee>feeling pretty stressed
+(11:12:46)<deveah>why is that?
+(11:12:49)<TeeEmCee>semester starts tomorrow
+(11:13:05)<TeeEmCee>and I'm about to go onto the website and change my classes
+(11:13:14)<joe6pack>the beginning is always easy though 
+(11:13:41)<TeeEmCee>I also haven't organised myself
+(11:13:50)<deveah>my semester has started for some weeks now and all my fellows have more than 8 marks of 1 or 3 :DD
+(11:14:02)<TeeEmCee>huh?
+(11:14:10)<TeeEmCee>1 or 3?
+(11:14:14)<joe6pack>school != university 
+(11:14:18)<deveah>or 1 and 3
+(11:14:28)<joe6pack>TeeEmCee: i believe 1 is the best and 5 the worst 
+(11:14:33)<TeeEmCee>I don't understand
+(11:14:38)<joe6pack>at least that's the way it is in austria
+(11:14:43)<TeeEmCee>ok
+(11:14:47)<joe6pack>grades are between 1 and 5 
+(11:14:49)<deveah>no, 10 is the bast and 1 the worst
+(11:14:55)<deveah>best
+(11:14:58)<TeeEmCee>oh what, tests?
+(11:15:12)<deveah>yes, and undone homework
+(11:15:25)<TeeEmCee>heheh
+(11:16:31)<deveah>i have only 9 and 10 :D
+(11:16:45)<deveah>only one 9 and the rest of my marks 10 :hahah:
+(11:16:51)<TeeEmCee>I'm so pleased how many working blue pens I found in my pencil case
+(11:16:58)<TeeEmCee>I thought they were all empty
+(11:17:12)<TeeEmCee>I think I had to borrow pens off other people during exams last year
+(11:18:10)<deveah>i don't use much the pen
+(11:18:19)<deveah>i always write and draw with my pencil
+(11:18:39)<deveah>i have the complete collection of Rotring TikkyII 0.5 pencils :)
+(11:18:55)<joe6pack>i always buy ~20 bic pens at the begining of the year. I think i now have ~3 remaining 
+(11:19:01)<TeeEmCee>Rotring TikkyII?
+(11:19:05)<deveah>yes
+(11:19:14)<joe6pack>probably some romanian brand 
+(11:19:22)<TeeEmCee>any good pen brands that don't blot?
+(11:19:28)<TeeEmCee>even parker pens are bad
+(11:19:30)<deveah>i have white,lemon,blue,bluemetal,grey etc
+(11:19:31)<TeeEmCee>but not as bad as bic
+(11:19:37)<deveah>Rotring is german dudes
+(11:19:45)<joe6pack>deveah doesn't support  i18n out of the box
+(11:19:50)<joe6pack>you have to configure him by hand
+(11:19:52)<deveah>i have even some Faber-Castels
+(11:19:56)<TeeEmCee>hahaha
+(11:20:47)<deveah>all 0.5
+(11:21:02)<deveah>i have one 1 and two 0.7
+(11:21:12)<deveah>i've seen some 0.35's and 2's
+(11:23:26)<TeeEmCee>so what's happened in RL's in the last week or two
+(11:23:34)<joe6pack>rgrd news 
+(11:23:36)<TeeEmCee>I've been disconnected from it
+(11:23:44)<joe6pack>help?
+(11:23:44)<null>Available commands:
+(11:23:44)<null>time (by joe6pack)
+(11:23:44)<null>[subject] news (by joe6pack)
+(11:23:44)<null>news sources (by joe6pack)
+(11:23:44)<null>decide [option1],[option2] (by RotateMe)
+(11:23:44)<null>quote [keyword],[quote] (by RotateMe)
+(11:23:44)<null>getquote [keyword] (by RotateMe)
+(11:23:44)<null>randomquote (by RotateMe)
+(11:23:44)<null>roll (by konijn)
+(11:24:01)<TeeEmCee>broked
+(11:24:08)<joe6pack>news sources
+(11:24:08)<null>gsw news: http://feed43.com/atplay.xml
+(11:24:08)<null>rgrd news: http://groups.google.com/group/rec.games.roguelike.development/feed/rss_v2_0_msgs.xml
+(11:24:08)<null>rt news: http://www.roguetemple.com/feed/
+(11:24:08)<null>rgra news: http://groups.google.com/group/rec.games.roguelike.announce/feed/rss_v2_0_msgs.xml
+(11:24:08)<null>delicious news: http://feeds.delicious.com/rss/tag/roguelike
+(11:24:08)<null>rl news: http://rogue-life.ourden.org/rss.xml
+(11:24:24)<joe6pack>rgrd news
+(11:24:25)<null>Re: overlaping rectangles issue
+(11:24:25)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/cbb8b06ad815d60b
+(11:24:25)<null>Re: overlaping rectangles issue
+(11:24:25)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/1a94e36eb2d00433
+(11:24:25)<null>Re: overlaping rectangles issue
+(11:24:25)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/8b6863a0e2a5382a
+(11:24:25)<null>Re: overlaping rectangles issue
+(11:24:25)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/0fc31ec4f3fb1617
+(11:24:46)<joe6pack>apparently a lot of overlaping rectangles issues
+(11:24:48)<TeeEmCee>rgra news
+(11:24:48)<null>rec.games.roguelike.announce Posting Guidelines
+(11:24:48)<null>http://groups.google.com/group/rec.games.roguelike.announce/msg/5d62ef8197547970
+(11:24:48)<null>my win32 roguelike collection on ed2k
+(11:24:48)<null>http://groups.google.com/group/rec.games.roguelike.announce/msg/00216fa5032a37d1
+(11:24:48)<null>libtcod 1.2 released
+(11:24:48)<null>http://groups.google.com/group/rec.games.roguelike.announce/msg/350c82b9fa21994e
+(11:24:48)<null>Mines of Elderlore 1.0 beta 1 released
+(11:24:48)<null>http://groups.google.com/group/rec.games.roguelike.announce/msg/e68004d71113caa9
+(11:25:15)<TeeEmCee>when does the official 7drl period start?
+(11:25:19)<joe6pack>i don't think that much has happened in the past week
+(11:25:23)<TeeEmCee>in 7 day's time, right?
+(11:25:29)<joe6pack>something like that 
+(11:25:54)<joe6pack>i think there were at least 4 7drl's already made...
+(11:26:08)<joe6pack>this year that is
+(11:26:21)<joe6pack>cryptrover, apj, crown,
+(11:26:24)<joe6pack>what else?
+(11:26:34)<deveah>in 'e fortnigt, righ' lad? 
+(11:26:40)<deveah>*fortnight
+(11:26:45)<joe6pack>fridge 
+(11:26:56)<deveah>yes, and apj
+(11:27:02)<joe6pack>already wrote that 
+(11:27:11)<deveah>oh yes
+(11:27:19)<joe6pack>i think there was another one
+(11:27:24)<deveah>asciiwar
+(11:27:29)<deveah>for the nds
+(11:27:35)<joe6pack>what was that about?
+(11:27:37)<joe6pack>did play it
+(11:27:42)<joe6pack>"did'nt"
+(11:27:44)<deveah>a ram on fire or something
+(11:27:59)<deveah>doens't work on some ds emulators
+(11:28:03)<deveah>some=all
+(11:28:07)<deveah>*doesn't
+(11:28:19)<joe6pack>so that's 5 till now
+(11:28:35)<joe6pack>+ a couple of failures 
+(11:28:45)<deveah>2 if i'm right
+(11:29:12)<joe6pack>more than 2
+(11:29:27)<joe6pack>oh Mines of Elderlore
+(11:29:30)<joe6pack>so 6 7drl's
+(11:29:45)<TeeEmCee>apj?
+(11:29:56)<TeeEmCee>oh
+(11:29:58)<TeeEmCee>yeah
+(11:30:04)<joe6pack>cryptrover, apj, crown, fridge, asciiwars, Elderlore
+(11:30:23)<joe6pack>Alan's Psychedelic Journey 
+(11:30:41)<TeeEmCee>I played it, haven't finished
+(11:30:48)<joe6pack>me neither 
+(11:30:54)<joe6pack>but i liked it
+(11:32:04)<joe6pack>anyone played Mines of Elderlore ?
+(11:32:08)<deveah>nah
+(11:33:55)<joe6pack>not providing an executable or requiring anything but standard gnu built tools to build seems like the best way to have no one play your game
+(11:35:13)<joe6pack>oh i see he has an executable there now
+(11:36:04)<joe6pack>heh readme.txt is the only file flaged as a binary... 
+(11:37:18)<joe6pack>bugs
+(11:37:31)<joe6pack>i get &/ as the player
+(11:37:51)<joe6pack>and all the other tiles/chars are also 2 chars wide
+(11:37:53)<TeeEmCee>what's wrong with only requiring standard gnu tools?
+(11:38:02)<joe6pack>nothing
+(11:38:03)<TeeEmCee>oh, I think I misread
+(11:38:39)<TeeEmCee>what else did the author require?
+(11:38:50)<joe6pack>actually requiring python is also ok. but numeric is normally not installed by default
+(11:39:10)<joe6pack>i mean it's not that bad, it's the only thing i had to install
+(11:40:41)<joe6pack>but he also didn't flag the right files as executables. had he not needed numeric, added a correct shebang and flaged moe.py as executable i wouldn't have even needed to know it's a python program
+(11:40:46)<TeeEmCee>numeric is required by pygame, isn't it
+(11:40:53)<joe6pack>would have just run it as a normal program
+(11:40:57)<joe6pack>yes
+(11:41:02)<joe6pack>but he didn't use pygame 
+(11:41:16)<joe6pack>that's not required, just numeric 
+(11:41:26)<joe6pack>which again, is not that terrible 
+(11:41:57)<joe6pack>but i'm just saying, have as few barriers to compilation as possible 
+(11:42:37)<joe6pack>a lot of times i wouldn't even bother twice with a game requiring anything more than "make" or "./configure && make"
+(11:42:48)<joe6pack>unless i know in advance it's worth it
+(11:43:40)<TeeEmCee>yikse!
+(11:43:52)<TeeEmCee>I screwed up my timetabler
+(11:44:01)<TeeEmCee>*timetablle
+(11:44:04)<TeeEmCee>damn cat
+(11:44:08)<joe6pack>:)
+(11:44:40)<joe6pack>i really liked tinypy 
+(11:44:53)<joe6pack>the vm is so small you can bundle it with your game
+(11:45:19)<joe6pack>and really only be dependent on a c compiler and standard libs 
+(11:48:16)<TeeEmCee>tinypy?
+(11:48:37)<TeeEmCee>stripped down version of python, or a reimplementation?
+(11:48:44)<TeeEmCee>I need sleep and stuff
+(11:48:55)<joe6pack>reimplementation
+(11:48:59)<TeeEmCee>I'll sort out my timetable mishap some other day
+(11:49:02)<TeeEmCee>oh really?
+(11:49:11)<joe6pack>yea
+(11:49:14)<joe6pack>very small
+(11:49:17)<TeeEmCee>interesting, I didn't know there was more than one python implementation
+(11:49:26)<joe6pack>there are a lot of themn
+(11:49:42)<joe6pack>jython, pypy, cpython...
+(11:49:49)<TeeEmCee>besides wacky python-to-java-bytecode ones?
+(11:49:59)<joe6pack>that would be jython 
+(11:50:17)<TeeEmCee>(cheating)
+(11:50:22)<joe6pack>i only used the standard c implementation till now 
+(11:50:31)<joe6pack>why is that cheating? 
+(11:50:38)<TeeEmCee>hehe
+(11:50:40)<TeeEmCee>night
+(11:59:35)<joe6pack>i'm off to
+(11:59:40)<joe6pack>have t ostudy 
+(08:54:27)<Snarius>"You go north. The termites scream beneath your boots"
++++ The date has changed: 2008/03/03 +++
+(02:39:07)<_df_>rl news
+(02:39:08)<null>Ironband 27-Feb-08
+(02:39:08)<null>http://rogue-life.ourden.org/news_Ironband_27-Feb-08
+(02:39:08)<null>Angband 3.0.9a
+(02:39:08)<null>http://rogue-life.ourden.org/news_Angband_3.0.9a
+(02:39:08)<null>Dwarf Fortress v0.27.176.38c
+(02:39:08)<null>http://rogue-life.ourden.org/news_Dwarf-Fortress-v0.27.176.38c
+(02:39:08)<null>FAngband v0.3.2
+(02:39:08)<null>http://rogue-life.ourden.org/news_FAngband_0.3.2
+(02:56:51)<Snarius>rl
+(02:56:55)<Snarius>rl help
+(02:56:59)<Snarius>rl options
+(02:57:25)<Snarius>has anyone ever tried a rl game with an infinite map?
+(02:57:37)<_df_>sounds... boring
+(02:57:49)<_df_>whats the point if its infinite?
+(02:58:16)<_df_>rt news
+(02:58:17)<null>Dwarf Fortress Development interview over Gamasutra
+(02:58:17)<null>http://www.roguetemple.com/2008/03/01/dwarf-fortress-development-interview-over-gamasutra/
+(02:58:17)<null>Rogue 7DRLs II: Revolutions (ARE YOU READY FOR THE GREAT WAR?)
+(02:58:17)<null>http://www.roguetemple.com/2008/02/20/rogue-7drls-ii-revolutions-are-you-ready-for-the-great-war/
+(02:58:17)<null>Community Update
+(02:58:17)<null>http://www.roguetemple.com/2008/02/13/community-update/
+(02:58:17)<null>Omega for windows, updated!
+(02:58:17)<null>http://www.roguetemple.com/2008/02/13/omega-for-windows-updated/
+(02:58:31)<Snarius>there could still be some artifact, but there could be a lot more to explore
+(03:01:18)<_df_>well people complain with really big maps.. i dont know if players would like infinite sized maps.
+(03:02:12)<_df_>people like constrained maps, fixed size type things that they can explore. they dont like.. infinite :)
+(03:02:51)<Snarius>I just had an idea a while ago for a 'staff of passage'
+(03:03:12)<Snarius>it would make a tunnel or portal to a different dungeon branch
+(03:03:26)<Snarius>is it just me, or does that sound really neat?
+(03:27:56)<_df_>code it and see if its good to play
+(07:19:05)<TeeEmCee>hello
+(07:19:12)<TeeEmCee>RL DEVELOPER POLL
+(07:19:24)<TeeEmCee>does a game need permadeath to be a RL?
+(07:19:50)<TeeEmCee>I think it's not totally necessary
+(07:20:38)<TeeEmCee>there are often rl's on At Play with some sort of 'continue from last town with lost equipment' feature
+(07:52:13)<Numeron>i dont think so. for me a roguelike is simply rogue-like. if its like rogue in some way then it passes the bar, but it doesnt have to be in every way
+(07:52:52)<Numeron>permadeath is a good idea though
+(07:53:04)<TeeEmCee>normally
+(07:53:20)<TeeEmCee>well, for a traditional roguelike anyway
+(07:53:21)<TeeEmCee>f
+(07:53:37)<TeeEmCee>don't know if you count crown of the forest as a rl
+(07:54:06)<Numeron>i count it as one. it has rpg features in a turn based ascii environment
+(07:54:27)<TeeEmCee>but such a game shows permadeath can be replaced with other gameplay
+(07:56:18)<Numeron>it does, but does that then exclude it from being a rl? my definition of a rl is very very loose
+(07:56:53)<Numeron>is a rl without potions a rl?
+(07:57:12)<TeeEmCee>definitely
+(07:57:29)<TeeEmCee>that's easy
+(07:57:45)<Numeron>then why is a rl without permadeath not a rl? permadeath is a feature jsut like potions are a feature, removing one doesnt make it any less rl
+(07:57:56)<TeeEmCee>but it's possible to stray waaaay away from rogue, and still present the game the same
+(07:58:16)<TeeEmCee>it seems like people care more about presentation than gameplay in their definitions
+(07:58:56)<TeeEmCee>like you mentioned ascii
+(08:00:28)<Numeron>well in crown, you run around, turnbased inside cells (ascii isnt important, since there are rls with tiles) casting spells, buying potions pwning other creatures, thats pretty much what a rl is: it jsut doesnt have down stairs and a different win condition
+(08:01:39)<Numeron>and thats all gameplay
+(08:01:58)<TeeEmCee>yeah, crown is still fairly close to rogue despite being a totally different idea
+(08:02:10)<Numeron>therefore it is rogue-like
+(08:02:17)<Numeron>:)
+(08:02:23)<TeeEmCee>yep
+(11:18:48)<ido>oeb: where you the one who told me about "no country for old men"?
+(11:20:12)<oeb>Yup
+(11:20:14)<oeb>Like it?
+(11:20:20)<ido>it was pretty good 
+(11:20:34)<ido>didn't see what was so "abstract" about it, though
+(11:20:55)<oeb>Well the whole thing about yer man representing death rather than an actual villian
+(11:21:12)<oeb>Especially important to see it that way to find meaning from the final scene.
+(11:21:37)<oeb>Without that insight it seems like people saw no need for the crash at the end, and thought it left the movie without meaning or a clear end.
+(11:22:26)<ido>do you Chigurh or Llewelyn?
+(11:22:29)<oeb>People also seemed to think the movie was about the cowboy or the villian, when infact it was almost soley about the sherrif.
+(11:22:43)<ido>huh
+(11:22:50)<oeb>Chigurh is the villian llewelyn is the cowboy
+(11:22:56)<ido>i didn't read so much meaning into it 
+(11:23:01)<ido>yes i know,
+(11:23:08)<ido>i asked which of them represented death
+(11:23:13)<oeb>I just could not remember names.
+(11:23:16)<ido>i guessed Chigurh
+(11:23:19)<oeb>Yes.
+(11:23:33)<oeb>The final scene shows how unstopable it is.
+(11:24:07)<oeb>As in the cops could not take him, assasins could not take him, men could not take him. The car crash represents God or faith trying to stop him.
+(11:24:10)<ido>i don't know. i think you are over analyzing it
+(11:24:40)<oeb>I don't believe so. I think the movie has deeper meaning that it seems to have on the surface.
+(11:24:56)<ido>maybe.
+(11:25:00)<oeb>Speaking of movies, the new rambo movie is pretty nuts in a mindless action movie kinda way.
+(11:25:37)<ido>i liked "there will be blood" much better than "no country for old men"
+(11:25:48)<oeb>Don't expect an amazing story, but it's full of cool explosions, big gun fights and people getting their arms chopped off. Wrapped in enough of a story to make it watchable
+(11:26:06)<ido>i don't think i'll go watch it
+(11:26:34)<ido>i have been going to the cinema quite often in the past few weeks 
+(11:26:40)<oeb>I have not seen there will be blood.
+(11:26:42)<ido>think i've had enough for a while
+(11:26:48)<ido>it's good
+(11:27:03)<oeb>I go through phases of seeing movies. Had not been in about 6 months but saw 5 or six since xmas.
+(11:27:17)<ido>yea i know what you mean
+(11:27:40)<oeb>I Am Legend was quite good, it strayed a bit too much from the book though. By too much I mean it missed the point completley.
+(11:27:43)<ido>although i don't think i often go 6 months between films
+(11:27:52)<ido>it was ok
+(11:28:02)<ido>didn't read the book though
+(11:28:20)<oeb>Want me to spoil it? Or do you think you will read it?
+(11:28:23)<ido>what was the point in the book?
+(11:28:27)<ido>no i fon't 
+(11:28:51)<oeb>Ok, first off in the book they were vampires rather than zombies.
+(11:28:58)<ido>i have too many books in my queue to make room for a zombie apocalypse 
+(11:29:23)<ido>does that make much of a difference? 
+(11:29:28)<oeb>They came in two types, living vampires (Those who were alive when they got the illness) and dead ones (The already dead who rose)
+(11:29:43)<oeb>Living vampires could speak and would taunt him.
+(11:32:10)<oeb>In the book he was not a scientist, but an army vet who was bitten by a vampire bat many years before, hence his immunity
+(11:32:35)<oeb>He went out every day and killed as many as he could, and holed up at night.
+(11:33:12)<oeb>One day he finds this dog, there is a couple of chapters about his interaction with it. Very moving stuff. The dog dies.
+(11:33:23)<oeb>Later he finds this woman, takes her home.
+(11:33:49)<oeb>She claims to be a survivor, turns out apon a blood test that she is infected.
+(11:34:45)<oeb>She reveals to him that she is part of a community of the 'living dead' people who are infected but have developed drugs to hold off the illness. They have no need to drink blood, they may go outside during the day for short periods etc.
+(11:35:12)<oeb>He is a monster to them, he is the fearsome beast who kills them while they sleep.
+(11:35:21)<ido>so in the book the living vampires are just normall people who need to drink blood?
+(11:36:27)<oeb>There are two types, those who have succumed (They are insane etc, but can speak and show intelligence at a lower level) and the ones who are medicated who function as normall humans except for the need to sleep for at least part of the day.
+(11:37:03)<oeb>When he discovers what he is and is captured by the new society, they imprision him and set him up for execution.
+(11:37:07)<ido>and how do so many of them survive without the pray of normal people?
+(11:37:35)<ido>do they eat one another?
+(11:37:38)<oeb>The woman gives him the oppertunity to commit suicide with poision he takes them up on it.
+(11:37:45)<oeb>Yes, they eat one another.
+(11:38:09)<oeb>It's not explained in too much detail, but from time to time he sees them preying on one another.
+(11:38:15)<oeb>Typically if one is injured.
+(11:38:16)<ido>so actually their society is doomed regardless of what he does
+(11:38:37)<oeb>Not really, the new society is very effeciant at killing vampires.
+(11:38:57)<oeb>They do it at night when the vampires are out. He does it at day when they are asleep.
+(11:38:58)<ido>newe society == the medicated vampires? 
+(11:39:01)<oeb>yes
+(11:39:32)<ido>but the vampires don't breed and have a limited supply of food
+(11:39:39)<ido>eventually they will run out
+(11:39:45)<oeb>For example when he is captured a group of 8 armed with pikes and guns easilly wipe out all the vampires outside the house.
+(11:40:09)<oeb>That's not explained in too much detail, the book is set many many years after the outbreak though.
+(11:40:50)<oeb>It's a short enough book, maybe 150 pages. You could read it in an afternoon easy. Well worth a read too.
+(11:41:00)<ido>and can he tell the difference beteween the medicated vampires and the succmbed ones when they sleep?
+(11:41:04)<oeb>No
+(11:41:16)<oeb>The first he finds out about it is from the woman.
+(11:42:38)<oeb>The only way he can tell if someone is infected or not is if they are out during the day. And the woman is the first one he sees outside (He does not know about the medication untill the very end).
+(11:43:11)<oeb>So movie == he is a legend for curing it, book == he is a legend because he is the monster, when he thought he was the savior
+(11:43:22)<ido>ok
+(11:43:29)<oeb>So like I say, totally different point =P
+(11:43:41)<ido>yea not really the same
+(11:44:03)<oeb>It is a good book though, and like I say, nice and short, I would advise picking it up.
+(11:44:35)<oeb>It's one of those 'One more chapter before I go to sleep book, Ohh shit, it's 2am already'
+(11:44:43)<ido>why do people bother basing films on books when they don't keep the same story?
+(11:45:22)<oeb>Well I think the Omega man, which was inspired by the book was closer to what was presented in the latest movie. Maybe it was based more on that.
+(11:46:19)<oeb>There has been like 4 movie adaptations of this book. 'The last man on earth' was more faithful to the book apparently (Or so wikipedia tells me, not seen it myself)
+(11:48:06)<ido>i have to go back to studying now :(
+(06:18:57)<RotateMe>hey, could anybody point me to a decent c++ development enviroment for windows?
+(06:27:46)<helge_>tried code blocks?
+(06:29:35)<RotateMe>nope, will have a look, thx
+(06:30:16)<RotateMe>looks cool
+(06:30:34)<RotateMe>any experience/comparison to dev-c++ (that's the only one i know so far)
+(06:36:41)<FledRebel>I use Microsoft Visual Studio for c++ dev on Windows
+(06:39:26)<Glowie>Anything that compiles > Dev-Cpp
+(06:39:39)<Glowie>As far as I know Dev-Cpp is outdated and.. Bad :P
+(06:40:24)<Glowie>I use Visual Studio as well and haven't tried Code Blocks, but I'd try it first if I didn't have Visual Studio
+(07:39:06)<RotateMe_away>k thx, Code::Blocks seems fine
+(07:39:52)<RotateMe_away>can't get the doryen lib compiled there too but that might very well be because of my non existant c/++ skills
+(07:55:59)<RotateMe>fuck that i managed to compile it!
+(07:57:52)<Glowie>Yay for you :P
+(07:59:47)<ido>hi there
+(08:00:35)<RotateMe>hi!
+(08:00:41)<RotateMe>how are the exams going?
+(08:01:01)<ido>ok
+(08:01:16)<ido>nothing exceptional 
+(08:01:20)<ido>as expected :)
+(08:01:28)<ido>what about you?
+(08:02:13)<RotateMe>will be having the first of 9 tomorrow
+(08:02:19)<ido>9
+(08:02:22)<ido>heh
+(08:02:25)<RotateMe>:D
+(08:02:25)<ido>good luck 
+(08:02:29)<RotateMe>thx
+(08:02:44)<RotateMe>currently busy playing around with jice's library
+(08:03:04)<RotateMe>finally managed to compile it (without problems but you have to know how includes work :P)
+(08:34:06)<deveah>hi
+(08:34:33)<ido>hi deveah 
+(08:35:04)<deveah>i have a friend who made a 3d roguelike engine, first-person
+(08:35:21)<ido>link?
+(08:35:24)<deveah>he started an 3dAngband project some time ago, but didn't finish
+(08:35:27)<deveah>w8
+(08:36:02)<deveah>an a harddisk burn helped him :/
+(08:37:32)<RotateMe>you have friends who make roguelikes!? :D
+(08:37:50)<deveah>yes, why?
+(08:37:58)<ido>a real friend or an internet friend? 
+(08:38:19)<deveah>internet friend :p
+(08:38:27)<ido>:)
+(08:38:47)<ido>in that case that's not that hard ;)
+(08:39:15)<ido>i don't know anyone else irl that even plays roguelikes 
+(08:39:26)<ido>at least not that i know of
+(08:39:46)<ido>i think maybe 1 person i asked plays/played nethack
+(08:41:21)<ido>anyone here plays warcraft 3?
+(08:41:25)<tekateru>test
+(08:42:01)<ido>RESULTS OF YOUR SELF ADMINISTERED TEST HAVE ARRIVED: 
+(08:42:09)<ido>YOU PASSED IT 
+(08:42:13)<tekateru>0irc really sucks - you have to type /msg and the channel you wish to send to the "datas" to send anything...
+(08:42:42)<ido>that sucks 
+(08:43:01)<deveah>yep
+(08:43:06)<RotateMe>well this way you think twice before you write something :D
+(08:43:36)<tekateru>again test
+(08:43:46)<deveah>why did it work now?!
+(08:44:10)<RotateMe>ido: i played warcraft 3 for a while but don't anymore
+(08:44:17)<RotateMe>even made a map
+(08:44:39)<RotateMe>oh, btw, a REAL friend of mine made a roguelike warcraft 3 map
+(08:44:50)<ido>:O
+(08:45:44)<RotateMe>i'm just looking for it
+(08:47:49)<tekateru>i remember a funny command on 0irc - something like /think...
+(08:48:50)<deveah>crash!!!!
+(08:49:12)<deveah>tekateru died.
+(08:49:26)<RotateMe>ido: http://www.clancbs.com/downloads_seperate.php?id=256
+(08:49:44)<RotateMe>it even does random level generation, it "lags" like hell though
+(08:49:55)<deveah>the screenshot is from oblivion....
+(08:50:17)<deveah>it's from the sewer missions
+(08:50:17)<ido>thanks
+(08:50:30)<RotateMe>he also made this: http://www.clancbs.com/downloads_seperate.php?id=703
+(08:50:55)<RotateMe>but that's kind of sick in my opinion :D
+(08:52:20)<deveah>it's not sick, it's tetris
+(08:52:24)<deveah>just so you know
+(08:53:51)<deveah>tekateru, die!!!!!1!!!!
+(08:53:55)<deveah>haha i knew it!
+(08:54:01)<deveah>cay
+(08:54:04)<deveah>cya
+(08:55:56)<ido>i'm gonna go as well
+(09:00:43)<RotateMe>well if that's the trend...
++++ The date has changed: 2008/03/04 +++
+(11:54:57)<joe6pack>morning! 
+(12:30:19)<MadCacti>hi
+(12:30:34)<joe6pack>haven't seen you in a while
+(12:37:46)<MadCacti>what!
+(12:37:54)<MadCacti>I was here yesterday
+(12:37:58)<MadCacti>oh
+(12:38:01)<joe6pack>with that nick?
+(12:38:07)<MadCacti>maybe you don't know, I'm TMC
+(12:38:11)<joe6pack>oh
+(12:38:14)<joe6pack>right...
+(12:38:25)<joe6pack>i remembered a MadCacti from somewhere 
+(12:42:46)<joe6pack>anyone here has any significant experience with prolog?
+(12:43:01)<joe6pack>i remember having to use it at uni once years ago
+(12:43:14)<joe6pack>but it was for something very basic
+(02:41:27)<joe6pack>hi Glowie 
+(02:42:01)<Glowie>Hey Ido-joe
+(03:46:59)<RotateMe>:D how do you keep finding stuff like that?
+(04:16:31)<joe6pack>reddit and news.ycombinator 
+(04:17:11)<joe6pack>and sometimes kuro5hin or very rarely slashdot
+(04:37:21)<joe6pack>rt news
+(04:37:23)<null>Dwarf Fortress Development interview over Gamasutra
+(04:37:23)<null>http://www.roguetemple.com/2008/03/01/dwarf-fortress-development-interview-over-gamasutra/
+(04:37:23)<null>Rogue 7DRLs II: Revolutions (ARE YOU READY FOR THE GREAT WAR?)
+(04:37:23)<null>http://www.roguetemple.com/2008/02/20/rogue-7drls-ii-revolutions-are-you-ready-for-the-great-war/
+(04:37:23)<null>Community Update
+(04:37:23)<null>http://www.roguetemple.com/2008/02/13/community-update/
+(04:37:23)<null>Omega for windows, updated!
+(04:37:23)<null>http://www.roguetemple.com/2008/02/13/omega-for-windows-updated/
+(04:43:37)<RotateMe>when does the 7drl challenge start again?
+(04:43:46)<joe6pack>4 days from now irrc
+(04:44:05)<joe6pack>on friday 
+(04:44:07)<RotateMe>hmm guess i have to start somewhen else then :(
+(04:44:27)<RotateMe>to many exams and they are hard, that's what i realized today
+(04:44:37)<RotateMe>s/to/too
+(04:56:07)<Glowie>Haha that link of the day is great
+(04:56:45)<joe6pack>i liked how the statician carefully gathered his data before complaining 
+(04:57:01)<joe6pack>if only all users were like that...
+(04:58:10)<RotateMe>like most of my family members
+(04:58:53)<RotateMe>"get out of google mail, mine is slow while you're using yours!"
+(04:59:04)<joe6pack>haha
+(04:59:18)<joe6pack>you're using up all of google's bandwidth!!! 
+(04:59:23)<RotateMe>my laptop wasn't even somewhere near our flat :D
+(05:00:17)<RotateMe>so it was just my mother's wild guess that this is the cause for the slowdown
+(05:00:54)<joe6pack>still more computer savvy than my parents 
+(05:01:27)<RotateMe>yeah but that most often leads to wild interpretations of problems they are trying to tell me via telephone
+(05:01:32)<joe6pack>i have explain things like what "double click" means
+(05:02:27)<RotateMe>^^ well my stepfather is quite like that
+(05:02:33)<joe6pack>i try to do as little tech support as possible. it just leads to both of us getting pissed off at each other
+(05:02:38)<RotateMe>my real father is a WoW addict :D
+(05:02:51)<joe6pack>you have young parents...
+(05:03:03)<RotateMe>you'd think so but you'd be wrong
+(05:03:20)<RotateMe>noone in his clan is under 45 maybe even 50
+(05:03:27)<joe6pack>my parents are 63 and 67
+(05:03:56)<RotateMe>that's still a few years difference that's right
+(05:04:37)<RotateMe>tried to make some money by giving courses to elderly people showing them how to use pcs
+(05:05:21)<joe6pack>did it work?
+(05:05:29)<RotateMe>i made quite some money but most of them couldn't use it afterwards which was kind of depressing so i didn't do it once more
+(05:05:42)<RotateMe>i felt a little bad even though i did everything i could
+(05:05:58)<joe6pack>you should have advised them to take notes
+(05:06:20)<joe6pack>or photocopy a page or 2 with the instructions you were teaching them
+(05:06:41)<joe6pack>so that they will have a reference 
+(05:07:20)<RotateMe>i did that but if there's the slightest difference on the paper compared to what they see on screen, they had problems
+(05:07:39)<joe6pack>hmm
+(05:07:43)<joe6pack>yea that sucks
+(05:07:48)<joe6pack>i know what you mean
+(05:08:02)<RotateMe>you can't really cover everything
+(05:08:08)<joe6pack>i probably wouldn't want to do that either
+(05:08:23)<joe6pack>maybe children, but not the elderly  
+(05:08:35)<RotateMe>but i think there are techniques to teach them stuff like that but you need some real good tricks
+(05:08:37)<joe6pack>children learn really fast 
+(05:08:40)<RotateMe>yeah
+(05:08:53)<joe6pack>you also need to invest a lot of time 
+(05:09:06)<RotateMe>i also did the programming group at our school
+(05:09:11)<RotateMe>that was fun
+(05:09:31)<RotateMe>it was 20 people at the beginning and 18 were there every single time
+(05:09:40)<RotateMe>even though it was voluntarily
+(05:09:52)<joe6pack>nice
+(05:09:58)<joe6pack>what did you teach them?
+(05:10:14)<RotateMe>basic, they were all 5th graders
+(05:10:30)<RotateMe>qbasic back then :D
+(05:11:00)<RotateMe>quite a few started to do their own stuff, and i think most of them continued to get more knowledge
+(05:11:05)<joe6pack>i was thought that in junior high
+(05:11:15)<joe6pack>"taught" 
+(05:11:24)<RotateMe>hmm junior high is from when to when again?
+(05:11:35)<joe6pack>but i think i already knew everything the teacher was trying to teacj
+(05:11:51)<joe6pack>7th-9th
+(05:12:02)<RotateMe>:D that's often the case
+(05:12:21)<joe6pack>i was taught logo in 4th grade though 
+(05:13:04)<joe6pack>i think the primary school i went to was really quite good
+(05:13:34)<RotateMe>my earliest "in-school" programming experience was in 9th grade, that's why i decided to teach (or rather help) some 5th graders
+(05:13:38)<joe6pack>we were using email in '93 or '92
+(05:14:00)<joe6pack>which was really not common at the time
+(05:14:15)<RotateMe>wow, i don't think i even knew what internet was at that time :D
+(05:14:19)<joe6pack>at least not in primary schools  
+(05:14:43)<joe6pack>i don't think i knew either... i just know how to write and read emails
+(05:14:57)<joe6pack>and play games when the teacher wasn't looking :p
+(05:15:28)<joe6pack>i remember there were 2 computer classes
+(05:15:44)<joe6pack>the good one with brand spanking new 386s
+(05:15:51)<RotateMe>it's funny how i grew up when the internet grew up, but the first time i realized it, it was in a "finnished" state
+(05:15:55)<joe6pack>and the old one with apple ]['s
+(05:16:15)<joe6pack>i think you mean the web
+(05:16:25)<joe6pack>the internet is quite a bit older than that
+(05:16:33)<RotateMe>yeah
+(05:16:38)<joe6pack>the web started in 91 or 92 iirc
+(05:17:24)<joe6pack>were they apple]['s or c64's?
+(05:17:26)<joe6pack>hrm
+(05:17:30)<joe6pack>i'm not sure
+(05:18:00)<RotateMe>i just remember my 386 i got in 1999 ^^
+(05:18:16)<joe6pack>that's a bit late for a 386...
+(05:18:30)<RotateMe>quite late, but without it i wouldn't have used qbasic probably
+(05:18:43)<RotateMe>i couldn't play the games i wanted so i tried to make them myself
+(05:18:55)<joe6pack>was the same for me
+(05:19:05)<joe6pack>i had to use an old pc xt till 95 or so
+(05:19:13)<RotateMe>didn't work and i kept being jealous of my friends with ther friggin pentiums playing diablo 
+(05:19:38)<joe6pack>yea... only for it was the 386's and 486's playing dune 2
+(05:19:46)<oeb>How I got into basic was those magazines that you used to be able to buy. 6 pages of the magazine was basicly a code listing for something like snake =P
+(05:20:08)<RotateMe>cool, never saw those in shops...
+(05:20:21)<joe6pack>a freind of mine from school hooked me on it
+(05:20:38)<oeb>This was back in the 80s mind.
+(05:20:48)<joe6pack>RotateMe: those were mostly to be found during the 8 bit era 
+(05:20:54)<oeb>I must have been about 8 or 9 I think.
+(05:20:58)<RotateMe>k that's a bit too early for me
+(05:21:16)<RotateMe>a little bit ^^
+(05:21:21)<joe6pack>for me too, i only started programming in the early 90's
+(05:21:41)<RotateMe>i think basic is quite good to start with
+(05:21:41)<joe6pack>and mostly in the mid 90's
+(05:21:49)<joe6pack>yea i guess so
+(05:21:54)<joe6pack>logo as well
+(05:22:04)<joe6pack>they are both good for teaching you the basics
+(05:22:12)<oeb>The first thing I properly wrote from scratch was a poor IF game in Pascal
+(05:22:25)<joe6pack>and they suck enough so that you'd eventually have to learn another language 
+(05:22:40)<oeb>It sucked though, I had a few pre-programmed accecptable responses, no real parser or anything.
+(05:22:55)<joe6pack>heh
+(05:23:08)<joe6pack>i was an IF fiend, only book form IF :)
+(05:23:22)<RotateMe>i started with graphics right away... a tank wars (or better: gorrillas) rip-of
+(05:23:35)<joe6pack>you know the books where it say "turn to page 69 if you want to fight the dragon"
+(05:23:44)<RotateMe>ah i had some of those
+(05:23:50)<oeb>Ohh yes, Choose your own adventure
+(05:23:53)<joe6pack>i was addicted to them
+(05:24:00)<joe6pack>yea that's what it's called 
+(05:24:00)<RotateMe>they were pretty hard at times
+(05:24:04)<oeb>By Jackson and that other guy, I must have had about 30 of them
+(05:24:26)<RotateMe>there was a pretty cool series "Lone Wolf"
+(05:24:42)<RotateMe>it must have had 30 books with a continuing story and a continuing hero
+(05:24:47)<joe6pack>i think i read that one...
+(05:24:59)<joe6pack>the name sounds really familiar 
+(05:25:15)<oeb>I remember a great one that had spells and everything. You would be told a spell, for example FLURT might be fireball. Later on when the opertunity arose to use to use it you would get 4 or 5 words and would need to remember what each spell did.
+(05:25:27)<oeb>I think there was a manticore on the cover.
+(05:25:41)<joe6pack>it didn't take me long to go from that to d&d
+(05:25:52)<RotateMe>some book had a troll skiing on the cover :D
+(05:26:21)<joe6pack>i was also really obsessed with [a]d&d all through junior high and high school 
+(05:26:51)<joe6pack>it's amazing how much time me and my friends spent on that crap
+(05:27:31)<RotateMe>http://en.wikipedia.org/wiki/Flight_from_the_Dark
+(05:27:47)<RotateMe>awesome, there's a wiki page for every single book he made :D
+(05:28:09)<joe6pack>heh
+(05:28:09)<RotateMe>i hope they aren't worth much, i sold all of them long ago for nothing
+(05:29:45)<RotateMe>makes me want to play them again :D
+(05:30:20)<RotateMe>http://cgi.ebay.de/Gefahr-in-den-Hoehlen-Joe-Dever-Gary-Chalk-REMI-ungel_W0QQitemZ230227463361QQihZ013QQcategoryZ2229QQssPageNameZWDVWQQrdZ1QQcmdZViewItem#ebayphotohosting
+(05:30:28)<RotateMe>the german covers are different it seams
+(05:30:30)<RotateMe>:D
+(05:30:35)<joe6pack>i never owned any. got them all from the local library 
+(05:31:45)<joe6pack>which i've heard is being closed down 
+(05:32:12)<joe6pack>it was a really small neighbourhood library 
+(05:32:47)<joe6pack>the city is is supposidely trying to merge them all into 1 big library in the center of town
+(07:03:03)<RotateMe>anyone knows a good and fast c++ tutorial?
+(07:03:33)<RotateMe>given i know some c, c# and very little java
+(07:09:01)<purestrain>uh, if you know c and c# there should be no problem
+(07:10:00)<purestrain>encapsulate everything as objects and you're fine
+(07:15:26)<Glowie>Just basically teach yourself how classes, strings and STL work
+(07:17:21)<joe6pack>i was an IF fiend, only book form IF :)aren't strings already part of the stl?
+(07:17:28)<joe6pack>damn
+(07:17:37)<joe6pack>ignore the 1st part of the sentence 
+(07:17:55)<joe6pack>i pressed the up arrow a couple of times apparently 
+(07:18:43)<purestrain>they are
+(07:20:44)<RotateMe>well there was emphasis on "some" ^^
+(07:21:19)<RotateMe>basically i need to refresh everything since the last thing i made dates back 3 years and after looking through the doryen lib codes i realized that there's not too much left
+(07:22:00)<RotateMe>but the tutorials i found are far too long, i need something compressed
+(07:22:43)<Glowie>I just wanted to add more emphasis on strings by separating them from STL :P
+(07:23:30)<joe6pack>RotateMe_wDog: just program in c + the bits of c++ you already know 
+(08:14:22)<purestrain>hmmm
+(08:15:13)<purestrain>should attaching weapons in hand be 'real' action s?
+(08:19:06)<purestrain>hmm... i think they should
+(10:16:39)<purestrain>i wonder if inventories in other roguelikes are more or less a 'sideeffect' or are really coded as an inventory
+(10:18:22)<purestrain>perhaps i should study the source of some games
+(10:21:04)<ido>what do you mean?
+(10:27:10)<purestrain>i mean, do most roguelikes keep a list of inventory items for a character? for each item? or do they use a tree?
+(10:27:48)<ido>what matter does it make if the underlying data structure is a tree or a linked list?
+(10:28:47)<purestrain>i think a tree is easier to handle ;-)
+(10:29:12)<purestrain>and its sideeffect is a inventory system
+(10:29:28)<ido>i don't see how, but more importantly i  don't see why that matters
+(10:29:53)<ido>and i think we are not talking about the same thing
+(10:30:01)<purestrain>i was just asking what the traditionally way is
+(10:31:04)<ido>tree as in http://en.wikipedia.org/wiki/Tree_structure
+(10:31:06)<ido>?
+(10:31:13)<purestrain>yes
+(10:31:27)<ido>what are the nodes in such a tree? for example 
+(10:31:41)<purestrain>player, weapon, portion and so on
+(10:32:20)<ido>i think you have formulated your question very poorly  
+(10:32:55)<purestrain>perhaps i could formulate it better, if i were more used in english language ;-)
+(10:33:09)<ido>by "tree" did you mean to ask if the inventory is part of the player description?
+(10:33:15)<ido>it has nothing to do with english
+(10:33:36)<ido>you assume we all know the structure of your design 
+(10:33:40)<ido>we do not :)
+(10:34:27)<purestrain>well, with tree i mean that each entity is basically a node; if they are carried or not is describes by the parent
+(10:34:35)<purestrain>the root in my example would be the world
+(10:34:46)<ido>ok
+(10:34:53)<ido>now i understand
+(10:35:31)<ido>i don't know about a "traditional" way of doing it, but:
+(10:35:35)<ido>1. my games
+(10:35:39)<ido>2. angband
+(10:35:46)<ido>3. advanced rogue
+(10:35:53)<ido>do not do it that wawy
+(10:36:09)<ido>(i think, i haven't looked at all the sources of 2&3)
+(10:36:34)<ido>i.e. an inventory is implemented as an inventory 
+(10:36:46)<purestrain>so how do they handle relations between objects? just a linked list as inventory ?
+(10:37:00)<ido>i don't know
+(10:37:55)<ido>(doesn't have to be a linked list btw, that is an implementation detail) 
+(10:38:16)<purestrain>of course, i mean a seperate collection/array/whatever
+(10:39:53)<ido>i don't know, but i can guess that a "combined" object (like dagger + poison) is transformed to a new object (poisoned dagger) in the inventory
+(10:40:21)<purestrain>ah, ok
+(10:40:22)<ido>and "ingredients" (dagger, poison) are then deleted 
+(10:43:25)<ido>http://www.theonion.com/content/video/in_the_know_how_can_we_make_the
+(11:35:21)<ido>can any of you access ted.com?
+(11:38:40)<ido>gary gygax is dead
+(11:41:02)<jraregris>wow
+(11:41:08)<jraregris>just now?
+(11:41:22)<ido>no, a few hours ago 
+(11:41:24)<ido>at least
+(11:42:21)<ido>http://www.freeyabb.com/phpbb/viewtopic.php?t=4373&mforum=trolllordgames
++++ The date has changed: 2008/03/05 +++
+(09:54:59)<TMC>oh no
+(09:55:43)<TMC>outsiders to the RL community debating the definition of a RL and how the wikipedia article should be changed
+(02:35:45)<TMC>is "vastly faster" a bad phrase
+(02:39:39)<oeb>Kinda
+(02:39:51)<oeb>Maybe Conciderably Faster (But spelled right)
+(02:44:21)<TMC>I think a 5x speed improvement is more than considerable :(
+(03:32:01)<ido_>the video is extremely cool
+(03:34:22)<ido_>have to go back to studying :(
+(04:59:44)<joe6pack>someone on reddit called me "old man" today :p and not in a sarcastic way, either 
+(05:03:21)<oeb>How old are you?
+(05:03:25)<joe6pack>24
+(05:03:37)<oeb>That's pretty old dude.
+(05:03:38)<joe6pack>i'm a wippersnapper 
+(05:04:07)<oeb>You probably make me look young and verile!
+(05:04:22)<joe6pack>i'll be 25 in less than 2 months!
+(05:04:38)<oeb>I'll be 27 in June =P
+(05:04:50)<oeb>Closer to 30 than 20 =P
+(05:04:54)<oeb>=(
+(05:05:03)<joe6pack>heh
+(05:05:18)<oeb>You know what's a great game?
+(05:05:21)<oeb>Stars!
+(05:05:30)<joe6pack>that's ok, i compensate by being infantile 
+(05:05:41)<joe6pack>stars?
+(05:06:28)<oeb>Fantastic turn based strategy game. Mostly pbem
+(05:06:43)<oeb>http://en.wikipedia.org/wiki/Stars%21
+(05:07:33)<joe6pack>i don't have the patience for pbm
+(05:07:48)<oeb>There is AI too
+(05:08:03)<oeb>You would get mangled in a real game without a lot of practice.
+(05:08:58)<joe6pack>did you ever use win nt 3.51?
+(05:09:28)<joe6pack>apperantly it can still run a lot of modern software, like mozilla 
+(05:10:25)<oeb>Nope, never used nt till 4
+(05:10:39)<joe6pack>me neither
+(05:10:52)<joe6pack>went from 3.11 wfw to 95
+(05:12:55)<joe6pack>oh ohw convinenet 
+(05:13:00)<joe6pack>you can get it on the web
+(05:13:09)<joe6pack>maybe i'll install it on a virtual machine
+(05:18:41)<oeb>http://www.theregister.co.uk/2008/03/05/snmp_vuln_scan/
+(05:18:48)<oeb>Talk about scare mongering
+(05:19:07)<oeb>5000 out of 2.5 million is like 1/500
+(05:19:40)<oeb>MAJOR SECURITY PROBLEM FOR .2% OF NETWORKS EEEK EEEK EEEK
+(05:20:31)<Aerton>stars! is a great game indeed
+(05:20:43)<oeb>And bloody difficult too!
+(05:20:45)<Aerton>although I don't have time to participate anymore :/
+(05:24:10)<Aerton>to run it now you'll have to have wine with 16-bit support
+(05:28:20)<Aerton>I guess the observer feature will not be ready before 7drl :(
+(05:28:50)<Glowie>Don't push yourself with hobby projects :)
+(05:29:53)<joe6pack>yea, the time will come 
+(05:30:17)<joe6pack>you'll just wake up one day and know that the day has come to work on it
+(05:31:10)<Glowie>That ensures the best quality
+(05:52:53)<joe6pack>anyone knows where i can get the game template from?
+(05:52:56)<joe6pack>on roguebasin
+(05:53:10)<joe6pack>if i want to create a page for cryptrover
+(05:53:54)<Glowie>There should be a template page somewhere, or just copy an existing entry's template and change the info
+(05:53:56)<Glowie>Going afk now->
+(05:55:47)<joe6pack>http://roguebasin.roguelikedevelopment.org/index.php?title=Category:Templates
+(06:22:58)<joe6pack>purestrain: are you doing a 7drl this year?
+(06:32:27)<purestrain>yes
+(06:32:33)<purestrain>i'll try it
+(06:41:18)<joe6pack>do you have theme? 
+(06:48:07)<purestrain>something with zombies i think ;-)
+(06:48:25)<joe6pack>going for the classics i see
+(06:48:58)<joe6pack>i think you should have giant radioactive mole rats 
+(07:41:11)<deveah>there are way too much ops
+(07:41:52)<deveah>there should be 4 or less
+(07:42:07)<joe6pack>it will self correct in a couple of days
+(07:42:58)<deveah>how? o.0
+(07:43:16)<joe6pack>people would leave and lose their op status
+(07:43:30)<deveah>how did you op them all?
+(07:43:39)<joe6pack> /op name1 name2 ....
+(07:44:02)<joe6pack>i didn't register them as auto ops
+(07:44:30)<deveah>no, i meant what was the reason
+(07:44:53)<joe6pack>convince people to be online more often
+(07:45:02)<deveah>oh
+(07:45:09)<joe6pack>at a random time everyone online is oped
+(07:45:22)<deveah>cool
+(07:45:50)<joe6pack>not that it matters. we're not kicking anyone anyway
+(07:46:44)<joe6pack>(just to be on the safe side)
+(07:47:31)<joe6pack>seems like one of these 2 to kick me directly after saying we don't kick anyone...
+(07:50:05)<deveah>kicking is necassary only if >20 ppl in the channel
+(07:50:29)<joe6pack>not always 
+(07:50:33)<joe6pack>depends on the people
+(07:51:26)<deveah>i got kicked 6 times from #milkytracker on espernet :D
+(07:51:38)<joe6pack>what did you do?
+(07:51:44)<deveah>i had the record for the channel, and also on the 6th place on onlining
+(07:51:53)<deveah>i changed the topic often to warez
+(07:54:34)<deveah>currently 29 in #milkytracker
+(07:58:53)<deveah>joe6pack, have you seen the spam invasion on rgrd?
+(08:05:10)<kinnala>:0
+(08:05:17)<joe6pack>yea, it happens occasionally 
+(08:05:25)<joe6pack>wouldn't call it "invasion"....
+(08:05:35)<joe6pack>i just kill file the spammers
+(08:05:49)<joe6pack>but it often doesn't help because they use temporary email accounts
+(11:16:05)<purestrain>segfault... thats what i hate to see now :-/
++++ The date has changed: 2008/03/06 +++
+(04:08:29)<OdderBolig>Hi, I�m a Danish guy. I seek an English speaking guy who wants to help me correcting some English. Anyone?
+(04:12:00)<oeb>I can
+(04:20:20)<ido>OdderBolig: what do you need help with specifically?
+(04:22:59)<oeb>It's ok ido, way ahead of you, it's just revising the grammer and phrasing of a document
+(04:23:27)<ido>ok
+(04:39:18)<ido>i wonder how blind people use computers
+(04:39:21)<ido>screen readers?
+(04:42:07)<oeb>Yes
+(04:42:24)<oeb>There are tools like Jaws that read the text off the screen.
+(04:43:11)<ido>so they probably don't really benefit from GUIs at all. it's just the same or even worse than just haveing a bunch of terminals 
+(04:44:02)<ido>and no point in a mouse either 
+(04:48:05)<OdderBolig>Hi, I�m a Danish guy. I seek an English speaking guy who wants to help me correcting some English. Anyone?
+(04:48:13)<oeb>OdderBolig again?
+(04:48:17)<ido>you already asked that
+(04:48:23)<oeb>And I did it for you
+(04:48:30)<ido>spammer?
+(04:48:46)<ido>oeb: what was the text about?
+(04:48:51)<oeb>No, it was a press release for some fasion show. In denmark I think.
+(04:49:10)<oeb>No addresses or contact details provided, so it's unlikely it was spam
+(04:49:29)<ido>wasn't about roguelike development either 
+(04:49:34)<oeb>True enough
+(04:49:42)<ido>and the guy never showed up here before today
+(04:50:44)<oeb>I want a mazda
+(04:51:35)<ido>why a mazda in particular? 
+(04:53:28)<oeb>Wanted one for years.
+(04:53:59)<oeb>Ideally an rx-8, but the cheapest I have found for one is 18 thousand euros. And that already has 75k miles up on it.
+(04:54:01)<ido>they're pretty cheap iirc 
+(04:54:05)<ido>oh
+(04:54:25)<ido>when i think of mazdas i think about those generic sedans that are all over the place
+(04:54:30)<oeb>I can get an rx-7 for about ten thousand, but most of them are modded alot by boy racers, and I dont want that.
+(04:54:46)<oeb>I'm talking about the roatery model coupes
+(04:54:57)<ido>yea i get it now
+(04:55:33)<ido>actually you don't see them a lot in austria at all. in israel the streets are littered with mazdas
+(04:55:45)<oeb>I really want an rx-8. Can I have 35,000 euros please?
+(04:55:58)<ido>and toyotas/hondas/subarus 
+(04:56:43)<ido>i think all my worldly possessions combined don't amount to that much 
+(04:56:44)<oeb>My dad is going through his mid life crisis atm, he bought a mazda 6 a few months back. Lovely car to drive
+(04:57:35)<ido>supposidly subarus are as well
+(04:57:53)<oeb>Yes, I prefer the mazdas though.
+(04:58:17)<oeb>One of his friends (Also going through a mid life crisis) bought a subaru.
+(04:58:22)<ido>i don't even have a driver's licence 
+(04:58:28)<oeb>Although worst of all his friends is Bernard.
+(04:58:34)<ido>porsche?
+(04:58:43)<oeb>Bernard bought a porsche in November.
+(04:58:48)<ido>hah
+(04:58:57)<oeb>I have no idea what model it was, all I know is VRT was 150,000
+(04:59:07)<ido>the worst ones always go for the porsche
+(04:59:26)<oeb>In Ireland VRT has to be paid on all cars imported into the country. It's 25% of the cars current market value.
+(04:59:41)<oeb>That means he paid AT LEAST 750,000 euro on the car.
+(04:59:48)<ido>vrt? is that like value added tax?
+(04:59:59)<oeb>No, Vehicle Registration Tax
+(05:00:06)<oeb>It's paid when you import a car.
+(05:00:24)<oeb>Can you imagine having so much money you can spend three quaters of a million on a car?
+(05:00:25)<ido>so how much are all the taxes on a car combined? 
+(05:00:43)<oeb>I dont think you pay VAT on an imported car.
+(05:00:55)<oeb>VRT is just Irelands excuse to make some money out of it.
+(05:01:01)<ido>you mean self imported? 
+(05:01:04)<oeb>You pay VAT on a new car (21%)
+(05:01:07)<oeb>Yes.
+(05:01:12)<ido>so that's not too bad
+(05:01:21)<ido>only 4% more than normal
+(05:01:32)<oeb>Not really, because it's charged on the current market value too.
+(05:01:42)<ido>unless you have to pay the vat in the country you bought it in as well...
+(05:01:47)<ido>so that's 21% more 
+(05:02:23)<oeb>For example if you bring a car that would have oridginally been worth 10,000 , but has had 20,000 worth of work done to it, you only pay the VRT off the base price. So that would be 2,500 euro
+(05:02:32)<oeb>Even though you could sell it for 30,000
+(05:03:11)<oeb>Alot of people import cars to Ireland. It is cheaper than buying them here mostly. The UK is much cheaper for second hand cars than Ireland.
+(05:04:12)<ido>but that tax rate isn't too bad. a lot of countries (especially in continental europe) have much higher taxes on cars
+(05:05:01)<ido>750,000 euros for a car is still insane 
+(05:05:15)<ido>i didn't even know you could pay so much for a car
+(05:05:46)<ido>unless it's some antique Rolls Royce or something 
+(05:06:16)<oeb>Heh, there are more expensive cars =P
+(05:06:18)<ido>i thought a new porsche is maybe 200,000 euro
+(05:06:36)<oeb>Ohh some are, but this would be nearly top of the line porsche
+(05:06:48)<ido>crazy
+(05:07:14)<oeb>There might be three or four models of porsche available at each time, one will normally be 'cheap' at about the 100,000 mark.
+(05:08:27)<ido>that makes your father's mazda seem down right frugal
+(05:09:34)<oeb>Yup
+(05:09:47)<oeb>I think a new mazda 6 is about 20,000
+(05:10:02)<oeb>A new RX-8 is 35-40 I think
+(05:10:17)<oeb>Actually a new mazda-6 would be closer to 30
+(05:10:22)<oeb>(I think)
+(05:11:06)<ido> /* don’t fire dem packets too fucking fast */ usleep(1000);
+(07:00:35)<RotateMe>the woodmachine is awesome ^^
+(07:00:57)<RotateMe>just sent a mail to one of my teachers, forcing him to build this for our next class
+(07:50:52)<ido>fuck
+(07:51:18)<ido>every once in a while firefox starts to take 100% cpu on a totally normal webpage
+(07:51:23)<ido>wtf?
+(07:51:37)<ido>does make any sense 
+(07:51:46)<ido>there isn't even any flash on that web page
+(08:25:22)<deveah>who wants to hear my crypt-horor theme?
+(08:25:31)<ido>shoot
+(08:25:45)<deveah>1:23, looped perfectly for fmod
+(08:26:16)<ido>link?
+(08:26:32)<deveah>http://gamingdimension.net/deveah
+(08:26:36)<deveah>the .xm file there
+(08:27:39)<deveah>crypt-horror-theme-thingy
+(08:27:59)<ido>doesn't work on audacius and banshee
+(08:28:10)<ido>can't you post it in a more standard format?
+(08:28:14)<deveah>because it's a module file
+(08:28:15)<deveah>w8
+(08:28:58)<deveah>i'll get you a replayer soon
+(08:29:27)<deveah>here:http://mp.waw.cx/
+(08:29:43)<ido>Welcome to
+(08:29:43)<ido>:: MP ::
+(08:29:43)<ido>and
+(08:29:43)<ido>[ NMP ]
+(08:29:44)<ido>home page!
+(08:30:07)<deveah>yes, they're module replayers
+(08:30:20)<ido>not going to go through the trouble 
+(08:30:26)<ido>post it as midi or mp3
+(08:30:30)<deveah>or use this http://milkytracker.net/?DOWNLOAD
+(08:30:41)<ido>no thank you
+(08:31:26)<deveah>wait, milkyplay.....
+(08:32:23)<ido>we have the bandwidth. post as mp3 or ogg
+(08:32:37)<deveah>alrighty....
+(08:32:47)<ido>or any number of standard formats 
+(08:33:10)<deveah>arr, xmplay encodes slooooow
+(08:34:34)<ido>i will come back later; you could add it to the topic and i will listen to it when i come back
+(08:34:36)<deveah>use milkyplay http://gnu.ethz.ch/debian/milkytracker/milkyplay/
+(08:45:55)<purestrain>interesting
+(08:48:55)<deveah>i r0xx0rz http://roguebasin.roguelikedevelopment.org/index.php?title=Fridge
++++ The date has changed: 2008/03/07 +++
+(12:20:19)<_df_>rl news
+(12:20:27)<null>FAngband v0.3.3
+(12:20:27)<null>http://rogue-life.ourden.org/news_FAngband_0.3.3
+(12:20:27)<null>Incursion 0.6.5B
+(12:20:27)<null>http://rogue-life.ourden.org/news_Incursion_0.6.5B
+(12:20:27)<null>Legerdemain v0.9.5 has been released
+(12:20:27)<null>http://rogue-life.ourden.org/news_Legerdemain_0.9.5
+(12:20:27)<null>Ironband 27-Feb-08
+(12:20:27)<null>http://rogue-life.ourden.org/news_Ironband_27-Feb-08
+(12:20:44)<_df_>rt news
+(12:20:45)<null>The 7DRL Challenge starts on March 8
+(12:20:45)<null>http://www.roguetemple.com/2008/03/04/the-7drl-challenge-starts-on-march-8/
+(12:20:45)<null>Dwarf Fortress Development interview over Gamasutra
+(12:20:45)<null>http://www.roguetemple.com/2008/03/01/dwarf-fortress-development-interview-over-gamasutra/
+(12:20:45)<null>Rogue 7DRLs II: Revolutions (ARE YOU READY FOR THE GREAT WAR?)
+(12:20:45)<null>http://www.roguetemple.com/2008/02/20/rogue-7drls-ii-revolutions-are-you-ready-for-the-great-war/
+(12:20:45)<null>Community Update
+(12:20:45)<null>http://www.roguetemple.com/2008/02/13/community-update/
+(11:14:33)<oeb>Having this big debate on today fm about what lane you should be in to go straight at the round about. Gotta love Irish radio, they really will talk about anything. I would answer that with 'Look at the fecking road markings' or 'Read the fecking rules of the road'
++++ Start of log: Fri Mar 07 21:34:14 CET 2008 +++
++++ The date has changed: 2008/03/08 +++
+(01:26:39)<Polaris>hello
+(01:28:51)<Polaris>do someone have sometimes for noobish question about rogue like world?
+(01:34:22)<makke>depends on the question :)
+(01:37:19)<makke>I am not really a roguelike veteran myself
+(01:41:50)<RotateMe_away>just ask ^^
+(01:56:44)<Polaris>is the news group about roguelike dev and other is not online anymore?
+(01:57:48)<Polaris>mean when i retrieve the mail from the news group with my thunderbird the message date stop in 2006...
+(01:58:07)<Polaris>and sorry for my bad english i am french...
+(02:02:22)<RotateMe>no the rgrd newsgroup is still on and very active
+(02:02:39)<RotateMe>i think the provider you get your news from doesn't have the group somehow anymore
+(02:03:03)<RotateMe>you can use google groups if you are fine with it
+(02:03:15)<RotateMe>http://groups.google.com/group/rec.games.roguelike.development/topics
+(02:03:22)<RotateMe>hope this helped i got to go
+(02:03:33)<RotateMe>hope you will check by more often!
+(02:11:16)<Polaris>ok rotate to late for thanks but thanks anyway
+(02:45:27)<Polaris>good night people!
+(09:12:55)<deveah>morning
+(09:13:32)<TMC>evening
+(09:14:07)<deveah>everybody envies moldavians
+(09:14:15)<TMC>I know
+(09:16:54)<deveah>Moldova = 80% romanian ; 20% russian
+(09:20:23)<TMC>cool
+(10:32:30)<TMC>can anyone name any games with random floor plans?
+(10:32:40)<TMC>I mean, random maps without space between rooms
+(10:33:01)<TMC>seems harder to create
+(12:08:45)<deveah>si-asa mai departe...
+(01:16:47)<RotateMe>commands
+(01:16:47)<null>Available commands:
+(01:16:47)<null>time (by joe6pack)
+(01:16:47)<null>[subject] news (by joe6pack)
+(01:16:47)<null>news sources (by joe6pack)
+(01:16:47)<null>decide [option1],[option2] (by RotateMe)
+(01:16:47)<null>quote [keyword],[quote] (by RotateMe)
+(01:16:47)<null>getquote [keyword] (by RotateMe)
+(01:16:47)<null>randomquote (by RotateMe)
+(01:16:47)<null>roll (by konijn)
+(01:17:32)<RotateMe>hi joe/ido
+(01:17:36)<joe6pack>hi RotateMe 
+(01:17:39)<RotateMe>who's running the bot atm?
+(01:17:42)<joe6pack>i am
+(01:17:54)<RotateMe>could you send me the current logfile?
+(01:17:55)<joe6pack>but i am not developing it 
+(01:18:02)<joe6pack>i will commit it to svn
+(01:18:16)<RotateMe>k
+(01:18:19)<joe6pack>should i stop it?
+(01:18:25)<joe6pack>do you want to run it?
+(01:18:54)<RotateMe>no not really, just want the logs
+(01:19:02)<joe6pack>k
+(01:19:33)<joe6pack>you can take it from http://yehieli.info/rgrd/log.txt
+(01:19:54)<joe6pack>it is updated automatically 
+(01:20:09)<joe6pack>i run the bot on the same computer as the web serve 
+(01:20:10)<joe6pack>r
+(01:20:51)<RotateMe>that's pretty cool actually
+(01:21:26)<joe6pack>i try to keep that computer on as often as possible 
+(01:22:51)<joe6pack>but sometimes the noise from the fan drives me insane when it's otherwise really quiet
+(01:23:25)<RotateMe>yeah i know that problem
+(01:23:29)<joe6pack>so it is not online 100% of the time 
+(01:23:43)<RotateMe>my laptop is VERY quiet but my external hd is loud as shit compared to that
