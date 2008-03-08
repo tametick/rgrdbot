@@ -1,1 +1,1 @@
-javac -5 -classpath pircbot.jar:rssutils.jar:. *.java
+javac -Xlint:unchecked -classpath pircbot.jar:rssutils.jar:. *.java
