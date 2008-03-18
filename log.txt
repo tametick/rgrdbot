@@ -4458,3 +4458,1244 @@
 (01:23:25)<RotateMe>yeah i know that problem
 (01:23:29)<joe6pack>so it is not online 100% of the time 
 (01:23:43)<RotateMe>my laptop is VERY quiet but my external hd is loud as shit compared to that
+(01:25:16)<joe6pack>deveah's mp3 sounds more alien than horror-esque 
+(01:25:26)<RotateMe>i like it somehow
+(01:25:31)<joe6pack>yes it's nice
+(01:25:53)<RotateMe>the beginning sounds very snes final fantasy like
+(01:26:00)<joe6pack>i should try to make a living out of indie game development 
+(01:26:09)<joe6pack>i woukld need graphics for that though
+(01:26:31)<joe6pack>maybe sell it through something like steam 
+(01:26:33)<RotateMe>after that it reminds me of the tune of seizure dome: http://cactusquid.proboards99.com/index.cgi?board=games&action=display&thread=20
+(01:27:02)<RotateMe>well the good olde graphics problem...
+(01:27:10)<joe6pack>and sound as well
+(01:27:30)<joe6pack>i will have to pay someone to create gfx and another one to create sfx/music
+(01:27:44)<RotateMe>sound is not as much of a problem
+(01:27:44)<joe6pack>but i think it is doable 
+(01:27:53)<joe6pack>only not very profitable...
+(01:27:55)<RotateMe>sfx can be created by cool freeware progs
+(01:28:08)<RotateMe>for music you just have to know some people
+(01:28:14)<joe6pack>gfx as well, but if you want good quality it's something else
+(01:28:27)<joe6pack>you can say the same about gfx
+(01:28:53)<RotateMe>yeah but gfx people that make graphics that can be taken for games are rare
+(01:29:23)<joe6pack>and you think people that'll create good music for free aren't?
+(01:29:31)<joe6pack>seems the same to me 
+(01:29:48)<joe6pack>especially if you want to sell the game
+(01:29:58)<RotateMe>hmm i have three real friends who make electronical music that could be included in games
+(01:30:08)<joe6pack>hrm
+(01:30:29)<RotateMe>look through myspace or some mod archives
+(01:30:55)<RotateMe>ask the people if it's okay if their music will be included in your game if you pay them like a few percent
+(01:31:19)<RotateMe>the problem with graphics is, that they are created FOR a game, and after used once they loose their integrity
+(01:32:15)<RotateMe>btw if you have a game that is in need of music i can provide you some tracks
+(01:32:16)<joe6pack>yea
+(01:32:30)<RotateMe>depending on the style of your game of course
+(01:32:47)<joe6pack>anyway
+(01:32:58)<joe6pack>i won't do anything commercial anytime soon
+(01:33:02)<joe6pack>if at all
+(01:33:24)<joe6pack>i think the chances of actually maki ng enough money to live off of it are slim
+(01:33:33)<RotateMe>yeah very slim
+(01:33:45)<RotateMe>but depends on in which country you are living
+(01:34:00)<joe6pack>maybe i can save up some money and try it sometime for a year or so
+(01:34:02)<joe6pack>austria
+(01:34:25)<joe6pack>and sometimes in israel, which is not much cheaper than austria 
+(01:34:59)<joe6pack>i would say the cost of living in israel is maybe somewhere between western germany and eastern germany 
+(01:35:06)<joe6pack>maybe a bit closer to eastern germany
+(01:35:27)<joe6pack>but it is getting more expensive all the time
+(01:35:45)<joe6pack>i think soon it will be as expensive as everywhere in western europe 
+(01:35:56)<RotateMe>yeah i'm moving to eastern germany because of that :D
+(01:36:08)<RotateMe>well the main reason is that there's a good university for math
+(01:36:26)<joe6pack>i've heard berlin is an awsome city to be a student in
+(01:36:40)<joe6pack>cheap & a lot of culture and stuff to do
+(01:36:46)<RotateMe>that's where i'm going :D
+(01:36:48)<RotateMe>eastern part
+(01:36:58)<RotateMe>or better northern part which is in east germany
+(01:37:12)<joe6pack>yea that should be considerably cheaper than where you are now 
+(01:37:17)<RotateMe>there's not this division anymore of course but there still are price differences
+(01:37:23)<RotateMe>yes
+(01:37:33)<joe6pack>there is a very big price difference, i would say
+(01:37:57)<joe6pack>Munich and Frankfurt are more expensive than Vienna 
+(01:38:17)<RotateMe>and munich sucks on top of that ;)
+(01:38:19)<RotateMe>http://home.arcor.de/dungeonhunter/tracks/
+(01:38:33)<joe6pack>really? i was there once as a turist and it seemed ok
+(01:38:33)<RotateMe>uploaded three tracks a friend made for an arena shooter i wanted to do
+(01:38:43)<joe6pack>just a normal city 
+(01:39:05)<RotateMe>yeah just some not-so-nice things happened there, i think it's okay in the end
+(01:39:08)<joe6pack>i've found Munich to very similar to Vienna 
+(01:39:15)<RotateMe>i was there at the october fest
+(01:40:19)<joe6pack>if you mean the nazis, that's everywhere in germany and austria. i don't think that today you would find more neo nazis in munich than the rest of germany 
+(01:41:15)<joe6pack>everywhere else in Bavaria, maybe... but Munich is fairly liberal from what i've seen 
+(01:41:22)<RotateMe>yeah but it's a whole other mentality towards them in different parts of the country
+(01:41:57)<joe6pack>Munich and Vienna are islands of liberalism in the vast sea of conservatism that is Bavaria and Austria 
+(01:42:39)<RotateMe>yeah that was my impression too... i have been in whole other parts of bavaria
+(01:42:59)<RotateMe>but that was more funny than dangerous or sad :D
+(01:43:18)<joe6pack>yes but these 2 cities in particular are good. they are totally different than their surroundings 
+(01:43:20)<RotateMe>some stereotypes are just closer to reality then one might think ;)
+(01:43:40)<joe6pack>:)
+(01:43:53)<joe6pack>stereotypes are there for a reason ;0
+(01:44:02)<joe6pack>often they are at least partially true 
+(01:48:05)<RotateMe>i have been messing around with the doryen engine recently and i have to say it's pretty awesome
+(01:48:27)<RotateMe>i will use this for my 7drl
+(01:48:30)<RotateMe>oh btw
+(01:48:32)<RotateMe>wtf
+(01:48:36)<RotateMe>it started :D
+(01:48:51)<joe6pack>:0
+(01:48:54)<joe6pack>good luck
+(01:48:54)<RotateMe>well i will not start before 20th of march but gotta look at rgrd
+(01:49:07)<joe6pack>i gotta study for my exam
+(01:49:15)<joe6pack>differential equations...
+(01:49:37)<joe6pack>at least it's easier than universal algebra or measure theory :p
+(01:49:50)<joe6pack>i think i will actually do ok in this one
+(01:49:54)<joe6pack>bye
+(01:51:02)<RotateMe>whoot that's more 7drls than i tought...
+(02:00:10)<TMC>variable width AND height bitmapped font?
+(02:00:12)<TMC>wtf?
+(02:00:42)<RotateMe>wat
+(02:00:59)<RotateMe>libtcod?
+(02:01:04)<TMC>no
+(02:01:33)<RotateMe>hmm... what else then?
+(02:01:45)<TMC>reading the patch instructions (mentions the obstacles they encountered) for Shiren the Wanderer
+(02:02:04)<TMC>psst
+(02:02:08)<TMC>[22:39] <TMC> can anyone name any games with random floor plans?
+(02:02:08)<TMC>[22:39] <TMC> I mean, random maps without space between rooms
+(02:02:08)<TMC>[22:39] <TMC> seems harder to create
+(02:03:00)<TMC>I'm thinking of starting by generating the building shape, then dividing that into different areas
+(02:03:56)<TMC>eg, if it's a castle maybe sleeping quarters, kitchen, halls, living areas, battlements
+(02:04:14)<RotateMe>hmmm you could do it like this: http://jice.nospam.googlepages.com/basicdungeongeneration
+(02:04:22)<TMC>and then somehow dividing those areas into rooms
+(02:04:39)<TMC>.nospam. ?
+(02:04:47)<RotateMe>just like that...
+(02:04:52)<RotateMe>dunno :D
+(02:05:09)<TMC>ah thanks
+(02:05:14)<TMC>that is appropriate
+(02:05:14)<RotateMe>Shiren is a great game btw
+(02:05:21)<TMC>which one?
+(02:05:28)<TMC>I understand it's a series
+(02:05:41)<RotateMe>yeah, just the last few steps are different if you want to have no space between the rooms
+(02:05:55)<RotateMe>the second i guess? don't really know... "the wanderer"
+(02:05:56)<RotateMe>for snes
+(02:06:16)<RotateMe>when you die you keep stuff in a warehouse and triggered events keep being triggered
+(02:06:19)<RotateMe>very cool idea
+(02:06:32)<TMC>triggered events?
+(02:06:47)<TMC>you mean, one time events reoccur after you've died?
+(02:07:27)<RotateMe>things happen in the town and if you come there another time (after dieing once) those things continue instead of repead
+(02:08:16)<TMC>ah
+(04:54:49)<joe6pack>hi
+(04:55:25)<joe6pack>anyone remember that small proof of concept rl with the maps that have no floors?
+(04:55:47)<joe6pack>you would go from higher levels to lower ones in a continuous way 
+(04:55:56)<joe6pack>i don't know how i can describe it any better
+(04:57:48)<Glowie>I do
+(04:57:59)<joe6pack>it was really neat
+(04:58:04)<Glowie>Yup
+(04:59:57)<joe6pack>do you havwe a link?
+(05:02:11)<joe6pack>found it 
+(05:02:20)<joe6pack>http://sourceforge.net/projects/yakamura-legacy
+(05:02:25)<joe6pack>think it was this one
+(05:02:26)<Glowie>Yep
+(05:02:28)<joe6pack>it's a good idea
+(05:02:34)<joe6pack>maybe i should use it next time
+(05:03:45)<joe6pack>i've gathered a couple of these cute ideas that i might one day implement in a small game
+(05:04:51)<joe6pack>another one is the facing-los/stealth idea i implemented in caverover a year and a half ago
+(05:05:33)<joe6pack>when i think about it, caverover was actually more feature complete than cryprover, but it was further from being a full game
+(05:05:51)<joe6pack>the core concept was not as small as cryptrover's
+(05:06:48)<joe6pack>what else? hmm
+(05:07:11)<joe6pack>there was another idea i remember wanting to steal from a 7drl i played recently 
+(05:18:39)<RotateMe>:( linux only
+(07:10:17)<purestrain>i'm not very motivated in actually programming today :-(
+(07:30:38)<RotateMe>when i am like this but something needs to be done, i just start and after some time i get so into some pieces of code that motivation comes from itself
+(07:36:22)<Glowie>Woah I'm not the only one who does that o_o
+(07:36:31)<Glowie>Though most of the time when I don't feel like coding I just play something
+(07:47:00)<ido>Glowie: not wanting to code is the best motivation to learn for an exam :p
+(07:47:13)<Glowie>Haha
+(07:47:49)<ido>that's why doing a lot programming for a few weeks before the exams start is a good thing
+(07:48:50)<Glowie>I can find motivation for studying at any time though
+(07:48:58)<ido>really?
+(07:49:09)<ido>that's good
+(07:50:23)<purestrain>30 minutes to go... i think i'll read some roguebasin articles :-)
+(07:50:26)<ido>i think it helps if you're studying for something easy. buty studying for a sunbject you know nothing about and having to go through a really painful learning experience at the beginning is really difficult 
+(07:50:37)<Glowie>Yup, I guess it's a bit strange as 99% of people I know can't do this :P
+(07:50:57)<ido>of course, 
+(07:51:11)<ido>it also helps if you are interested in the subject at hand
+(07:51:12)<ido>;)
+(07:51:40)<ido>after many years of studying i am only continuing because i want to finish it, not because of interest 
+(07:51:48)<Glowie>Hehe
+(07:51:51)<Glowie>Works too
+(07:51:55)<Glowie>What are you studying?
+(07:52:08)<ido>M.Sc. in mathematics 
+(07:52:37)<Glowie>Maths for the win \o/
+(07:53:00)<ido>i kind of got sucked into the master's program before finishing the bachelor's 
+(07:53:14)<Glowie>How?
+(07:53:35)<ido>until recently in austria there was just a 5 year program, at the end of which you get an M.Sc.
+(07:54:06)<ido>the seperation of a 3 years B.Sc. program + 2 years M.Sc. is realatively new here
+(07:54:19)<ido>and i am still in the old program
+(07:54:40)<ido>and if i switch now i will lose all the progress i've made after the bachelor's part
+(07:54:49)<ido>so i just keep on going.
+(07:55:07)<ido>hopefully soon enough i will be done with all the courses
+(07:55:09)<Glowie>Ah, that sucks for people who would be satisfied with bachelor's :(
+(07:55:26)<ido>then i will only have to write my thesis 
+(07:55:27)<ido>yes
+(07:55:39)<Glowie>Write about calculus, calculus rocks \o/
+(07:55:46)<Glowie>Integrals and derivatives for the win
+(07:56:11)<ido>on the other hand, it motivates you to continue studying. otherwise you would get nothing, no bachelor's and no master's 
+(07:56:24)<ido>not really my area of interest 
+(07:56:37)<ido>i like game theory. number theory is also neat
+(07:56:47)<Glowie>Game theory in maths?
+(07:56:50)<ido>yes
+(07:56:55)<Glowie>Didn't know that was a part of maths
+(07:56:55)<ido>that's where it came from
+(07:57:00)<Glowie>Neat
+(07:57:15)<ido>http://en.wikipedia.org/wiki/Game_theory
+(07:57:28)<Glowie>(I love calculus and analytic geometry)
+(07:57:30)<ido>"Game theory is a branch of applied mathematics which is used in the social sciences..."
+(07:57:47)<ido>it's in the very 1st sentence :p
+(07:58:18)<ido>i've had enough of it all. i want to get it over with
+(07:58:33)<ido>and then do nothing. although i will probably need to fins a job again
+(07:58:34)<Glowie>Hehe
+(07:58:35)<ido>:(
+(07:58:42)<Glowie>That's life
+(07:59:35)<ido>at least i will have a nice diploma for my mother to be proud of 
+(07:59:53)<Glowie>Hehe
+(08:00:39)<ido>my parents are going to china!
+(08:00:48)<ido>decided just like that
+(08:00:53)<ido>told me about it yesterday
+(08:01:17)<Glowie>On a vacation? Or to live there?
+(08:01:21)<ido>vacation 
+(08:01:32)<ido>they are not that adventures 
+(08:01:34)<Glowie>I'd rather go to Japan :P
+(08:01:44)<Glowie>Or perhaps South Korea
+(08:01:49)<ido>they have been to japan several times already 
+(08:01:59)<Glowie>Oh
+(08:02:01)<Glowie>Veterans :P
+(08:02:04)<ido>as well as hong kong and tailand 
+(08:02:14)<ido>but never to mainland china
+(08:02:41)<ido>my father has also been to Taiwan 
+(08:03:15)<ido>what would you do in south korea?
+(08:03:18)<ido>play starcraft?
+(08:03:35)<Glowie>Yup ^_^
+(08:03:41)<Glowie>And watch it there
+(08:03:48)<ido>all of the korean girls i've met have been really cute
+(08:03:54)<Glowie>Haha
+(08:04:01)<ido>although i haven't met that many 
+(08:04:12)<Glowie>To Korea then!
+(08:12:13)<ido>damn museum 
+(08:12:37)<ido>it's only open till the afternoon on the weekend
+(09:13:22)<ido>huh
+(09:13:28)<ido>more 7drl's than i expected
+(09:13:35)<ido>rgrd news
+(09:13:37)<null>7DRL - chrysalis
+(09:13:37)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/daada58d34474fc5
+(09:13:37)<null>Re: A Lighting Model
+(09:13:37)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/34a79c9d5d0726d6
+(09:13:37)<null>Re: 7DRL starting: Fatherhood
+(09:13:37)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/0ad4fdb1602c180d
+(09:13:37)<null>7drl starting announcment - 20:30 CET
+(09:13:37)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/648b760b6d783d9c
+(09:18:10)<purestrain>i've got a pain in my fingers for the last two weeks now... after the contest i will went to a doctor
+(09:18:31)<joe6pack>will you use a time machine? 
+(09:18:48)<purestrain>i will go ;-)
+(11:46:53)<purestrain>... i think i can give up; i've no fun coding
++++ The date has changed: 2008/03/09 +++
+(02:43:13)<RotateMe>gngiht!
+(09:28:31)<deveah>what happened to ido?
+(11:06:54)<purestrain>i'm proud of my zombies... they are so dumb that they block each other
+(11:08:27)<deveah>my zombies get over each other making a big spit on the screen
+(11:08:42)<deveah>if zombiex<playerx then zombiex+=1 ...
+(11:11:56)<deveah>how do you move in japaneselegacy?
+(03:10:31)<deveah>how dumb can you be to byt a psp when there aren't any games for it????
+(03:26:20)<RotateMe>what are you talking about
+(03:26:52)<RotateMe>aside from millions of snes, psone, nes, whatnot perfectly emulated games there are lots of good games especially for psp
+(03:27:05)<RotateMe>and then there's nethack, angband and POWDER
+(03:28:19)<deveah>yes, but not in Romania
+(03:36:02)<RotateMe>well you can get them everywhere via bit torrent :D
+(03:36:19)<RotateMe>but therefore you'd need a 1.5 firmware or some custom firmware
+(03:40:42)<Aerton>add zx-spectrum emulator and dosbox
+(04:07:31)<deveah>the kid i'm talking about is a darn retard
+(04:20:34)<jraregris>because he bought a psp?
+(04:20:39)<deveah>RotateMe, you can get them, but how do you put them on the real machine?
+(04:21:09)<deveah>no, because he buys all the shit and then realises he shouldn't have bought it
+(04:32:10)<RotateMe>deveah, usb connection?
+(04:32:35)<RotateMe>my memory card is capable of about 8 games at a time and lots of other stuff
+(04:34:27)<deveah>oh
+(04:34:29)<deveah>greaty then
+(04:34:41)<deveah>how much does the battery last? do you have Flash on it?
+(04:35:00)<deveah>adobe flash ofcourse
+(04:35:14)<RotateMe>don't know, but i don't think so
+(04:35:25)<RotateMe>battery lasts about 4 hours or so
+(04:35:40)<deveah>0.o too little - i want an n-gage now
+(04:35:40)<RotateMe>i rarely play without being able to reload
+(04:35:51)<deveah>pffffffi
+(04:37:37)<RotateMe>http://www.dcemu.co.uk/vbulletin/showthread.php?t=96198
+(04:37:45)<RotateMe>it appearently has flash now
+(04:38:12)<Aerton>unfortunately, it's an old version
+(04:38:59)<RotateMe>i didn't try it ... but it's nice to have it :D
+(04:39:08)<RotateMe>gotta get back to financial accounting
+(04:39:17)<RotateMe>will be a hell of an exam tomorrow :(
+(04:39:18)<deveah>but how about the nds? does it have usb cables?
+(04:40:07)<RotateMe>i believe not but it sure has some hot games
+(04:40:16)<RotateMe>izuna sounds like a good rl
+(04:40:23)<RotateMe>bit like shiren
+(05:38:31)<RotateMe>DaEezT, what's up with your connection?
+(05:38:54)<RotateMe>90% of my log consists of you joining, quitting and renaming ^^
+(05:46:04)<ido>a lot of activity in the newsgruop in the past couple of days
+(05:46:13)<ido>more 7drl's than i expected
+(05:46:35)<deveah>idoooo!
+(05:46:42)<ido>i think there are 17?
+(05:46:45)<ido>hi deveah 
+(05:47:09)<ido>nice song, btw
+(05:47:23)<deveah>i wish they would all make it
+(05:47:24)<ido>although i thought it sounded more alien than horror 
+(05:47:39)<ido>if half of them will it will be good
+(05:47:47)<deveah>thanks - 8bit lo-fi tracked
+(05:48:09)<ido>i have to go back to learning for my exam in 2 days
+(05:48:17)<ido>have a nice weekend 
+(05:48:19)<deveah>exam for...
+(05:48:30)<ido>differential equations 
+(05:48:40)<deveah>maths then
+(05:48:44)<ido>yes
+(05:48:46)<deveah>i never learned anything for maths
+(05:48:55)<ido>all of my exams are in mathematics 
+(05:49:03)<RotateMe>17!? that's awesome
+(05:49:09)<RotateMe>is anyone in here doing one?
+(05:49:17)<ido>from what i've counted anyway
+(05:49:28)<deveah>i never learn for romanian language and yet, i get 9 and 10 marks!
+(05:49:43)<ido>these were the number of posts with 7drl in the subject line fromn the past couple of days
+(05:50:03)<ido>well wait until university, is all i've got to say ;)
+(05:50:22)<ido>i never learned for exams when i was your age either
+(05:51:09)<deveah>cya, got homework
+(06:16:34)<purestrain>yehaw, random map generation works !
+(09:13:46)<joe6pack>makke, what's up?
+(09:13:59)<joe6pack>why do you keep leaving and rejoining? 
+(09:14:08)<makke>coz my sound system is fubared
+(10:16:09)<RotateMe>EezT/DaEezT is doing that the whole day so it's okay makke ^^
+(10:28:27)<purestrain>ah, today was a great day
+(10:28:40)<joe6pack>in what respect? 
+(10:28:47)<purestrain>coding
+(10:28:57)<joe6pack>:)
+(10:29:04)<purestrain>the drawback is, everything gets more and more spaghetti like
+(10:29:11)<joe6pack>huh
+(10:29:16)<joe6pack>how much code do you have?
+(10:29:21)<joe6pack>in terms of loc
+(10:29:43)<purestrain>don't know, i have no tool to count lines
+(10:29:55)<joe6pack>sclc 
+(10:30:03)<joe6pack>and a ton of other free ones
+(10:30:34)<joe6pack>you have to actively try to write less code. 
+(10:30:46)<joe6pack>a small code base doesn't happen by itself
+(10:31:31)<joe6pack>there's a lot of code i could have written in half the time or less if i didn't care about writing as little as possible 
+(10:32:17)<joe6pack>but it helps you later on in maintenance or if you want to reuse some of your code
+(10:32:20)<purestrain>yeah; but i want to get finished, so i'm ending in many hacks :-(
+(10:32:29)<joe6pack>fair enough
+(10:34:09)<joe6pack>Je n'ai fait celle-ci plus longue que parce que je n'ai pas eu le loisir de la faire plus courte.
+(10:34:15)<purestrain>and for the first day i got really far i think. Actions/Movement, Map generation  (almost, some minor glitches) and a simple combat system works
+(10:34:18)<joe6pack>--Blaise Pascal
+(10:34:33)<joe6pack>good :)
+(10:34:37)<joe6pack>keep going 
+(10:35:32)<joe6pack>"I have made this letter longer than usual because I lack the time to make it shorter."
+(10:36:06)<joe6pack>one of my favorite quotes; i can really identify with it 
+(10:36:45)<purestrain>should slow moving monsters react to nearby enemies? i've currently the problem that a very slow moving monster does not react if i'm dancing around it
+(10:37:25)<joe6pack>what doese speed have to do with it
+(10:37:27)<joe6pack>?
+(10:38:01)<purestrain>because if a movement from one tile to another takes 200 turns, and my movement takes 20 turns, i can walk around it
+(10:38:16)<purestrain>and its only thinking after the movement
+(10:38:36)<joe6pack>so it doesn't get the chance to move?
+(10:38:48)<joe6pack>because you are already away by the time it does?
+(10:39:13)<purestrain>yes.. my monster is walking up to me for 200 turns and react only if the movement is finished
+(10:39:50)<joe6pack>i thogut moving to you is its reaction 
+(10:40:31)<purestrain>yes, but for the next 200 time units. So i can turn around it if i'm much faster without any damage
+(10:40:52)<purestrain>nice english i am talking, yoda like
+(10:41:08)<joe6pack>but isn't that what's it's supposed to be like?
+(10:41:50)<purestrain>perhaps.... but why should i fear a really powerfull slow moving monster, if i can chase, make a hit, and leave without any reactions ?
+(10:41:55)<joe6pack>i think yoda-like would be "so around it to turn, i can"
+(10:42:24)<joe6pack>then make the monster faster ;)
+(10:43:07)<joe6pack>any change you make would effectively make the mosnter faster, if i understood you correctly 
+(10:43:51)<purestrain>but if i make it faster, its no more the 'slow moving deady creature from hell'
+(10:44:27)<joe6pack>moving 50% slower than you are is already very slow
+(10:44:47)<purestrain>uh; i made it almost 10% :-)
+(10:45:03)<joe6pack>that's what i am saying. it sounds way too exaggerated 
+(10:45:17)<purestrain>yeah; i'm thinking about it
+(10:46:07)<joe6pack>look at existing games. in crawl i think the slowest monster is that worm one, which is i think still a bit more than 50% the player's speed
+(10:46:55)<joe6pack>i know from my expereince, that making the arachnids in cryptrover 66% the speed of the player made them very noticebly slower 
+(10:49:12)<joe6pack>i would say, don't worry about it now; finish a preliminary version of the game, and if it's too slow or too fast the players will tell you about it very quickly 
+(10:49:34)<joe6pack>balance can come after all the basics are done
+(10:49:52)<purestrain>you're right.. it would be to time consuming if i check every bit for balance
+(10:50:11)<purestrain>perhaps it doesn't even make fun and time was wasted for balance ;-)
+(10:50:20)<joe6pack>right
+(10:50:50)<joe6pack>or maybe the game would still be too difficult and you end up undoing these balance changes 
+(10:51:17)<joe6pack>you can't tell if it's too difficult or too easy before it's playable 
+(11:24:24)<purestrain>almost midnight
+(11:24:26)<purestrain>time to go
+(11:24:27)<purestrain>n8
++++ The date has changed: 2008/03/10 +++
+(08:05:40)<purestrain>hua; nice bug... i can take doors
+(08:06:05)<purestrain>thats makes the game a little bit strategic.. picking up doors and placing them anywhere
+(08:07:00)<joe6pack>hey,
+(08:07:04)<purestrain>huh.... that also means i can pick monsters
+(08:07:10)<joe6pack>that's actually not a bad idea
+(08:07:22)<joe6pack>picking up and placing obstacles 
+(08:07:38)<Gamer2k4>7DRL discussion?
+(08:07:41)<purestrain>yeah, thats what i intended... but not monsters and doors :-)
+(08:08:01)<joe6pack>you can do something like that boulder pushing game
+(08:08:04)<joe6pack>what's it called
+(08:08:07)<purestrain>pushing obstacles, carrying chairs in front of a door
+(08:08:19)<Gamer2k4>sokoban?
+(08:08:23)<joe6pack>yes
+(08:09:12)<joe6pack>or boulder dash
+(08:11:55)<RotateMe>can you only pickup doors while they are opened?
+(08:12:15)<RotateMe>and how do you pickup monsters, or can you somehow move on the same field they are?
+(08:12:21)<purestrain>i can take them all the time.. but that was not intended
+(08:12:37)<RotateMe>but damn... picking up monsters that's a great idea!!!
+(08:12:38)<purestrain>pressing P ? after that i show a popup with all entities in range
+(08:12:50)<RotateMe>oh damn it's already done ... pokemon :(
+(08:12:55)<RotateMe>ah okay
+(08:13:12)<RotateMe>thought it was the classical g pickup
+(08:13:27)<purestrain>uh... g; p... whatever ;-)
+(08:13:38)<Glowie>, is the pick up key
+(08:13:39)<Glowie>Always :<
+(08:15:01)<Gamer2k4>I thought it would be nifty to treat unconscious monsters as items in my main project
+(08:15:24)<Glowie>And if a monster wakes up in your bag of holding?
+(08:15:34)<Gamer2k4>he has a lot of space to run around in =P
+(08:15:40)<Glowie>Hehe :P
+(08:15:55)<purestrain>yeah; its removed from map but is still attacking me :-)
+(08:16:03)<Gamer2k4>nah, you'll probably just be able to carry one, and it will be "over your shoulder"
+(08:16:17)<Gamer2k4>treated as in your pack, with get and drop and all
+(08:16:24)<joe6pack>i was wondering what happens when your hobbit rogue tries to out that unconscious mutalisk in his back pack 
+(08:16:38)<Gamer2k4>heh
+(08:17:11)<joe6pack>speaking of mutalisks 
+(08:17:20)<Gamer2k4>it would be a sort of quest thing..."take the -foo- prisoner" or something
+(08:17:28)<joe6pack>there's a new starcraft 2 gameplay video
+(08:17:33)<joe6pack>showing the zerg
+(08:17:40)<Gamer2k4>oh yeah, i saw that
+(08:17:47)<joe6pack>low res only though
+(08:17:49)<Gamer2k4>that game will be pretty sweet when it comes out
+(08:17:53)<Glowie>They released the Zerg today
+(08:17:57)<joe6pack>can barley see what's going on
+(08:17:58)<Glowie>Or announced
+(08:18:05)<joe6pack>announced 
+(08:18:07)<Glowie>The high resolution screenshots show a lot more
+(08:18:13)<joe6pack>they released nothing 
+(08:18:25)<joe6pack>yea. i will wait for the high res vids
+(08:18:29)<Glowie>They released pictures, info and videos.
+(08:18:55)<purestrain>i hate it... after the 7drl i can start from the beginning or redo whole parts
+(08:19:21)<joe6pack>your code is starting to spaghettyfy? 
+(08:19:27)<purestrain>instead of asking "what can i do with you, entity" i'm hardcoding (if class=door then action=open )
+(08:19:35)<Gamer2k4>spaghettiify* =P
+(08:20:13)<Gamer2k4>what project are you working on?
+(08:20:24)<joe6pack>his 7drl iirc
+(08:20:30)<purestrain>yes
+(08:21:07)<Gamer2k4>i have a pseudo 7DRL going...it's roughly halfway done =P
+(08:21:16)<Gamer2k4>coded on three separate days two weeks ago
+(08:21:20)<Gamer2k4>4 days left
+(08:47:10)<RotateMe>hehe, when i read that article on dadhacker i wanted to make it the link of the day, but there just was a new one so i waited
+(08:47:31)<RotateMe>and now it is already there
+(08:47:37)<RotateMe>pretty cool story
+(09:02:19)<joe6pack>RotateMe: actually it's already off...
+(09:02:32)<joe6pack>there is a new lotd
+(09:02:46)<joe6pack>which i admit is not as good as the previous one
+(09:03:00)<joe6pack>but it has been more than 24h, so...
+(09:38:58)<purestrain>http://retroforge.de/%7Emd/wp-content/uploads/2008/03/screen_20080310.png <- screenshot for today.. doors are now implemented :-)
+(09:46:08)<joe6pack>nice!
+(09:46:58)<Epyon|BURNOUT>This looks like AliensRL graphical version O.o
+(09:47:45)<purestrain>mainly because the corridor cross? ;-0
+(09:47:59)<Epyon|BURNOUT>hmm, I guess
+(09:48:29)<purestrain>yeah; but that cross is rather random... i divided the map into 6x6 parts, and made corridors randomly around the parts
+(09:48:48)<purestrain>itself the rooms use subdividing, just like aliens rl
+(09:51:36)<purestrain>http://retroforge.de/%7Emd/wp-content/uploads/2008/03/map.png <- here is an example map
+(09:51:55)<joe6pack>big map
+(09:52:14)<joe6pack>what's your theme again?
+(09:52:50)<purestrain>resident evil like; zombies lurking around... i think i make a rescue mission out of it
+(09:58:06)<purestrain>damn; that map looks pretty good... had to save the seed :-/
+(09:59:13)<purestrain>going to sleep now
+(09:59:15)<purestrain>n8
++++ The date has changed: 2008/03/11 +++
+(02:13:52)<RotateMe>heh, gameloop would've been the next article i'd have suggested
+(05:03:10)<RotateMe>hi
+(05:03:14)<joe6pack>hi RotateMe 
+(05:03:19)<RotateMe>http://nightschool.near-time.net/news/2008/3/10/re-the-game-loop
+(05:03:31)<RotateMe>this was what came to my mind too
+(05:03:46)<joe6pack>yea i've noticed it 
+(05:03:53)<joe6pack>you can change the lotd
+(05:03:54)<RotateMe>and that the limited frame game loop is the only loop that should be used for realtime rl's
+(05:04:02)<joe6pack>or i can do it 
+(05:04:06)<joe6pack>to this onme
+(05:04:13)<joe6pack>it's about 1 day old anyway
+(05:04:19)<RotateMe>ah?
+(05:04:24)<RotateMe>thought you set it up today
+(05:04:32)<joe6pack>nope
+(05:04:37)<joe6pack> Topic set by joe6pack [] [Mon Mar 10 18:14:00 2008
+(05:04:46)<joe6pack>almost 24 hours ago :)
+(05:05:06)<RotateMe>well then :D
+(05:05:09)<joe6pack>:)
+(05:09:27)<RotateMe>why are there so many articles on erlang in the last few dasy?
+(05:09:30)<RotateMe>*days
+(05:09:43)<joe6pack>days?
+(05:09:50)<joe6pack>i would say months
+(05:10:32)<joe6pack>erlang&haskell are the cool languages atm
+(05:12:08)<RotateMe>hm and erlang is really the thing the wikipedia article (http://en.wikipedia.org/wiki/Erlang_%28programming_language%29) is about?
+(05:12:14)<RotateMe>doesn't sound cool at all :D
+(05:12:20)<joe6pack>they have been replacing ruby and python as the fashionable languages for maybe a year already
+(05:12:55)<joe6pack>i don't know, i have programmed in neither erlang nor haskell
+(05:13:01)<RotateMe>k
+(05:13:12)<RotateMe>abap is teh coolest anyway :P
+(05:22:03)<RotateMe>this looks pretty nice http://www.jjj.de/fxt/#fxtbook
+(05:22:13)<RotateMe>(the book at near bottom)
+(05:24:57)<joe6pack>oh man
+(05:25:04)<joe6pack>the new firefox is nice 
+(05:25:19)<joe6pack>first time i try ff3
+(05:29:34)<RotateMe>dling right now
+(05:36:01)<deveah>hello
+(05:36:32)<deveah>what's the rl-in-the-challenge status?
+(05:36:50)<joe6pack>you mean how many?
+(05:49:46)<joe6pack>should i show the last known position of unseen enemies?
+(05:50:26)<joe6pack>figured i'll take another look at the cryptrover source after now that  my exams are over
+(05:54:59)<deveah>oh, did you get the results yet?
+(05:55:11)<joe6pack>i just took it now
+(05:55:25)<deveah>was it *hard* ?
+(05:55:34)<joe6pack>it will take several weeks, knowing how this professor is
+(05:55:52)<joe6pack>yes, somewhat hard
+(05:56:16)<deveah>i'll remake the RoRLE for fast console-output
+(05:56:42)<deveah>it'll refresh everything on the fov only
+(05:56:51)<deveah>oh bad idea
+(05:57:49)<deveah>http://www.isitchristmas.com/
+(06:06:26)<joe6pack>what's up purestrain?
+(06:08:56)<purestrain>i need more time :P
+(06:09:54)<joe6pack>for the 7drl?
+(06:09:59)<purestrain>yes
+(06:10:08)<joe6pack>then what are you doing here? go code!
+(06:10:11)<joe6pack>:p
+(06:18:44)<deveah>i have to give to get
+(06:21:40)<purestrain>go code is nice to say... i'm doomed, i'm currently more often playing my game instead of coding
+(06:28:41)<joe6pack>that's a good sign :)
+(06:28:45)<joe6pack>it means it's fun
+(06:29:27)<deveah>or buggy
+(06:29:36)<deveah>cya
+(06:33:54)<purestrain>3 minium todos today: 1. make zombies a little more intelligent, 2. proper line-of-sight, 3. proper field-of-view
+(07:35:10)<purestrain>the walking dead is now quite challenging :-)
+(08:50:17)<purestrain>so what fov system should i use?
+(08:50:28)<purestrain>something which can get implemented in almost 2 hours please :-)
+(08:58:00)<purestrain>i think one must reside anywhere on my hdd
+(08:58:04)<purestrain>but i don't find it
+(08:58:47)<purestrain>oh... there it was :-) an old abandoned c++ project
+(09:36:36)<RotateMe>just normal raycasting
+(09:37:03)<RotateMe>if you want you can ehance it by lighting up certain walltiles
+(09:37:15)<RotateMe>:D just found a bug in the new firefox
+(09:37:44)<purestrain>http://www.geocities.com/temerra/los_rays.html <- i've implemented this one, but it doesn't seem to work
+(09:37:48)<purestrain>or i made a mistake
+(09:39:51)<RotateMe>i tried this once but it's not easy imo
+(09:40:19)<RotateMe>some passages are not written too well if i remember right
+(09:41:46)<purestrain>it works quite... but i can see one tile behind walls
+(09:44:28)<purestrain>and its not compatible with bresenham for shooting :-(
+(09:46:07)<RotateMe>there's no reason to not use classic raycasting at the borders of your fov
+(09:46:24)<RotateMe>you can minimize errors with real easy techniques
+(09:50:43)<purestrain>right... making the 3rd fow implementation; i've nothing else to do
+(10:01:42)<RotateMe>purestrain, found the bug?
+(10:02:01)<purestrain>no... i'm doing now plain raycasting
+(10:02:33)<ido>what's up?
+(10:03:01)<joe6pack>hey cakeboy. haven't seen you in a while
+(10:03:05)<joe6pack>i *think*
+(10:04:37)<joe6pack>btw, anyone interesting in taking over cryptrover?
+(10:04:52)<joe6pack>s/interesting/interested 
+(10:05:22)<RotateMe>you don't want to finish it yourelf?
+(10:05:27)<joe6pack>surprsingly enough, there are still people downloading it everyday
+(10:05:47)<joe6pack>it was finished after the first 7 days, as far as i am concerned 
+(10:06:03)<joe6pack>all the core features are implemented, no major bugs
+(10:06:27)<joe6pack>no it's just adding fluff and candy 
+(10:06:33)<joe6pack>s/no/now
+(10:06:42)<purestrain>raycasting sucks
+(10:06:50)<purestrain>i want my z buffer :P
+(10:06:56)<joe6pack>:|
+(10:07:32)<purestrain>everything worked fine for now, except field of view
+(10:07:44)<joe6pack>i was toying with adding all kind of stuff like bolld splatter and that sort of things
+(10:07:49)<joe6pack>maybe new kinds of enemies 
+(10:07:58)<joe6pack>or a couple of new items 
+(10:08:27)<joe6pack>but really, i can't think of anything major i'd change 
+(10:09:09)<RotateMe>well if not you, who else?
+(10:09:09)<purestrain>4th algorithm.... now i try breshenham until the max radius cells
+(10:09:26)<joe6pack>that was the 1st one i tried
+(10:09:27)<RotateMe>isn't that raycasting?
+(10:10:26)<purestrain>i tried it with real casts instead of breshenham
+(10:10:41)<joe6pack>RotateMe: i'm just saying, if anyone wants it, it's there for the taking 
+(10:11:59)<RotateMe>joe, you should post that on your website, i think everyone here is busy with his own projects
+(10:12:44)<joe6pack>i think i'll hold on to it for a while longer then...
+(10:14:16)<purestrain>whats an easy way to eleminate artifacts? i would say: if a tile is visible, the surrounding walls are visible too
+(10:14:57)<joe6pack>i never needed to eliminate anything. plain ol' check if every cell is in the los works perfectly for me 
+(10:14:59)<RotateMe>if a tile is visible make all tiles in the opposite direction of the player visible
+(10:15:32)<joe6pack>if a tile is visible make all the tiles on the map visible 
+(10:15:51)<RotateMe>so if a lit tile is above and left of the player make the tile left of it, the tile above it and the tile left-above it visible
+(10:16:19)<RotateMe>replace left-above with the correct english term and you're done :D
+(10:21:49)<RotateMe>have a look at this if you still have problems
+(10:21:52)<RotateMe>http://jice.nospam.googlepages.com/visibilitydetermination
+(10:22:03)<RotateMe>i got to get some sleep i got my 5th exam tomorrow
+(10:22:12)<joe6pack>good luck
+(10:22:31)<RotateMe>tanks, bye!
+(10:24:02)<RotateMe>and before i forget
+(10:24:07)<RotateMe>quote fov, http://jice.nospam.googlepages.com/visibilitydetermination
+(10:24:11)<RotateMe>getquote fov
+(10:24:11)<null>fov(0):  http://jice.nospam.googlepages.com/visibilitydetermination
+(10:24:24)<RotateMe>cu
+(10:54:59)<purestrain>nice
++++ The date has changed: 2008/03/12 +++
+(06:24:25)<purestrain>good evening
+(07:49:13)<joe6pack>that Space Marine 7drl makes me want to do a curses version of warcraft 1 :)
+(07:49:37)<joe6pack>anyone knows of a site listing all the war1 units & their attributes?
+(07:59:14)<purestrain>warcraft1... that was the _real_ warcraft
+(07:59:59)<purestrain>i remember playing it against a friend over serial cable
+(08:01:29)<joe6pack>i have found it on an abandonware site
+(08:01:55)<joe6pack> but i would rather not got through it and document how many hitpoints etc each unit has...
+(08:02:22)<joe6pack>i remember playing it at a friend's house when iit was newe
+(08:22:31)<purestrain>i think after the next weekend i will stay on realtime instead of turnbased
+(08:24:24)<purestrain>and i'll use opengl instead of plain sdl
+(08:25:36)<purestrain>since that i won't even be a roguelike anymore
+(08:28:03)<joe6pack>i think accelerated graphicsc are pretty much universally available these days
+(08:28:16)<joe6pack>i'd use opengl regardless 
+(08:28:45)<purestrain>my former target system was a handheld without opengl; but i don't get d running on it :-(
+(09:11:19)<joe6pack>quote warcraft1, http://www.gamewinners.com/faq.php?game=w/Warcraft-JKang.txt
+(09:11:27)<joe6pack>getquote warcraft1
+(09:11:27)<null>warcraft1(0):  http://www.gamewinners.com/faq.php?game=w/Warcraft-JKang.txt
+(09:11:43)<joe6pack>quote warcraft1, http://www.gamefaqs.com/computer/doswin/file/565021/23041
+(09:11:45)<joe6pack>getquote warcraft1
+(09:11:45)<null>warcraft1(0):  http://www.gamewinners.com/faq.php?game=w/Warcraft-JKang.txt
+(09:11:45)<null>warcraft1(1):  http://www.gamefaqs.com/computer/doswin/file/565021/23041
+(09:12:36)<purestrain>i would like to make a remake of z, quite another interesting rts
+(09:21:29)<joe6pack>i remember some game named z
+(09:21:41)<joe6pack>iirc you didn't have to build buildings?
+(09:21:59)<joe6pack>i just remember it was a bit different than dune 2/c&c/warcraft
+(09:26:40)<purestrain>yes
+(09:27:35)<joe6pack>mi didn't play it much at all
+(09:28:12)<joe6pack>the ones i played a ton of were war2/c&c-red alert and i think total annihilation 
+(09:28:24)<joe6pack>was that the one with the mechs?
+(09:28:40)<joe6pack>anyway some game from 96 or 97
+(09:28:51)<joe6pack>i was an rts fiend at that time
+(09:31:40)<purestrain>up until the rts got more and more without the actual strategy ?
+(09:48:30)<joe6pack>hrm? starcraft and warcraft 3 both contain quite a bit of strategy 
+(09:48:36)<purestrain>uah... today i've got lots of map errors
+(09:48:42)<purestrain>something is going wrong today
+(09:49:23)<joe6pack>but yea, somewhere around that time there were ~3 years were rts's were very poplar and a lot of generic crappy ones were produced 
+(09:55:39)<purestrain>is it within the 7drl rules if someone tests the game before finish ?
+(09:55:51)<joe6pack>sure why not
+(09:56:40)<purestrain>i would like to get a first opinion, do you mind and have a windows system running ?
+(09:56:54)<joe6pack>i can use virtualbox
+(09:57:15)<joe6pack>link?
+(09:57:24)<joe6pack>or you can also email me
+(09:57:34)<joe6pack>ido.yehieli@gmail.com
+(09:58:00)<purestrain>i hope its fast enough ;-)
+(09:58:20)<joe6pack>we will see :)
+(09:58:27)<joe6pack>are you emailing me it?
+(09:59:13)<purestrain>i'd better use a link, it will be faster
+(09:59:33)<joe6pack>does it matter? i assume it is onlt a few kb
+(09:59:44)<purestrain>2,7mb
+(09:59:51)<joe6pack>ok
+(10:00:06)<joe6pack> you can /msg me the link if you want
+(10:00:13)<joe6pack>or post it publicly 
+(10:00:16)<joe6pack>your choice 
+(10:01:00)<joe6pack>oh finally, all the unit statistics for war1
+(11:09:53)<joe6pack>anyone played this game: www.globulation2.org
+(11:09:54)<joe6pack>?
++++ The date has changed: 2008/03/13 +++
+(10:36:56)<oeb>Hmmm, space marine 7drl is in for a supprise if he tries to copy the 40k universe.
+(10:37:13)<TMC>?
+(10:37:47)<oeb>65ef279d-d95b-4717-bf10-b95929b0e7b5@s13g2000prd.googlegroups.com
+(10:38:02)<oeb>GW really strongly enforce their IP
+(10:38:25)<oeb>They closed down a Space Hulk computer game last week
+(10:38:42)<oeb>A few months ago they closed down a fan film that has been in development for years
+(10:55:27)<cakeboy>way to alienate your fan base
+(10:56:43)<TMC>a fan film?
+(10:56:49)<TMC>any details about it?
+(11:00:05)<oeb>Damantus or something it was called
+(11:00:32)<oeb>If you search fan film or german in rec.games.minitures.warhammer something will probably show up
+(11:01:12)<oeb>http://en.wikipedia.org/wiki/Damnatus
+(11:12:47)<oeb>cakeboy, yup. The fan film really was overkill though. The producers asked GW Germany, and they said 'Ya, sure no problem'. When the film was ready for release GW HQ said 'Hold on, germany can't approve that! KILL KILL KILL'
+(11:19:37)<joe6pack>hi everyone 
+(11:21:42)<TMC>hi
+(11:21:43)<TMC>hmm
+(11:21:54)<TMC>someone left the CIA bot running in #rln :P
+(11:22:02)<joe6pack>i think i need to learn sdl
+(11:22:11)<joe6pack>the time has come
+(11:22:19)<joe6pack>for graphic game
+(11:22:22)<joe6pack>s
+(11:22:50)<TMC>it's easy but complex
+(11:23:03)<TMC>portable but slightly inflexible
+(11:23:07)<joe6pack>i think i will try to clone warcraft 1. it's as simple an rts i can think of that is still fun to play
+(11:23:16)<joe6pack>what's complex about it?
+(11:23:33)<TMC>well, I'm thinking of the video functions
+(11:24:15)<TMC>which can be hard to match up correctly
+(11:24:37)<TMC>SDL will let you blit anything to anything, but a mismatch can kill your fps
+(11:24:47)<joe6pack>do you know of a better gfx lib?
+(11:24:48)<TMC>also, the custom scancodes were a pain for me
+(11:25:04)<TMC>no, haven't looked either
+(11:25:10)<joe6pack>Keyboard scancodes?
+(11:25:17)<TMC>you should be good enough for you
+(11:25:18)<TMC>actually!
+(11:25:23)<TMC>I can name a better one
+(11:25:26)<TMC>pygame :P
+(11:25:38)<joe6pack>pygame is an sdl wrapper...
+(11:26:24)<TMC>I know
+(11:26:27)<TMC>it's better
+(11:26:45)<joe6pack>i rather program in c actually. that way i don't have to worry about performance. i can code most/all things in a naive way and it's usually fast enough
+(11:26:50)<TMC>the goodness of python, plus extenstions
+(11:26:59)<joe6pack>i remember trying an rl in python
+(11:27:06)<joe6pack>maybe 4 years ago or so
+(11:27:08)<joe6pack>maybe more
+(11:27:21)<joe6pack>it started getting slow with pathfinding or fov 
+(11:27:24)<TMC>naive approaches don't always work out when when dealing with graphics
+(11:27:25)<joe6pack>or something like that
+(11:27:41)<TMC>C doesn't help
+(11:27:44)<joe6pack>well the graphic part will be quite small
+(11:27:57)<joe6pack>i mean naive approches to stuff like pathfinding/ai/map generation/etc
+(11:28:13)<joe6pack>worked for me till now,
+(11:28:15)<joe6pack>of course
+(11:28:24)<joe6pack>i have only been doing turn based games....
+(11:28:31)<joe6pack>but anyway i like c
+(11:28:35)<joe6pack>that's the main reason
+(11:29:10)<joe6pack>what was particularly slow with sdl?
+(11:29:11)<TMC>yeah
+(11:29:54)<TMC>well I had to struggle to get a fullscreen app to run at above 20fps on a friends computer
+(11:30:05)<TMC>all it did was paint approx 200 tiles to screen
+(11:30:13)<joe6pack>huh
+(11:30:16)<TMC>I finally got it to 60Hz
+(11:30:26)<joe6pack>60fps is goodf 
+(11:30:31)<TMC>but only at 16bpp and who knows what else
+(11:30:39)<TMC>yeah
+(11:30:58)<TMC>but most video options I tried ran at 15 or 5 fps :P
+(11:31:15)<TMC>anyway
+(11:31:32)<TMC>its definitely suitable
+(11:31:46)<joe6pack>i don't care about that. for a war 1 clone i will be satisfied with 8 bit gfx, ~200 tiles which will not be updated every frame (only on screen scroll) and maybe 10-15 fps
+(11:31:48)<TMC>I hate graphics programming
+(11:31:58)<TMC>I always think I'm not doing it right
+(11:32:04)<joe6pack>what was the resolution you tried?
+(11:32:19)<TMC>640x480 I think
+(11:32:32)<joe6pack>really? and it had problems displaying that?
+(11:32:32)<TMC>or 800x600 probably
+(11:32:38)<joe6pack>wierd 
+(11:32:45)<TMC>well
+(11:32:49)<joe6pack>did you use hardware acceleration? 
+(11:32:54)<TMC>people make fast paced games with SDL
+(11:33:07)<joe6pack>that's why i'm surprised 
+(11:33:10)<TMC>and video players and all sorts of stuff
+(11:33:21)<TMC>no, this was on a friends computer
+(11:33:28)<TMC>I think it was an old one
+(11:33:34)<TMC>I mean, it was
+(11:33:47)<TMC>but I'd rather make games that play on old computers
+(11:33:50)<joe6pack>it sounds like painting 200 tiles @ 800x600 should work fine even on a pentium II
+(11:33:57)<TMC>I had no video card on this 8 year old computer
+(11:34:04)<TMC>and my other one has a TNT2
+(11:34:09)<joe6pack>huh
+(11:34:10)<TMC>*have no
+(11:34:19)<joe6pack>what kind of computer was that again?
+(11:34:23)<joe6pack>more or less
+(11:34:23)<TMC>was what
+(11:34:28)<TMC>can't remember
+(11:34:30)<TMC>wasn't mine
+(11:34:32)<joe6pack>the one that ran too slow
+(11:34:36)<TMC>about the same as this one
+(11:34:50)<joe6pack>pentium? pentium2?
+(11:34:52)<TMC>I don't think I managed to get 60Hz on this one
+(11:36:26)<TMC>python can't be that slow if they're using it for the XO :P
+(11:36:50)<joe6pack>just to get the order of magnitude, you said that 800x600/200 tiles/16bpp/60hz/software rendering on an ~8 years old computer worked?
+(11:37:01)<joe6pack>the xo is very slow
+(11:37:14)<joe6pack>i couldn't handle using it for more than a couple of minutes
+(11:37:27)<joe6pack>everything takes forever. even the basic gui 
+(12:09:01)<Aerton>hi there
+(12:11:48)<oeb>Morning
+(12:41:34)<RotateMe>hey
+(08:17:15)<RotateMe>randomquote
+(08:17:15)<null>telnet:  ftp://ftp.alt.org/pub/dgamelaunch/
+(08:18:12)<RotateMe>randomquote
+(08:18:12)<null>deveah:  the web because they want all our resources and to destroy us
+(08:18:21)<RotateMe>randomquote
+(08:18:21)<null>crack: <@joe6pack> Schlongs and Crevices
+(08:18:27)<RotateMe>randomquote
+(08:18:27)<null>dungeonhunter: http://home.arcor.de/dungeonhunter/Screens/
+(08:18:29)<RotateMe>randomquote
+(08:18:29)<null>RL: <syntax_tn> it'd be interesting to know the ratio of started/unfinished/abandoned roguelikes to "finished" (up to the point of fun replayability) ones. a wild guess 20:1?
+(08:18:32)<RotateMe>randomquote
+(08:18:32)<null>warcraft1:  http://www.gamewinners.com/faq.php?game=w/Warcraft-JKang.txt
+(08:20:33)<RotateMe>cool stuff
+(08:20:45)<RotateMe>getquote warcraft1
+(08:20:45)<null>warcraft1(0):  http://www.gamewinners.com/faq.php?game=w/Warcraft-JKang.txt
+(08:20:45)<null>warcraft1(1):  http://www.gamefaqs.com/computer/doswin/file/565021/23041
+(08:48:47)<purestrain>i don't know how to solve that stupid sound bug
+(08:58:13)<purestrain>i'm now more motivated
+(08:58:20)<joe6pack>to do what?
+(08:58:25)<joe6pack>work on the game?
+(08:58:28)<purestrain>yes
+(08:58:57)<joe6pack>i just got an email from a professor telling me he will test me on teusday
+(08:58:58)<joe6pack>arg
+(08:59:13)<joe6pack>i will start studying tomorrow 
+(09:19:46)<purestrain>http://retroforge.de/%7Emd/wp-content/uploads/2008/03/residentevil.png <- last screenshot
+(09:22:14)<purestrain>its quite hard to do a game in 7 days without losing to much time for my daughter and girlfriend :-/
+(09:23:24)<Glowie>Luckily no one is forcing you to do it in 7 days, it's just not a 7DRL then :)
+(09:23:57)<purestrain>http://retroforge.de/~md/ <- here it can be downloaded with control sheme
+(09:25:21)<joe6pack>you have a daughter?
+(09:25:27)<joe6pack>i thought you were young 
+(09:25:31)<purestrain>yep
+(09:25:33)<joe6pack>:P
+(09:25:38)<purestrain>huh, i am young... 26 years young
+(09:25:47)<joe6pack>damn
+(09:25:57)<joe6pack>that's only 1 year older than i am, and you are already a father
+(09:26:27)<joe6pack>how old is she?
+(09:26:35)<purestrain>5yrs
+(09:26:43)<joe6pack>:O
+(09:26:57)<joe6pack>you had a baby when you were 21?!
+(09:27:20)<purestrain>She is my daughter, but she is not manufactured by me :-)
+(09:27:20)<joe6pack>that's insane
+(09:27:26)<purestrain>i know her only since she was 1 1/2
+(09:27:28)<joe6pack>oh i see
+(09:27:43)<joe6pack>so you are the stepfather, then?
+(09:28:21)<purestrain>yep
+(09:31:38)<joe6pack>nothing like looking for info on old games to make you realise there was once a time when the web was not obiquous
+(09:45:03)<purestrain>mmhm.. respect for everyone who actually finsihes/finished a 7drl
++++ The date has changed: 2008/03/14 +++
+(02:42:33)<ido>anyone know any nice tile set other than http://pousse.rapiere.free.fr/tome/ and http://rltiles.sourceforge.net/ ?
+(02:47:20)<ido>i guess these ones are nice as well 
+(02:47:21)<ido>http://www.reinerstileset.4players.de:1059/englisch.htm
+(02:55:51)<ido>does anyone know if the tiles in castlevaniaRl are original or some general public domain ones?
+(03:01:58)<ido>help?
+(03:01:58)<null>Available commands:
+(03:01:58)<null>time (by joe6pack)
+(03:01:58)<null>[subject] news (by joe6pack)
+(03:01:58)<null>news sources (by joe6pack)
+(03:01:58)<null>decide [option1],[option2] (by RotateMe)
+(03:01:58)<null>quote [keyword],[quote] (by RotateMe)
+(03:01:58)<null>getquote [keyword] (by RotateMe)
+(03:01:58)<null>randomquote (by RotateMe)
+(03:01:58)<null>roll (by konijn)
+(03:03:16)<ido>getquote tiles
+(03:03:29)<ido>quote tiles, http://www.reinerstileset.4players.de:1059/englisch.htm
+(03:03:35)<ido>quote tiles, http://pousse.rapiere.free.fr/tome/
+(03:03:41)<ido>quote tiles, http://rltiles.sourceforge.net/
+(03:03:48)<ido>quote tiles, http://wiki.allegro.cc/Graphics_Depot
+(03:03:58)<ido>getquote tiles
+(03:03:58)<null>tiles(0):  http://www.reinerstileset.4players.de:1059/englisch.htm
+(03:03:58)<null>tiles(1):  http://pousse.rapiere.free.fr/tome/
+(03:03:58)<null>tiles(2):  http://rltiles.sourceforge.net/
+(03:03:58)<null>tiles(3):  http://wiki.allegro.cc/Graphics_Depot
+(03:21:28)<ido>what's up Glowie?
+(03:21:36)<Glowie>Not much
+(03:21:47)<Glowie>Just stopped studying chemistry for today
+(03:21:58)<ido>i was just searching the web for some free tiles
+(03:22:05)<ido>getquote tiles
+(03:22:05)<null>tiles(0):  http://www.reinerstileset.4players.de:1059/englisch.htm
+(03:22:05)<null>tiles(1):  http://pousse.rapiere.free.fr/tome/
+(03:22:05)<null>tiles(2):  http://rltiles.sourceforge.net/
+(03:22:05)<null>tiles(3):  http://wiki.allegro.cc/Graphics_Depot
+(03:22:06)<Glowie>For a roguelike?
+(03:22:20)<ido>actually for my warcraft 1 clone :)
+(03:22:40)<ido>but i think the setting is similar enough to be able to use the same tiles
+(03:22:47)<Glowie>Oh :)
+(03:23:00)<ido>do you know of any others?
+(03:23:06)<ido>other than the ones i've listed?
+(03:23:19)<Glowie>At least not any decent ones (in my opinion) :P
+(03:23:30)<Glowie>I'm not into tiled roguelikes so I'm not up to date with tiles
+(03:24:25)<ido>yea, me neither. the problem is, when i show anything i've made to people who don't play roguelikes adding graphics is often the 1st thing they ask about
+(03:25:14)<ido>the good thing is that they've often also not seen the common rl tiles yet
+(03:25:36)<ido>so i can use those and most people wouldn't know they're extremely overused :)
+(03:26:37)<Glowie>Hehe
+(03:26:40)<ido>graphics make a huge difference for a lot of casual (and none casual) players. sad but true 
+(03:26:57)<ido>i like the 2d ones from crawl
+(03:27:05)<Glowie>They do, but I just think it's their loss if they can't see the Beauty of the ASCII :P
+(03:27:55)<ido>yes, but i am toying with the idea of try to get into the indie game making business eventually. 
+(03:28:50)<ido>i know it isn't a very profitable market, but if i can scrape by for some time doing game development i'll be content 
+(03:29:22)<Glowie>That's not an easy path I can assure you. An internet friend of mine released a new game (indie, small team, but well polished game with a price not too high) just a week ago and it was cracked+keygen'ed in LESS THAN A DAY :(
+(03:29:37)<ido>heh
+(03:29:45)<Glowie>I bet they weren't 'heh'
+(03:30:01)<ido>well the people who pirate games aren't the same people who buy them
+(03:30:15)<Glowie>True too
+(03:31:04)<ido>i read something about that by the makers of "sins of a solar empire"
+(03:31:10)<ido>let me try and find it 
+(03:31:40)<jraregris>Chris Delay had an interesting piece on how to add value to actually buying the product over pirating it (example: WoW: you can pirate it and play single player, but not play on the servers))
+(03:32:01)<ido>http://forums.sinsofasolarempire.com/post.aspx?postid=303512&amp;amp;amp;
+(03:32:35)<ido>Glowie: link to the game?
+(03:33:01)<Glowie>Sec
+(03:33:20)<jraregris>the mentioned above: http://forums.introversion.co.uk/introversion/viewtopic.php?t=1046&start=0&postdays=0&postorder=asc&highlight=&sid=f8764d64569452c40492b89112c2a187
+(03:33:24)<Glowie>http://www.oxeyegames.com/harvest/
+(03:33:41)<Glowie>They're planning to lower the price and they might get to Steam too..
+(03:34:31)<ido>oh wow
+(03:34:34)<ido>looks very cool
+(03:34:53)<ido>looks professional 
+(03:35:26)<ido>is it any good?
+(03:35:40)<Glowie>I've beta tested it and yes, it's addicting :P
+(03:35:52)<ido>looks complicated
+(03:36:05)<Glowie>The replay value of the game depends on the player really, not everyone like tower defense style games
+(03:36:25)<Glowie>Not that complicated when you know how it works
+(03:36:54)<ido>will you buy it?
+(03:37:19)<Glowie>Not at least yet
+(03:37:24)<ido>why not?
+(03:37:58)<Glowie>I have enough things to do and games to play already (and I beta tested it so part of the replay value has already gone)
+(03:38:11)<Glowie>Plus, if I'm going to buy it, it's going to be after the probable price reduction :P
+(03:39:06)<RotateMe>psp?
+(03:39:06)<ido>some friend you are ;)
+(03:39:19)<RotateMe>(hi btw)
+(03:39:31)<Glowie>An internet friend :b
+(03:39:38)<Glowie>Hello at RotateMe
+(03:39:54)<RotateMe>Glowie, you want to buy a psp or what?
+(03:39:59)<Glowie>Nope
+(03:40:21)<ido>RotateMe: http://www.oxeyegames.com/harvest/
+(03:40:23)<Glowie>We were talking about indie games, and a game made by my friend when you came in
+(03:40:29)<ido>that's what we were talking about
+(03:40:53)<RotateMe>oh, i misread "probable price reduction :P"
+(03:41:10)<RotateMe>just had a math exam and are still a bit weird :D
+(03:41:31)<ido>it looks like a serious company 
+(03:41:36)<ido>not a one man show
+(03:41:55)<Glowie>Quite small but indeed very professional looking indie group
+(03:42:07)<ido>how many people are they?
+(03:43:14)<Glowie>Uhm.. Actually I'm not sure about the exact number, about 4-7 I think
+(03:43:15)<RotateMe>looks cool, gonna try the demo
+(03:43:22)<RotateMe>did you try it?
+(03:43:24)<ido>hmm
+(03:43:30)<Glowie>I've beta tested it
+(03:43:42)<joe6pack>they are looking for a programmer 
+(03:43:47)<joe6pack>http://www.oxeyegames.com/jobs/
+(03:43:53)<Glowie>In Sweden
+(03:44:08)<joe6pack>minor issue 
+(03:44:33)<joe6pack>if i would have found a company i wanted to work for i would have gladely relocated 
+(03:44:45)<joe6pack>i mean it depends to where, of course
+(03:45:05)<RotateMe>http://www.fierz.ch/strategy.htm -> worth the link of the day?
+(03:45:05)<joe6pack>but i would have no problem relocating to anywhere in the eu or north america
+(03:45:30)<joe6pack>RotateMe: if you think it is, then it is :)
+(03:46:18)<joe6pack>as far as i am concerned, if the current lotd is ~1 day old or more, you could replace it with whatever non-spam link you wish
+(03:46:53)<joe6pack>if it is bad, someone else would just change it to something better
+(03:47:03)<joe6pack>that's why everyone can change the subject on the channel 
+(03:48:19)<joe6pack>interesting that they require a "# Portfolio of past game project that you have developed" from an intern 
+(03:48:42)<RotateMe>why from an intern?
+(03:48:49)<RotateMe>isn't it an open job description?
+(03:48:49)<joe6pack>how many interns would actually have a portfolio to show? 
+(03:49:01)<joe6pack>it says "Programmer Intern"
+(03:49:29)<RotateMe>well maybe they suggest you did some more stuff in your freetime
+(03:49:35)<Glowie>They are still new at being a company. I guess they really mean if the applicant has made games as a hobby and can show those
+(03:49:40)<Glowie>Exactly
+(03:49:43)<joe6pack>the whole point of being an "intern" and not just a "programmer"is that you have no experience 
+(03:50:12)<joe6pack>what does that friend of your think of roguelikes? ;)
+(03:50:36)<RotateMe>o||o? he couldn't concentrate long enough to play one
+(03:50:53)<RotateMe>well he slashed his way through diablo 1 a few times now that i think about it
+(03:51:16)<joe6pack>RotateMe: i was asking Glowie, i have no idea which friend you are talking about :)
+(03:51:31)<RotateMe>sry
+(03:51:36)<joe6pack>no problem
+(03:51:41)<RotateMe>mp3 of the weak composer
+(03:51:56)<Glowie>He knows the genre, has tried FD, but isn't a fan of the genre :P
+(03:51:57)<RotateMe>i just posted it and you asked that's why i thought you meant him
+(03:52:05)<joe6pack>ok
+(03:52:24)<joe6pack>i didn't even see that you've changed that as well
+(03:52:30)<RotateMe>k
+(03:52:40)<joe6pack>will give it a go
+(03:53:05)<RotateMe>man this job description sounds cool
+(03:54:02)<joe6pack>is dungeonhunter your game?
+(03:54:59)<RotateMe>yep
+(03:55:14)<joe6pack>where did you take the tiles from?
+(03:55:18)<RotateMe>it's not featuring that music or any music :D
+(03:55:29)<RotateMe>rm2k chipsets
+(03:55:46)<RotateMe>but most of them has been changed enough to be legal for a beta ^^
+(03:56:02)<RotateMe>damn the graphics of dawn of daria look awesome
+(03:56:08)<joe6pack>rm2k?
+(03:57:27)<RotateMe>rpg maker 2000
+(03:57:58)<RotateMe>well most of the tiles are from custom tilesets anyway and they again ripped it mostly from snes games
+(03:59:03)<RotateMe>i'm currently working on ascii support
+(03:59:15)<joe6pack>oh ok
+(03:59:37)<RotateMe>it's nearly finished but i didn't work on my game the last few days (weaks?) hence the exams
+(03:59:46)<joe6pack>RotateMe: i was searching for sources of free tiles
+(03:59:52)<joe6pack>getquote tiles
+(03:59:52)<null>tiles(0):  http://www.reinerstileset.4players.de:1059/englisch.htm
+(03:59:52)<null>tiles(1):  http://pousse.rapiere.free.fr/tome/
+(03:59:52)<null>tiles(2):  http://rltiles.sourceforge.net/
+(03:59:52)<null>tiles(3):  http://wiki.allegro.cc/Graphics_Depot
+(03:59:53)<RotateMe>and of all my 9 hated subject i think i just fucked up maths, the only subject i liked
+(04:00:06)<joe6pack>i ahve an exam on teusday 
+(04:00:25)<joe6pack>and then hopfully some peace of mind due to Easter 
+(04:00:42)<joe6pack>but this subject is a nice one
+(04:00:51)<joe6pack>so i don't mind learning for that much
+(04:00:56)<RotateMe>yep I'll have 3 exams to go (6 are over) which will be in monday, tuesday and wednesday
+(04:01:18)<RotateMe>then i will get drunk enough to sleep 2 more days and then i have freetime for about 2 weaks
+(04:01:25)<joe6pack>:)
+(04:01:26)<RotateMe>in which i will do my 7drl
+(04:01:41)<joe6pack>you sure know how to party ;)
+(04:02:32)<RotateMe>... which lead to a photo of me throwing up at a party finding its way to my boss
+(04:02:50)<joe6pack>so do you have any tiles link other than the 4 that are already there?
+(04:02:59)<RotateMe>i'm just looking
+(04:03:04)<joe6pack>i am sure he doesn't give a shit
+(04:03:14)<joe6pack>if he is anything like any boss i've had 
+(04:03:28)<RotateMe>well he can't do anything so i don't give a shit ;)
+(04:03:44)<RotateMe>besides as i said i'm quitting and study maths in about juli
+(04:03:51)<joe6pack>oh ok
+(04:03:54)<joe6pack>good luck
+(04:04:21)<joe6pack>but doesn't uni only begin at october?
+(04:05:26)<RotateMe>problem is in order to apply for university i must not study at another university
+(04:05:40)<RotateMe>applying starts in juli so i have to quit then
+(04:06:07)<joe6pack>that's weird 
+(04:06:08)<RotateMe>sadly i can't just quit uni and continue to work until my maths study starts
+(04:06:20)<RotateMe>why?
+(04:06:20)<joe6pack>in austria you can study in more than 1 uni at any given time
+(04:06:36)<RotateMe>nope it's not possible here
+(04:06:39)<joe6pack>i know a few people who study in both tuwien and uni wien
+(04:06:45)<RotateMe>maybe it depends on the uni
+(04:07:15)<joe6pack>so are you also moving to berlin in july? 
+(04:07:23)<RotateMe>yep about then
+(04:07:27)<joe6pack>cool
+(04:07:51)<RotateMe>i can live at a friend's and from there i can find a living community (if that's what it's called)
+(04:07:56)<RotateMe>wohngemeinschaft ;)
+(04:08:10)<joe6pack>apartment? ;)
+(04:08:23)<RotateMe>yeah an apartment where other students live
+(04:08:40)<RotateMe>so you share a flat and share the costs
+(04:08:50)<joe6pack>yes i know
+(04:08:54)<joe6pack>i live in one atm
+(04:08:59)<joe6pack>have been since i was 19
+(04:09:11)<RotateMe>i guess it's much better then living alone
+(04:09:22)<RotateMe>well you can have bad luck but i doubt that happens
+(04:09:37)<RotateMe>seems most of the rm2k chipsets are rips from commercial games :(
+(04:09:46)<joe6pack>i would have preferred living alone i think, but i can't afford it 
+(04:10:02)<joe6pack>i know live with 1 other guy
+(04:10:20)<joe6pack>but he works ~60 hours a week so it's not really a problem
+(04:10:22)<deveah>hello
+(04:10:28)<joe6pack>i barely notice he's here
+(04:10:31)<joe6pack>hi deveah 
+(04:10:40)<deveah>are the 1drls ready?
+(04:10:53)<joe6pack>i think they should be 
+(04:10:59)<joe6pack>rgrd news
+(04:11:00)<null>Re: Has anyone seen this? A NetHack clone written in Haskell
+(04:11:00)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/be82e9f188b5d840
+(04:11:00)<null>Re: Has anyone seen this? A NetHack clone written in Haskell
+(04:11:00)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/4f2ad08bd21790d9
+(04:11:00)<null>Re: RPG Concept Illustration in Painter X
+(04:11:00)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/7b23750359c49d07
+(04:11:00)<null>RPG Concept Illustration in Painter X
+(04:11:00)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/8a7c46ee7ef42b0d
+(04:11:20)<joe6pack>rt news 
+(04:11:28)<joe6pack>rt news
+(04:11:29)<null>More roguelikes for the 7DRL Challenge
+(04:11:29)<null>http://www.roguetemple.com/2008/03/10/more-roguelikes-for-the-7drl-challenge/
+(04:11:29)<null>The 7DRL Challenge 2008 has started!
+(04:11:29)<null>http://www.roguetemple.com/2008/03/08/the-7drl-challenge-2008-has-started/
+(04:11:29)<null>The 7DRL Challenge starts on March 8
+(04:11:29)<null>http://www.roguetemple.com/2008/03/04/the-7drl-challenge-starts-on-march-8/
+(04:11:29)<null>Dwarf Fortress Development interview over Gamasutra
+(04:11:29)<null>http://www.roguetemple.com/2008/03/01/dwarf-fortress-development-interview-over-gamasutra/
+(04:11:44)<joe6pack>guess not
+(04:11:47)<RotateMe>lazy people :P
+(04:11:56)<joe6pack>or at least didn't get a lot of publicity yet :)
+(04:11:59)<RotateMe>wow 60 hours a weak what does he do?
+(04:12:16)<joe6pack>programmer in a very small start up company 
+(04:12:27)<joe6pack>it's just him and i think 2 or 3 other guys
+(04:12:42)<joe6pack>he often works on the weekend as well
+(04:13:55)<RotateMe>does it go well?
+(04:14:02)<joe6pack>i think so
+(04:14:15)<RotateMe>so join them already :D
+(04:14:17)<joe6pack>they have customers that are waiting for them to finish off development 
+(04:14:26)<joe6pack>no thanks... 
+(04:14:42)<joe6pack>i have neither the will nor the time to work that many hours 
+(04:16:01)<RotateMe>yeah i'm already doing it and i'm quitting so i can understand why not doing so
+(04:16:21)<joe6pack>and i want to finally finish off my studies as well
+(04:16:24)<RotateMe>time in university is the peaceful time with 45 hours/weak and 9 exams
+(04:16:36)<joe6pack>exactly :)
+(04:16:43)<RotateMe>going to try this harvest game now
+(05:03:30)<RotateMe>heh
+(05:03:40)<RotateMe>got to wave 32 which is pretty bad i think#
+(05:03:42)<RotateMe>was fun though
+(05:05:18)<joe6pack>maybe i could contact some pixel artist who's work i liked and ask them how much they'd charge for some tiles & sprites
+(05:11:08)<RotateMe>do you have something in mind?
+(05:13:18)<joe6pack>you mean for the art? or what i want to use it for?
+(05:13:53)<joe6pack>i was thinking pretty standard 32x32 tiles,
+(05:14:24)<joe6pack>characters/grass/water/items/etc..
+(05:17:45)<joe6pack>maybe i could get david e gervais ;)
+(05:33:50)<deveah>beware of my dos gui :p
+(05:38:02)<deveah>omg it's a lot of work...
+(05:45:09)<deveah>simply addbutton, drawform, button properties, getbutton, getclicked
+(06:47:17)<RotateMe>joe6pack, i meant what you want the tiles for?
+(06:48:20)<joe6pack>RotateMe: a warcraft 1-like rts game
+(06:56:34)<RotateMe>last time you wanted to do it in ascii
+(06:57:24)<joe6pack>people don't give ascii the love it deserves :(
+(06:57:42)<purestrain>you want to game a rts ?
+(06:57:43)<RotateMe>yeah... but you think a wc1 like game would sell?
+(06:57:59)<joe6pack>no, but it would get more people playng it
+(06:58:16)<joe6pack>i will start off with fake ascii
+(06:58:25)<joe6pack>i.e. sdl with ascii tiles
+(06:58:50)<RotateMe>ah okay thought you'd want to sell it because you said maybe you'd pay for the pixel art
+(06:59:12)<joe6pack>maybe i will...
+(06:59:16)<joe6pack>pay that is
+(06:59:18)<joe6pack>for good art
+(06:59:30)<joe6pack>but that doesn't mean it will be sellable 
+(06:59:43)<purestrain>donate game
+(06:59:55)<joe6pack>the question is expensive the art would be 
+(06:59:55)<purestrain>could be possible... i already donated to several games which i played frquently
+(07:00:44)<joe6pack>purestrain: yea, if it turns out alright i might go that way, but i don't think it will actually bring in any significat revenue 
+(07:00:52)<joe6pack>i do it for the experience 
+(07:01:00)<joe6pack>and for fun
+(07:01:03)<purestrain>right
+(07:02:00)<purestrain>i'll start of with a new game too; but i don't want to make it in seven days ;-)
+(07:02:20)<RotateMe>http://pixeljoint.com/pixels/new_icons.asp?search=mockup&dimo=%3E%3D&dim=10&colorso=%3E%3D&colors=2&tran=&anim=&iso=&av=&owner=&d=&dosearch=1&ob=search&action=search
+(07:02:32)<purestrain>id either thought about something like alien breed or something like Z
+(07:02:43)<RotateMe>you can look through these and kindly ask the people who did this if you can use their graphics
+(07:02:59)<RotateMe>the answer might be yes if you have something to show them
+(07:03:21)<joe6pack>ok
+(07:03:22)<joe6pack>thanks
+(07:04:36)<joe6pack>http://pixeljoint.com/pixelart/18998.htm
+(07:04:41)<joe6pack>that's a good one :)
+(07:04:51)<RotateMe>heh i liked that too
+(07:04:53)<joe6pack>"brutus"...
+(07:05:15)<RotateMe>brute is right in this case
+(07:06:28)<RotateMe>oh sry it doesn't say that :D
+(07:08:08)<RotateMe>http://pixeljoint.com/pixelart/11203.htm
+(07:08:14)<joe6pack>something like this one would be right:
+(07:08:14)<joe6pack>http://pixeljoint.com/pixelart/11203.htm
+(07:08:16)<RotateMe>i think they might fit well
+(07:08:21)<RotateMe>LOL!
+(07:08:24)<joe6pack>:)
+(07:08:34)<joe6pack>great minds think alike...
+(07:08:50)<RotateMe>yep... ask that guy after you got some ascii stuff done
+(07:09:00)<joe6pack>yea
+(07:09:02)<RotateMe>i guess he'd even provide more stuff
+(07:09:08)<joe6pack>that's a good idea
+(07:09:42)<joe6pack>has practically all of the terrain, only needs more units 
+(07:09:58)<joe6pack>and i guess a bit of movement animation
+(07:10:17)<joe6pack>(and buildings)
+(07:13:51)<joe6pack>http://pixeljoint.com/pixelart/21609.htm
+(07:15:35)<RotateMe>if this weren't cows and the enemies weren't chicken this could make a good game :D
+(07:17:25)<RotateMe>http://pixeljoint.com/pixelart/24855.htm
+(07:18:29)<RotateMe>this looks pretty useful: http://pixeljoint.com/pixelart/14199.htm
+(07:19:57)<RotateMe>there you go: http://pixeljoint.com/pixelart/12221.htm
+(07:21:00)<joe6pack>i liked the farm animals motif :)
+(07:24:32)<joe6pack>oh this is seriously sweet 
+(07:24:34)<joe6pack>http://img230.imageshack.us/img230/1364/untitled9gy.gif
+(07:25:01)<joe6pack>(a bit better arranged version)
+(07:30:32)<joe6pack>quote pixelart, http://pixeljoint.com/p/4398.htm
+(07:30:41)<joe6pack>getqoute pixelart
+(07:30:48)<joe6pack>getquote pixelart
+(07:30:48)<null>pixelart(0):  http://pixeljoint.com/p/4398.htm
+(07:30:55)<joe6pack>randomquote
+(07:30:55)<null>deveah:  the web because they want all our resources and to destroy us
+(07:30:58)<joe6pack>randomquote
+(07:30:58)<null>telnet:  ftp://ftp.alt.org/pub/dgamelaunch/
+(07:31:01)<joe6pack>randomquote
+(07:31:01)<null>deveah:  the web because they want all our resources and to destroy us
+(07:31:03)<joe6pack>randomquote
+(07:31:03)<null>curses:  http://www.opengroup.org/onlinepubs/007908799/cursesix.html
+(07:31:06)<joe6pack>randomquote
+(07:31:06)<null>warcraft1:  http://www.gamefaqs.com/computer/doswin/file/565021/23041
+(07:31:09)<joe6pack>randomquote
+(07:31:09)<null>linux: no it doesn't 
+(07:31:11)<joe6pack>randomquote
+(07:31:11)<null>tiles:  http://pousse.rapiere.free.fr/tome/
+(07:31:15)<joe6pack>randomquote
+(07:31:15)<null>tiles:  http://www.reinerstileset.4players.de:1059/englisch.htm
+(07:31:16)<joe6pack>randomquote
+(07:31:16)<null>joe6bot: <DaEezT> joe's sexbot
+(07:31:18)<joe6pack>randomquote
+(07:31:18)<null>tiles:  http://wiki.allegro.cc/Graphics_Depot
+(07:31:24)<joe6pack>randomquote
+(07:31:24)<null>books:  'A Wild Sheep Chase' by Haruki Murakami
+(07:31:26)<joe6pack>randomquote
+(07:31:26)<null>joe6bot: <DaEezT> joe's sexbot
+(07:50:13)<purestrain>uah... if someone of these people at pixeljoin could help me for the roguelike :-)
+(07:50:41)<joe6pack>the one i liked the most had no contact info :(
+(07:53:12)<RotateMe_away>doesn't it have a pm system?
+(07:53:51)<RotateMe_away>or comment on one of his pics
+(07:53:54)<RotateMe_away>you might be lucky
+(07:55:28)<joe6pack>when the time comes...
+(07:55:41)<joe6pack>but his last post is from 2006, so i am not optimistic
+(08:21:26)<joe6pack>hi there Aerton 
+(08:23:29)<Aerton>hi there
+(08:23:32)<Glowie>Evening Aerton
+(08:23:55)<Glowie>Or perhaps early morning for you >_<
+(08:24:10)<Glowie>Have you been crunching at work lately?
+(08:24:13)<Aerton>midway from evening to morning ^^
+(08:24:18)<Glowie>Hehe
+(08:24:33)<Aerton>not today
+(08:24:50)<Glowie>But the past week?
+(08:25:06)<Aerton>yeah, I missed 7drl because of that :/
+(08:25:44)<Glowie>I thought so :<
+(08:26:20)<deveah>who needs commandprompt guis?
+(08:26:33)<Glowie>What is a commandprompt gui?
+(08:26:46)<Glowie>Command prompt + graphical user interface don't meet in my head
+(08:28:45)<deveah>i *can* do that, but with basic-speed it would probably suck
+(08:29:00)<deveah>textbox,label,button
+(08:29:29)<Glowie>That's just weird :P
+(08:29:48)<deveah>well visual basic for dos has those and looks kewl
+(08:35:02)<joe6pack>there is also some curses based library (cdt?)  that does something like that
+(08:35:43)<Aerton>there was borland turbo vision
+(08:36:09)<Aerton>it's not command-prompt at all
+(08:36:22)<Aerton>just a gui
+(08:36:56)<joe6pack>yea, just implemented with ascii 
+(09:33:23)<jomiolto>hello beautiful people :)
+(09:44:12)<purestrain>hello
+(09:45:52)<jomiolto>finally got around to making a roguebasin page for Alan's Psychedelic Journey
+(09:51:27)<jomiolto>hmm, there's going to be a lot of fresh roguelikes to try out if the 7drl contest has a good success rate
+(09:51:56)<purestrain>try my aborted one and tell me if it runs at least ;-) if you have windows, of course
+(09:52:36)<jomiolto>hmm, well, I do have Vista, but I'm too lazy to boot to it right now, but I'll try it again later (if i remember, that is)
+(09:52:58)<jomiolto>which one is it?
+(09:53:20)<purestrain>http://retroforge.de/%7Emd/wp-content/uploads/2008/03/residentevil.png <- this one, the zombie roguelike
+(09:54:47)<jomiolto>okay, I downloaded it and I'll try it when I boot to windows
+(09:55:36)<purestrain>its very well balanced... i actually finished the game with only one enemy encounter
+(09:55:43)<purestrain>zombies take far to long for reanimation
+(09:56:07)<purestrain>and i forgot to make the clip size smaller... 150 shots / clip was for debugging only :-)
+(09:56:47)<jomiolto>it looks quite interesting :)
++++ The date has changed: 2008/03/15 +++
+(11:53:28)<deveah>i hate this day
+(11:53:45)<deveah>190% hate
+(12:19:15)<RotateMe>hi
+(12:19:19)<RotateMe>why the topic?
+(12:20:31)<deveah>because it's been a bad day
+(12:21:12)<RotateMe>well i just got up but i have a headache so that's fine with me
+(12:24:22)<deveah>and magyar ppl have started celebrating their national day HERE in ROMANIA
+(12:24:47)<deveah>and they keep making pressures so they can get TRANSYLVANIA
+(12:25:40)<deveah>and the channel's ppl count is 13!!!!!
++++ The date has changed: 2008/03/16 +++
+(10:53:03)<joe6pack>morning 
+(10:53:08)<joe6pack>no topic?
+(10:53:45)<RotateMe>changed it this second
+(10:54:18)<RotateMe>deveah was in a bad mood yesterday and changed it because of some national day or sth
+(10:54:32)<joe6pack>heh
+(10:55:07)<RotateMe>hmm doesn't the channel remember that i was op not only voiced yesterday?
+(10:55:12)<joe6pack>was that whole romania\hungary ~2 centuries ago?
+(10:55:20)<joe6pack>i didn't auto op you
+(10:55:29)<joe6pack>just normnal op
+(10:55:32)<RotateMe>okay
+(10:55:39)<joe6pack>so when you log out it isn't saved
+(10:55:41)<RotateMe>i don't know anything bout irc
+(10:56:50)<joe6pack>getquote tiles
+(10:56:50)<null>tiles(0):  http://www.reinerstileset.4players.de:1059/englisch.htm
+(10:56:50)<null>tiles(1):  http://pousse.rapiere.free.fr/tome/
+(10:56:50)<null>tiles(2):  http://rltiles.sourceforge.net/
+(10:56:50)<null>tiles(3):  http://wiki.allegro.cc/Graphics_Depot
+(10:57:06)<joe6pack>quote tiles, http://lostgarden.com/2006/07/more-free-game-graphics.html
+(10:57:08)<RotateMe>wasn't there one more yesterday?
+(10:57:09)<joe6pack>getquote tiles
+(10:57:09)<null>tiles(0):  http://www.reinerstileset.4players.de:1059/englisch.htm
+(10:57:09)<null>tiles(1):  http://pousse.rapiere.free.fr/tome/
+(10:57:09)<null>tiles(2):  http://rltiles.sourceforge.net/
+(10:57:09)<null>tiles(3):  http://wiki.allegro.cc/Graphics_Depot
+(10:57:09)<null>tiles(4):  http://lostgarden.com/2006/07/more-free-game-graphics.html
+(10:57:23)<joe6pack>no, only the 1st 4
+(10:57:28)<RotateMe>wow
+(10:57:28)<joe6pack>and now 5 :)
+(10:57:31)<RotateMe>they are hawt
+(10:57:55)<RotateMe>thought you had added the tiles you might use for your wc1-like
+(10:58:27)<joe6pack>these weren't really tiles though, just some sketches 
+(10:58:47)<joe6pack>i mean they were not in a format you could just drop in a game
+(11:00:02)<RotateMe>not?
+(11:00:21)<joe6pack>not the ones from that pixel art website at least 
+(11:00:28)<RotateMe>the second file with the pink-ish background
+(11:00:38)<RotateMe>i would use them like this to add them to a game
+(11:00:41)<joe6pack>yea, but these were very few tiles
+(11:00:50)<joe6pack>only a couple of units
+(11:00:54)<deveah>i think numbers si a great 7drl
+(11:01:20)<joe6pack>anyway you can it if you'd like
+(11:01:28)<joe6pack>"can add it"
+(11:10:27)<RotateMe>shouldn't most of the 7drls be finished today or when did they all start?
+(11:10:34)<joe6pack>yes
+(02:27:44)<deveah_>somethingwithzombies rocks!
+(02:37:13)<cakeboy>yeah
+(02:37:20)<cakeboy>the only thing i didn't like about it was the controls :(
+(03:03:24)<deveah_>what do you see wrong here: http://rafb.net/p/wbTKqP97.html
+(03:03:25)<deveah_>?
+(03:20:22)<RotateMe>i's VB?
+(03:20:26)<RotateMe>*it's
+(03:22:30)<RotateMe>hmm nothing else from quickly scanning through it
+(03:31:34)<deveah_>it's freebasic
+(03:34:10)<RotateMe>did you find the error?
+(03:37:25)<deveah_>it seems to be an endless loop
+(03:40:34)<deveah_>nevermind
+(04:01:51)<RotateMe>rgrd news
+(04:01:52)<null>Abandoned: : 'A Knight in the Dungeon'
+(04:01:52)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/433af56481a60fb7
+(04:01:52)<null>Lighting Model - Some output
+(04:01:52)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/573388a549600a7c
+(04:01:52)<null>Re: 7DRL - chrysalis
+(04:01:52)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/fd21bab01fd056e7
+(04:01:52)<null>7DRL: Zomband Expansion submission.
+(04:01:52)<null>http://groups.google.com/group/rec.games.roguelike.development/msg/a136b25c0f3a19c3
+(05:41:43)<purestrain>somethingwithzombies rock? did i read it right?
+(05:41:53)<purestrain>perhaps i should continue development over time :-)
