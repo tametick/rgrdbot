@@ -21,3 +21,12 @@
 [svn-merge]  after log.txt was merged Joe6Bot only added new lines to the log after being restarted
 [books]  <oeb> 'The Road' by Cormac McCarthy.
 [books]  'A Wild Sheep Chase' by Haruki Murakami
+[fov]  http://jice.nospam.googlepages.com/visibilitydetermination
+[warcraft1]  http://www.gamewinners.com/faq.php?game=w/Warcraft-JKang.txt
+[warcraft1]  http://www.gamefaqs.com/computer/doswin/file/565021/23041
+[tiles]  http://www.reinerstileset.4players.de:1059/englisch.htm
+[tiles]  http://pousse.rapiere.free.fr/tome/
+[tiles]  http://rltiles.sourceforge.net/
+[tiles]  http://wiki.allegro.cc/Graphics_Depot
+[pixelart]  http://pixeljoint.com/p/4398.htm
+[tiles]  http://lostgarden.com/2006/07/more-free-game-graphics.html
