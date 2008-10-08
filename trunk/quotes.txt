@@ -35,3 +35,19 @@
 [Aviel] RotateMe's upcoming realtime RL
 [krice]  do you think krice is a real person?
 [krice]   or just a troll
+[lotd]  http://www.foreworks.com/hacker.html
+[mouse]  < Aerton> http://voffka.com.nyud.net/pic/siv_mouse/image_3.jpg
+[strkitten] < TMC2> The strkitten function is a baby version of strcat that has less experience points and a weaker attack; see [[kitten]], [[cat]].
+[term] <@joe6pack> http://www.loria.fr/~rougier/sdl-terminal.html
+[sdl] <@joe6pack> http://www.loria.fr/~rougier/sdl-terminal.html
+[line-drawing] http://www.mkssoftware.com/docs/man3/curs_addch.3.asp
+[puzzle] sokoban
+[puzzle]  http://en.wikipedia.org/wiki/List_of_open-source_games_by_genre#Puzzle.2Faction.2Farcade
+[puzzle] http://en.wikipedia.org/wiki/Logic_puzzle
+[puzzle] http://en.wikipedia.org/wiki/Sliding_puzzle
+[puzzle] http://en.wikipedia.org/wiki/Transport_puzzle
+[continuous level]  http://sourceforge.net/projects/yakamura-legacy
+[line-drawing]  <the_ru> improve_walls() in level.c
+[trains] <@ido> do they don't have them in brazil?
+[java-curses] http://code.google.com/p/libjcsi/
+[good-ideas] http://groups.google.com/group/rec.games.roguelike.development/msg/cf8bbb36518d33a3 
