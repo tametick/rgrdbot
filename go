@@ -1,1 +1,1 @@
-java -classpath pircbot.jar:rssutils.jar:. Joe6botMain Joe6bot
+java -classpath pircbot.jar:rssutils.jar:. Joe6botMain bit_golem
