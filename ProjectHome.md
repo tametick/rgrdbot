@@ -1,0 +1,1 @@
+Based on pircbot, this is a group effort to entertain us in an automated and distributed fashion.
